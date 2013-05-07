@@ -1,0 +1,275 @@
+# Reading D:/modeltech_10.0c/tcl/vsim/pref.tcl 
+# //  ModelSim SE 10.0c Jul 21 2011 
+# //
+# //  Copyright 1991-2011 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# do {top_itype_tb.fdo} 
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module g_p
+# 
+# Top level modules:
+# 	g_p
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module add
+# 
+# Top level modules:
+# 	add
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module cla_2
+# 
+# Top level modules:
+# 	cla_2
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module cla_4
+# 
+# Top level modules:
+# 	cla_4
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module cla_8
+# 
+# Top level modules:
+# 	cla_8
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module cla_16
+# 
+# Top level modules:
+# 	cla_16
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module cla_32
+# 
+# Top level modules:
+# 	cla_32
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module top_cla_32
+# 
+# Top level modules:
+# 	top_cla_32
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module add1
+# 
+# Top level modules:
+# 	add1
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module barrelshifter32
+# 
+# Top level modules:
+# 	barrelshifter32
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module addsub32
+# 
+# Top level modules:
+# 	addsub32
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module slt
+# 
+# Top level modules:
+# 	slt
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module mux4x32
+# 
+# Top level modules:
+# 	mux4x32
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module mux2x32
+# 
+# Top level modules:
+# 	mux2x32
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module bshifter32_carry
+# 
+# Top level modules:
+# 	bshifter32_carry
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module regfiles
+# 
+# Top level modules:
+# 	regfiles
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module ram
+# 
+# Top level modules:
+# 	ram
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module ext
+# 
+# Top level modules:
+# 	ext
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module controlunit
+# 
+# Top level modules:
+# 	controlunit
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module pipe_wb
+# 
+# Top level modules:
+# 	pipe_wb
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module pipe_mem
+# 
+# Top level modules:
+# 	pipe_mem
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module pipe_if
+# 
+# Top level modules:
+# 	pipe_if
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module pipe_id
+# 
+# Top level modules:
+# 	pipe_id
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module pipe_exe
+# 
+# Top level modules:
+# 	pipe_exe
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module dffe
+# 
+# Top level modules:
+# 	dffe
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module top_cpu
+# 
+# Top level modules:
+# 	top_cpu
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module top_itype_tb
+# 
+# Top level modules:
+# 	top_itype_tb
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# vsim -L xilinxcorelib_ver -L unisims_ver -L secureip -lib work -voptargs=\"+acc\" -t 1ps work.top_itype_tb glbl 
+# Loading work.top_itype_tb
+# Loading work.top_cpu
+# Loading work.dffe
+# Loading work.pipe_if
+# Loading work.ram
+# Loading work.top_cla_32
+# Loading work.cla_32
+# Loading work.cla_16
+# Loading work.cla_8
+# Loading work.cla_4
+# Loading work.cla_2
+# Loading work.add
+# Loading work.g_p
+# Loading work.mux4x32
+# Loading work.pipe_id
+# Loading work.regfiles
+# Loading work.controlunit
+# Loading work.ext
+# Loading work.mux2x32
+# Loading work.pipe_exe
+# Loading work.alu
+# Loading work.addsub32
+# Loading work.add1
+# Loading work.slt
+# Loading work.bshifter32_carry
+# Loading work.barrelshifter32
+# Loading work.pipe_mem
+# Loading work.pipe_wb
+# Loading work.glbl
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by:   Hostname:   ProcessID: 8
+#           Attempting to use alternate WLF file "./wlftn6rrah".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftn6rrah
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+#  
+add wave -position end  sim:/top_itype_tb/uut/pipeid/rf/regfiles
+add wave -position 4  sim:/top_itype_tb/uut/instr
+restart
+restart
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+restart
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga_svn/cpu_pc_if_id_itype/controlunit.v
+# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# -- Compiling module controlunit
+# 
+# Top level modules:
+# 	controlunit
+restart
+# Loading work.controlunit
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43
+run
+# Break in Module regfiles at regfiles.v line 43

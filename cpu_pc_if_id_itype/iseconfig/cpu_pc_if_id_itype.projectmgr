@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="cpu_pc_if_id_itype" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/pipe_mem E:|fpga_svn|cpu_pc_if_id_itype|pipe_mem.v</ClosedNode>
+         <ClosedNode>/pipe_wb E:|fpga_svn|cpu_pc_if_id_itype|pipe_wb.v</ClosedNode>
+         <ClosedNode>/top_cpu E:|fpga_svn|cpu_pc_if_id_itype|top_cpu.v/pipeexe - pipe_exe</ClosedNode>
+         <ClosedNode>/top_cpu E:|fpga_svn|cpu_pc_if_id_itype|top_cpu.v/pipeexe - pipe_exe/alu - alu</ClosedNode>
+         <ClosedNode>/top_cpu E:|fpga_svn|cpu_pc_if_id_itype|top_cpu.v/pipeif - pipe_if/pcplus4 - top_cla_32</ClosedNode>
+         <ClosedNode>/top_cpu E:|fpga_svn|cpu_pc_if_id_itype|top_cpu.v/pipeif - pipe_if/pcplus8 - top_cla_32</ClosedNode>
+         <ClosedNode>/top_cpu E:|fpga_svn|cpu_pc_if_id_itype|top_cpu.v/pipemem - pipe_mem</ClosedNode>
+         <ClosedNode>/top_cpu E:|fpga_svn|cpu_pc_if_id_itype|top_cpu.v/pipewb - pipe_wb</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>top_cpu (E:/fpga_svn/cpu_pc_if_id_itype/top_cpu.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000133000000020000000000000000000000000200000064ffffffff000000810000000300000002000001330000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>top_cpu (E:/fpga_svn/cpu_pc_if_id_itype/top_cpu.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Utilities</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000012b000000010000000100000000000000000000000064ffffffff0000008100000000000000010000012b0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Utilities</CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000143000000040101000100000000000000000000000064ffffffff0000008100000000000000040000003d00000001000000000000002400000001000000000000007800000001000000000000006a0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000013c000000010001000100000000000000000000000064ffffffff0000008100000000000000010000013c0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design/Map</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route/Back-annotate Pin Locations</ClosedNode>
+         <ClosedNode>Implement Design/Place &amp; Route/Generate IBIS Model</ClosedNode>
+         <ClosedNode>Implement Design/Translate</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Synthesize - XST</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000105000000010000000100000000000000000000000064ffffffff000000810000000000000001000001050000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Synthesize - XST</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff0000000000000002000001640000006e01000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/alu_tb E:|fpga_svn|cpu_pc_if_id_itype|alu_tb.v</ClosedNode>
+         <ClosedNode>/bshifter32_carry_tb E:|fpga_svn|cpu_pc_if_id_itype|bshifter32_carry_tb.v</ClosedNode>
+         <ClosedNode>/ext_tb E:|fpga_svn|cpu_pc_if_id_itype|ext_tb.v</ClosedNode>
+         <ClosedNode>/slt_tb E:|fpga_svn|cpu_pc_if_id_itype|slt_tb.v</ClosedNode>
+         <ClosedNode>/sltsltu_tb E:|fpga_svn|cpu_pc_if_id_itype|sltsltu_tb.v</ClosedNode>
+         <ClosedNode>/top_itype_tb E:|fpga_svn|cpu_pc_if_id_itype|top_itype_tb.v/uut - top_cpu/pipeexe - pipe_exe</ClosedNode>
+         <ClosedNode>/top_itype_tb E:|fpga_svn|cpu_pc_if_id_itype|top_itype_tb.v/uut - top_cpu/pipeif - pipe_if/pcplus4 - top_cla_32</ClosedNode>
+         <ClosedNode>/top_itype_tb E:|fpga_svn|cpu_pc_if_id_itype|top_itype_tb.v/uut - top_cpu/pipeif - pipe_if/pcplus8 - top_cla_32</ClosedNode>
+         <ClosedNode>/top_itype_tb E:|fpga_svn|cpu_pc_if_id_itype|top_itype_tb.v/uut - top_cpu/pipewb - pipe_wb</ClosedNode>
+         <ClosedNode>/top_tb E:|fpga_svn|cpu_pc_if_id_itype|top_tb.v</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>cu - controlunit (E:/fpga_svn/cpu_pc_if_id_itype/controlunit.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >2</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000147000000020000000000000000000000000200000064ffffffff000000810000000300000002000001470000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>cu - controlunit (E:/fpga_svn/cpu_pc_if_id_itype/controlunit.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000013c000000010000000100000000000000000000000064ffffffff0000008100000000000000010000013c0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000187000000010000000100000000000000000000000064ffffffff000000810000000000000001000001870000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+</Project>

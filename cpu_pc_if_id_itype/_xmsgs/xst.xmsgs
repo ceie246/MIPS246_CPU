@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1670" delta="old" >"E:\fpga_svn\cpu_pc_if_id_itype\ram.v" Line 46: Signal &lt;<arg fmt="%s" index="1">ram</arg>&gt; in initial block is partially initialized.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\fpga_svn\cpu_pc_if_id_itype\pipe_if.v" Line 42: Assignment to <arg fmt="%s" index="1">npc4_carry</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\fpga_svn\cpu_pc_if_id_itype\pipe_if.v" Line 43: Assignment to <arg fmt="%s" index="1">npc8_carry</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\fpga_svn\cpu_pc_if_id_itype\addsub32.v" Line 58: Assignment to <arg fmt="%s" index="1">add_cout</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="old" >"E:\fpga_svn\cpu_pc_if_id_itype\addsub32.v" Line 68: Signal &lt;<arg fmt="%s" index="1">add_result</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="old" >"E:\fpga_svn\cpu_pc_if_id_itype\addsub32.v" Line 69: Signal &lt;<arg fmt="%s" index="1">addu_result</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="old" >"E:\fpga_svn\cpu_pc_if_id_itype\addsub32.v" Line 75: Signal &lt;<arg fmt="%s" index="1">addu_result</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="91" delta="old" >"E:\fpga_svn\cpu_pc_if_id_itype\addsub32.v" Line 76: Signal &lt;<arg fmt="%s" index="1">addu_cout</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\fpga_svn\cpu_pc_if_id_itype\slt.v" Line 33: Assignment to <arg fmt="%s" index="1">c_r</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\fpga_svn\cpu_pc_if_id_itype\top_cpu.v" Line 99: Assignment to <arg fmt="%s" index="1">carry</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/fpga_svn/cpu_pc_if_id_itype/top_cpu.v</arg>&quot; line <arg fmt="%d" index="2">96</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">pcreg</arg>&gt; of block &lt;<arg fmt="%s" index="4">dffe</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">top_cpu</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/fpga_svn/cpu_pc_if_id_itype/top_cpu.v</arg>&quot; line <arg fmt="%d" index="2">97</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">pipeif</arg>&gt; of block &lt;<arg fmt="%s" index="4">pipe_if</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">top_cpu</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/fpga_svn/cpu_pc_if_id_itype/top_cpu.v</arg>&quot; line <arg fmt="%d" index="2">98</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">pipeid</arg>&gt; of block &lt;<arg fmt="%s" index="4">pipe_id</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">top_cpu</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/fpga_svn/cpu_pc_if_id_itype/top_cpu.v</arg>&quot; line <arg fmt="%d" index="2">99</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">pipeexe</arg>&gt; of block &lt;<arg fmt="%s" index="4">pipe_exe</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">top_cpu</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/fpga_svn/cpu_pc_if_id_itype/top_cpu.v</arg>&quot; line <arg fmt="%d" index="2">100</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">pipemem</arg>&gt; of block &lt;<arg fmt="%s" index="4">pipe_mem</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">top_cpu</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/fpga_svn/cpu_pc_if_id_itype/top_cpu.v</arg>&quot; line <arg fmt="%d" index="2">101</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">pipewb</arg>&gt; of block &lt;<arg fmt="%s" index="4">pipe_wb</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">top_cpu</arg>&gt;. Underlying logic will be removed.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/fpga_svn/cpu_pc_if_id_itype/top_cpu.v</arg>&quot; line <arg fmt="%s" index="2">99</arg>: Output port &lt;<arg fmt="%s" index="3">carry</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pipeexe</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/fpga_svn/cpu_pc_if_id_itype/top_cpu.v</arg>&quot; line <arg fmt="%s" index="2">99</arg>: Output port &lt;<arg fmt="%s" index="3">negative</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pipeexe</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/fpga_svn/cpu_pc_if_id_itype/top_cpu.v</arg>&quot; line <arg fmt="%s" index="2">99</arg>: Output port &lt;<arg fmt="%s" index="3">overflow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pipeexe</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/fpga_svn/cpu_pc_if_id_itype/addsub32.v</arg>&quot; line <arg fmt="%s" index="2">58</arg>: Output port &lt;<arg fmt="%s" index="3">co</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">add_32</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/fpga_svn/cpu_pc_if_id_itype/slt.v</arg>&quot; line <arg fmt="%s" index="2">33</arg>: Output port &lt;<arg fmt="%s" index="3">c</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">addsub_slt</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/fpga_svn/cpu_pc_if_id_itype/slt.v</arg>&quot; line <arg fmt="%s" index="2">33</arg>: Output port &lt;<arg fmt="%s" index="3">overflow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">addsub_slt</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+</messages>
+
