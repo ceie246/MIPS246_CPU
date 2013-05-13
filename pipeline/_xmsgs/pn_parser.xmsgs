@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/add.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/add1.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/addsub32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/alu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/barrelshifter32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/bshifter32_carry.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/cla_16.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/cla_2.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/cla_32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/cla_4.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/cla_8.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/controlunit.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/dff.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/dffe.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/dffs.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/ext.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/g_p.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/mux2x32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/mux4x32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/pipe_exe.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/pipe_id.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/pipe_if.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/pipe_mem.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/pipe_wb.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/ram.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/reg_exe_mem.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/reg_id_exe.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/reg_if_id.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/reg_mem_wb.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/regfiles.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/slt.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/top_cla_32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline/top_cpu.v&quot; into library work</arg>
+</msg>
+
+</messages>
+
