@@ -1,0 +1,122 @@
+Release 13.3 - xst O.76xd (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to E:/fpga_svn/pipeline_datahazard/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 2.00 secs
+Total CPU time to Xst completion: 2.54 secs
+ 
+--> Parameter xsthdpdir set to E:/fpga_svn/pipeline_datahazard/xst
+
+
+Total REAL time to Xst completion: 2.00 secs
+Total CPU time to Xst completion: 2.54 secs
+ 
+--> Reading design: top_cpu.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\g_p.v" into library work
+Parsing module <g_p>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\add.v" into library work
+Parsing module <add>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\cla_2.v" into library work
+Parsing module <cla_2>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\cla_4.v" into library work
+Parsing module <cla_4>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\cla_8.v" into library work
+Parsing module <cla_8>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\cla_16.v" into library work
+Parsing module <cla_16>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\cla_32.v" into library work
+Parsing module <cla_32>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\top_cla_32.v" into library work
+Parsing module <top_cla_32>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\add1.v" into library work
+Parsing module <add1>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\barrelshifter32.v" into library work
+Parsing module <barrelshifter32>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\addsub32.v" into library work
+Parsing module <addsub32>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\slt.v" into library work
+Parsing module <slt>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\mux4x32.v" into library work
+Parsing module <mux4x32>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\mux2x32.v" into library work
+Parsing module <mux2x32>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\data_hazard.v" into library work
+Parsing module <data_hazard>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\bshifter32_carry.v" into library work
+Parsing module <bshifter32_carry>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\regfiles.v" into library work
+Parsing module <regfiles>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\ram.v" into library work
+Parsing module <ram>.
+INFO:HDLCompiler:693 - "E:\fpga_svn\pipeline_datahazard\ram.v" Line 37. parameter declaration becomes local in ram with formal parameter declaration list
+INFO:HDLCompiler:693 - "E:\fpga_svn\pipeline_datahazard\ram.v" Line 38. parameter declaration becomes local in ram with formal parameter declaration list
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\ext.v" into library work
+Parsing module <ext>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\dffe.v" into library work
+Parsing module <dffe>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\dff.v" into library work
+Parsing module <dff>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\controlunit.v" into library work
+Parsing module <controlunit>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\alu.v" into library work
+Parsing module <alu>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\reg_mem_wb.v" into library work
+Parsing module <reg_mem_wb>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\reg_if_id.v" into library work
+Parsing module <reg_if_id>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\reg_id_exe.v" into library work
+Parsing module <reg_id_exe>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\reg_exe_mem.v" into library work
+Parsing module <reg_exe_mem>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\pipe_wb.v" into library work
+Parsing module <pipe_wb>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\pipe_mem.v" into library work
+Parsing module <pipe_mem>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\pipe_if.v" into library work
+Parsing module <pipe_if>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\pipe_id.v" into library work
+Parsing module <pipe_id>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\pipe_exe.v" into library work
+Parsing module <pipe_exe>.
+Analyzing Verilog file "E:\fpga_svn\pipeline_datahazard\top_cpu.v" into library work
+Parsing module <top_cpu>.
+
+
+Total REAL time to Xst completion: 7.00 secs
+Total CPU time to Xst completion: 6.59 secs
+ 
+--> 
+
+Total memory usage is 137540 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
