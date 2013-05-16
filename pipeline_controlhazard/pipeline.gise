@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="pipeline.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_MODELSIM_CMD" xil_pn:name="top_cpu.fdo"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="top_cpu.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="top_cpu.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="top_cpu.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_MODELSIM_CMD" xil_pn:name="top_itype_tb.fdo"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_MODELSIM_LOG" xil_pn:name="vsim.wlf"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="work"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1368688650" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1368688650">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1368705872" xil_pn:in_ck="8554813193116708281" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1368705872">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="add.v"/>
+      <outfile xil_pn:name="add1.v"/>
+      <outfile xil_pn:name="addsub32.v"/>
+      <outfile xil_pn:name="alu.v"/>
+      <outfile xil_pn:name="barrelshifter32.v"/>
+      <outfile xil_pn:name="bshifter32_carry.v"/>
+      <outfile xil_pn:name="cla_16.v"/>
+      <outfile xil_pn:name="cla_2.v"/>
+      <outfile xil_pn:name="cla_32.v"/>
+      <outfile xil_pn:name="cla_4.v"/>
+      <outfile xil_pn:name="cla_8.v"/>
+      <outfile xil_pn:name="controlunit.v"/>
+      <outfile xil_pn:name="data_hazard.v"/>
+      <outfile xil_pn:name="dff.v"/>
+      <outfile xil_pn:name="dffe.v"/>
+      <outfile xil_pn:name="equal.v"/>
+      <outfile xil_pn:name="ext.v"/>
+      <outfile xil_pn:name="g_p.v"/>
+      <outfile xil_pn:name="mux2x32.v"/>
+      <outfile xil_pn:name="mux4x32.v"/>
+      <outfile xil_pn:name="pipe_exe.v"/>
+      <outfile xil_pn:name="pipe_id.v"/>
+      <outfile xil_pn:name="pipe_if.v"/>
+      <outfile xil_pn:name="pipe_mem.v"/>
+      <outfile xil_pn:name="pipe_wb.v"/>
+      <outfile xil_pn:name="ram.v"/>
+      <outfile xil_pn:name="reg_exe_mem.v"/>
+      <outfile xil_pn:name="reg_id_exe.v"/>
+      <outfile xil_pn:name="reg_if_id.v"/>
+      <outfile xil_pn:name="reg_mem_wb.v"/>
+      <outfile xil_pn:name="regfiles.v"/>
+      <outfile xil_pn:name="slt.v"/>
+      <outfile xil_pn:name="top_cla_32.v"/>
+      <outfile xil_pn:name="top_cpu.v"/>
+      <outfile xil_pn:name="top_itype_tb.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1368705895" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-4414356693079494583" xil_pn:start_ts="1368705895">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1368705895" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-2947274692872078841" xil_pn:start_ts="1368705895">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1368688650" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="9150471761969183774" xil_pn:start_ts="1368688650">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1368705872" xil_pn:in_ck="8554813193116708281" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1368705872">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="add.v"/>
+      <outfile xil_pn:name="add1.v"/>
+      <outfile xil_pn:name="addsub32.v"/>
+      <outfile xil_pn:name="alu.v"/>
+      <outfile xil_pn:name="barrelshifter32.v"/>
+      <outfile xil_pn:name="bshifter32_carry.v"/>
+      <outfile xil_pn:name="cla_16.v"/>
+      <outfile xil_pn:name="cla_2.v"/>
+      <outfile xil_pn:name="cla_32.v"/>
+      <outfile xil_pn:name="cla_4.v"/>
+      <outfile xil_pn:name="cla_8.v"/>
+      <outfile xil_pn:name="controlunit.v"/>
+      <outfile xil_pn:name="data_hazard.v"/>
+      <outfile xil_pn:name="dff.v"/>
+      <outfile xil_pn:name="dffe.v"/>
+      <outfile xil_pn:name="equal.v"/>
+      <outfile xil_pn:name="ext.v"/>
+      <outfile xil_pn:name="g_p.v"/>
+      <outfile xil_pn:name="mux2x32.v"/>
+      <outfile xil_pn:name="mux4x32.v"/>
+      <outfile xil_pn:name="pipe_exe.v"/>
+      <outfile xil_pn:name="pipe_id.v"/>
+      <outfile xil_pn:name="pipe_if.v"/>
+      <outfile xil_pn:name="pipe_mem.v"/>
+      <outfile xil_pn:name="pipe_wb.v"/>
+      <outfile xil_pn:name="ram.v"/>
+      <outfile xil_pn:name="reg_exe_mem.v"/>
+      <outfile xil_pn:name="reg_id_exe.v"/>
+      <outfile xil_pn:name="reg_if_id.v"/>
+      <outfile xil_pn:name="reg_mem_wb.v"/>
+      <outfile xil_pn:name="regfiles.v"/>
+      <outfile xil_pn:name="slt.v"/>
+      <outfile xil_pn:name="top_cla_32.v"/>
+      <outfile xil_pn:name="top_cpu.v"/>
+      <outfile xil_pn:name="top_itype_tb.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1368705896" xil_pn:in_ck="8554813193116708281" xil_pn:name="TRAN_MSimulateBehavioralModel" xil_pn:prop_ck="-3622564406904091749" xil_pn:start_ts="1368705895">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="top_itype_tb.fdo"/>
+      <outfile xil_pn:name="vsim.wlf"/>
+      <outfile xil_pn:name="work"/>
+    </transform>
+  </transforms>
+
+</generated_project>
