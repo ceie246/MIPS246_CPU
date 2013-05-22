@@ -1,0 +1,380 @@
+# Reading D:/modeltech_10.0b/tcl/vsim/pref.tcl 
+# //  ModelSim SE 10.0b May  5 2011 
+# //
+# //  Copyright 1991-2011 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# do {state_machine_tb.fdo} 
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine
+# 
+# Top level modules:
+# 	state_machine
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine_tb
+# 
+# Top level modules:
+# 	state_machine_tb
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# vsim -L xilinxcorelib_ver -L unisims_ver -L secureip -lib work -voptargs=\"+acc\" -t 1ps work.state_machine_tb glbl 
+# Loading work.state_machine_tb
+# Loading work.state_machine
+# Loading work.glbl
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+#  
+restart
+restart
+run
+# Break in Module state_machine at state_machine.v line 57
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run
+# Break in Module state_machine at state_machine.v line 77
+run
+restart
+run
+# Break in Module state_machine at state_machine.v line 57
+run
+# Break in Module state_machine at state_machine.v line 65
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga/ex_ram/state_machine.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine
+# 
+# Top level modules:
+# 	state_machine
+restart
+# Loading work.state_machine
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 57
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+# Next activity is in 20 ns.
+run -step
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga/ex_ram/state_machine.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine
+# ** Error: E:/fpga/ex_ram/state_machine.v(123): Undefined variable: nco_n.
+# ** Error: E:/fpga/ex_ram/state_machine.v(123): Undefined variable: cco_n.
+# D:/modeltech_10.0b/win32/vlog failed.
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga/ex_ram/state_machine.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine
+# 
+# Top level modules:
+# 	state_machine
+restart
+# Loading work.state_machine
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 57
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+run -step
+add wave -position end  sim:/state_machine_tb/uut/cstate
+add wave -position end  sim:/state_machine_tb/uut/nstate
+restart
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 57
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+add wave -position end  sim:/state_machine_tb/uut/ctri
+add wave -position end  sim:/state_machine_tb/uut/ntri
+restart
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 57
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 121
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga/ex_ram/state_machine.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine
+# 
+# Top level modules:
+# 	state_machine
+restart
+# Loading work.state_machine
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 57
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga/ex_ram/state_machine.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine
+# 
+# Top level modules:
+# 	state_machine
+restart
+# Loading work.state_machine
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 57
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga/ex_ram/state_machine_tb.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine_tb
+# 
+# Top level modules:
+# 	state_machine_tb
+restart
+# Loading work.state_machine_tb
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 57
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga/ex_ram/state_machine_tb.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine_tb
+# ** Error: E:/fpga/ex_ram/state_machine_tb.v(91): 'T' is not a task name.
+# D:/modeltech_10.0b/win32/vlog failed.
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga/ex_ram/state_machine_tb.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine_tb
+# 
+# Top level modules:
+# 	state_machine_tb
+restart
+# Loading work.state_machine_tb
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 57
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga/ex_ram/state_machine.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine
+# 
+# Top level modules:
+# 	state_machine
+restart
+# Loading work.state_machine
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 57
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga/ex_ram/state_machine.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine
+# 
+# Top level modules:
+# 	state_machine
+restart
+# Loading work.state_machine
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 57
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga/ex_ram/state_machine.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine
+# 
+# Top level modules:
+# 	state_machine
+restart
+# Loading work.state_machine
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 57
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 65
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga/ex_ram/state_machine.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine
+# ** Error: E:/fpga/ex_ram/state_machine.v(167): Register is illegal in left-hand side of continuous assignment
+# D:/modeltech_10.0b/win32/vlog failed.
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga/ex_ram/state_machine.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine
+# 
+# Top level modules:
+# 	state_machine
+restart
+# Loading work.state_machine
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 57
+run
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/fpga/ex_ram/state_machine.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module state_machine
+# 
+# Top level modules:
+# 	state_machine
+restart
+# Loading work.state_machine
+run
+# Break in Module state_machine at E:/fpga/ex_ram/state_machine.v line 57
+run
