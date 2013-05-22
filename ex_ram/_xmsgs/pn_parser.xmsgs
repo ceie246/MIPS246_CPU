@@ -8,7 +8,7 @@
 <!-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_datahazard_v1.02/reg_if_id.v&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga/ex_ram/state_machine_tb.v&quot; into library work</arg>
 </msg>
 
 </messages>

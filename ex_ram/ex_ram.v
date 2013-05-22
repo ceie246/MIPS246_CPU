@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date:    20:16:29 05/06/2013 
+// Create Date:    16:43:33 05/21/2013 
 // Design Name: 
-// Module Name:    reg_if_id 
+// Module Name:    ex_ram 
 // Project Name: 
 // Target Devices: 
 // Tool versions: 
@@ -18,16 +18,8 @@
 // Additional Comments: 
 //
 //////////////////////////////////////////////////////////////////////////////////
-module reg_if_id(
-			input clk,
-			input rst,
-			input ena,
-			input [31:0] pc8_if,
-			input [31:0] instr_if,
-			output[31:0] pc8_id,
-			output[31:0] instr_id
+module ex_ram(
     );
 
-dffe #(32) pc8_reg(clk, rst, ena, pc8_if, pc8_id);
-dffe #(32) instr_reg(clk, rst, ena && ~(^instr_if), instr_if, instr_id);
+
 endmodule

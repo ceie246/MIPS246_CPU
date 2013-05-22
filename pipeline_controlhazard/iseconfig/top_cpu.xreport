@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2013-05-16T15:22:51</DateModified>
+  <DateModified>2013-05-21T16:20:43</DateModified>
   <ModuleName>top_cpu</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>E:/fpga_svn/pipeline/iseconfig/top_cpu.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>E:/fpga_svn/pipeline\</ImplementationReportsDirectory>
+  <SavedFilePath>E:/GitHub/MIPS246_CPU/pipeline_controlhazard/iseconfig/top_cpu.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>E:/GitHub/MIPS246_CPU/pipeline_controlhazard\</ImplementationReportsDirectory>
   <DateInitialized>2013-05-15T19:42:41</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
