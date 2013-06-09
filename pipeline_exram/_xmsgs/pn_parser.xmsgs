@@ -8,7 +8,112 @@
 <!-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/fpga_svn/pipeline_exram/pipe_if.v&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/add.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/add1.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/addsub32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/alu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/barrelshifter32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/bshifter32_carry.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/cache.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/cla_16.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/cla_2.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/cla_32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/cla_4.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/cla_8.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/controlunit.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/data_hazard.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/dff.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/dffe.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/equal.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/ext.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/g_p.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/mux2x32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/mux4x32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/pipe_exe.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/pipe_id.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/pipe_if.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/pipe_mem.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/pipe_wb.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/ram.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/reg_exe_mem.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/reg_id_exe.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/reg_if_id.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/reg_mem_wb.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/regfiles.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/slt.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/top_cla_32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/top_cpu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/pipeline_exram/top_itype_tb.v&quot; into library work</arg>
 </msg>
 
 </messages>

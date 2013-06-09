@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2013-05-26T12:55:51</DateModified>
+  <DateModified>2013-05-27T20:30:23</DateModified>
   <ModuleName>top_cpu</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
-  <SavedFilePath>E:/fpga_svn/pipeline_exram/iseconfig/top_cpu.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>E:/fpga_svn/pipeline_exram</ImplementationReportsDirectory>
+  <SavedFilePath>E:/GitHub/MIPS246_CPU/pipeline_exram/iseconfig/top_cpu.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>E:/GitHub/MIPS246_CPU/pipeline_exram\</ImplementationReportsDirectory>
   <DateInitialized>2013-05-26T12:55:51</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
