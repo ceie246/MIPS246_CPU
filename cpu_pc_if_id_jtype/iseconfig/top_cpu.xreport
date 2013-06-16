@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2013-06-09T09:59:28</DateModified>
+  <DateModified>2013-06-08T22:42:26</DateModified>
   <ModuleName>top_cpu</ModuleName>
   <SummaryTimeStamp>2013-05-06T19:08:50</SummaryTimeStamp>
-  <SavedFilePath>E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/iseconfig/top_cpu.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype\</ImplementationReportsDirectory>
+  <SavedFilePath>E:/GitHub/MIPS246_CPU/cpu_pc_if_id_itype/iseconfig/top_cpu.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>E:/GitHub/MIPS246_CPU/cpu_pc_if_id_itype\</ImplementationReportsDirectory>
   <DateInitialized>2013-05-06T19:08:51</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

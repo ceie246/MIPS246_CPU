@@ -1,1 +1,0 @@
-xst -intstyle ise -ifn "E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/top_core.xst" -ofn "E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/top_core.syr" 

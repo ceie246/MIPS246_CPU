@@ -22,15 +22,11 @@ module top_cpu(
 		input clk,
 		input rst,
 		//修改imem时的数据
-		//input [31:0] iram_indata
-		input [31:0] bc_cpu_data,
-		output [31:0] cpu_bc_data,
-		output [31:0] cpu_bc_addr,
-		output cpu_bc_rw
+		input [31:0] iram_indata
     );
 
 //for test
-wire [31:0] iram_indata;
+//wire [31:0] iram_indata;
 
 //------------------------控制信号---------------------------
 //iram_ena: 指令寄存器使能信号， 常为高电平使能
@@ -116,7 +112,5 @@ assign wrf_addr = wa_e;
 assign dram_indata = rd2;
 assign dram_wena = wdmem;
 assign dram_ena = 1'b1;
-assign cpu_bc_data = dram_indata;
-assign cpu_bc_addr = alud;
-assign cpu_bc_rw = dram_wena;
+
 endmodule
