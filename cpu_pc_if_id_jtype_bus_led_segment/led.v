@@ -19,19 +19,19 @@
 //
 //////////////////////////////////////////////////////////////////////////////////
 module led(
-		input ena,
-		input FEPU_BEPU_w,
 		input [7:0] data_in,
-		output reg [7:0] data_out
+		output[7:0] data_out
     );
 
-always @(*) begin
-	if(ena && FEPU_BEPU_w) begin
-		data_out = data_in;
-	end else begin
-		data_out = 8'b0;
-	end
-	
-end
+//always @(*) begin
+//	if(ena && FEPU_BEPU_w) begin
+//		data_out = data_in;
+//	end else begin
+//		data_out = 8'b0;
+//	end
+//	
+//end
+
+assign data_out = data_in;
 
 endmodule

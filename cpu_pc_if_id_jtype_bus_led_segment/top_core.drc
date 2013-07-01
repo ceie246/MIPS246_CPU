@@ -1,12 +1,8 @@
 Release 13.3 Drc O.76xd (nt)
 Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
 
-Sun Jun 16 17:36:25 2013
+Mon Jul 01 00:01:24 2013
 
 drc -z top_core.ncd top_core.pcf
 
-WARNING:PhysDesignRules:372 - Gated clock. Clock net icon_control0<13> is
-   sourced by a combinatorial pin. This is not good design practice. Use the CE
-   pin to control the loading of data into the flip-flop.
-DRC detected 0 errors and 1 warnings.  Please see the previously displayed
-individual error or warning messages for more details.
+DRC detected 0 errors and 0 warnings.

@@ -43,7 +43,7 @@ module ram #(parameter WIDTH = 8, DEPTH = 3, INIT = 1)(
    //  contents via an external file (use $readmemb for binary data)
    initial begin
 		if(INIT)
-			$readmemh("write_led_jmp.txt", ram);
+			$readmemh("write_segment_contious.txt", ram);
 	end
 	
 	`ifdef WRITE_FIRST

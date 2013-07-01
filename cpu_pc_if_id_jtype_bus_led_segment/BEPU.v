@@ -30,7 +30,7 @@ module BEPU(
 		output [3:0] AN
     );
 
-led_controller ledcu(select[0], SW[2:1], FEPU_BEPU_w, FEPU_BEPU_data, led_data);
+led_controller ledcu(clk, rst, select[0], SW[2:1], FEPU_BEPU_w, FEPU_BEPU_data, led_data);
 segment_display_controller segmentcu(clk, rst, select[1], FEPU_BEPU_w, SW[0], FEPU_BEPU_data, AN, segment_data);
 
 endmodule

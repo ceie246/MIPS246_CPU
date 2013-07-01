@@ -21,8 +21,6 @@
 module top_segment_display(
 		input clk,
 		input rst,
-		input ena,
-		input FEPU_BEPU_w,
 		input [15:0] data_in,
 		output [3:0] AN,
 		output [7:0] data_out
@@ -36,7 +34,7 @@ always @(posedge clk or posedge rst) begin
 	if(rst) begin
 		ena_reg <= 4'b0;
 		data_out_reg <= 8'hff;
-	end else if(ena && FEPU_BEPU_w) begin
+	end else begin
 		case(ena_reg)
 			4'b0000: 
 			begin
@@ -69,10 +67,7 @@ always @(posedge clk or posedge rst) begin
 				data_out_reg <= 8'hff;
 			end
 		endcase
-	end else begin
-		ena_reg <= 4'b0000;
-		data_out_reg <= 8'hff;
-	end
+	end 
 end
 
 

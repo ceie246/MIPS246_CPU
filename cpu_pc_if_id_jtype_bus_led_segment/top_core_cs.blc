@@ -1,11 +1,14 @@
 Release 13.3 ngcbuild O.76xd (nt)
 Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
 
-Command Line: ngcbuild.exe -dd E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/_ngo -p
-xc6slx16-csg324-3 -i E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype\top_core.ngc
-E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype\top_core_cs.ngc
+Command Line: ngcbuild.exe -dd
+E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/_ngo -p
+xc6slx16-csg324-3 -i
+E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_core.ngc
+E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_core_cs.ngc
 
-Reading NGO file "E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/top_core.ngc" ...
+Reading NGO file
+"E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_core.ngc" ...
 
 Partition Implementation Status
 -------------------------------
@@ -18,11 +21,12 @@ NGCBUILD Design Results Summary:
   Number of errors:     0
   Number of warnings:   0
 
-Total memory usage is 116716 kilobytes
+Total memory usage is 117652 kilobytes
 
-Writing NGC file "E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/top_core_cs.ngc" ...
+Writing NGC file
+"E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_core_cs.ngc" ...
 Total REAL time to NGCBUILD completion:  2 sec
 Total CPU time to NGCBUILD completion:   2 sec
 
 Writing NGCBUILD log file
-"E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/top_core_cs.blc"...
+"E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_core_cs.blc"...

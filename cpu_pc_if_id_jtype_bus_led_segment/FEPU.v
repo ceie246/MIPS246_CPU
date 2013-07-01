@@ -32,10 +32,10 @@ wire [31:0] cpu_bc_addr;
 wire cpu_bc_rw;
 
 top_cpu cpu(clk, rst, bc_cpu_data, cpu_bc_data, cpu_bc_addr, cpu_bc_w);
-bus_controller bc(cpu_bc_addr, cpu_bc_w, FEPU_BEPU_select, FEPU_BEPU_w);//FEPU_BEPU_data,
+bus_controller bc(cpu_bc_addr, cpu_bc_data, cpu_bc_w, FEPU_BEPU_select, FEPU_BEPU_data, FEPU_BEPU_w);//FEPU_BEPU_data,
 
 assign FEPU_BEPU_addr = 32'b0;
 assign bc_cpu_data = 32'b0;
-assign FEPU_BEPU_data = cpu_bc_data;
+//assign FEPU_BEPU_data = cpu_bc_data;
 
 endmodule

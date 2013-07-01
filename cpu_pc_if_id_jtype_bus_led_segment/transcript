@@ -1,5 +1,5 @@
-# Reading D:/modeltech_10.0c/tcl/vsim/pref.tcl 
-# //  ModelSim SE 10.0c Jul 21 2011 
+# Reading D:/modeltech_10.0b/tcl/vsim/pref.tcl 
+# //  ModelSim SE 10.0b May  5 2011 
 # //
 # //  Copyright 1991-2011 Mentor Graphics Corporation
 # //  All Rights Reserved.
@@ -10,197 +10,197 @@
 # //
 # do {top_core_tb.fdo} 
 # ** Warning: (vlib-34) Library already exists at "work".
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module g_p
 # 
 # Top level modules:
 # 	g_p
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module add
 # 
 # Top level modules:
 # 	add
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module cla_2
 # 
 # Top level modules:
 # 	cla_2
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module cla_4
 # 
 # Top level modules:
 # 	cla_4
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module cla_8
 # 
 # Top level modules:
 # 	cla_8
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module cla_16
 # 
 # Top level modules:
 # 	cla_16
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module cla_32
 # 
 # Top level modules:
 # 	cla_32
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module top_cla_32
 # 
 # Top level modules:
 # 	top_cla_32
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module add1
 # 
 # Top level modules:
 # 	add1
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module barrelshifter32
 # 
 # Top level modules:
 # 	barrelshifter32
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module addsub32
 # 
 # Top level modules:
 # 	addsub32
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module slt
 # 
 # Top level modules:
 # 	slt
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module mux4x32
 # 
 # Top level modules:
 # 	mux4x32
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module mux2x32
 # 
 # Top level modules:
 # 	mux2x32
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module bshifter32_carry
 # 
 # Top level modules:
 # 	bshifter32_carry
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module regfiles
 # 
 # Top level modules:
 # 	regfiles
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module ram
 # 
 # Top level modules:
 # 	ram
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module led_seg7
 # 
 # Top level modules:
 # 	led_seg7
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module ext
 # 
 # Top level modules:
 # 	ext
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module controlunit
 # 
 # Top level modules:
 # 	controlunit
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module alu
 # 
 # Top level modules:
 # 	alu
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module top_segment_display
 # 
 # Top level modules:
 # 	top_segment_display
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module pipe_wb
 # 
 # Top level modules:
 # 	pipe_wb
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module pipe_mem
 # 
 # Top level modules:
 # 	pipe_mem
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module pipe_if
 # 
 # Top level modules:
 # 	pipe_if
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module pipe_id
 # 
 # Top level modules:
 # 	pipe_id
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module pipe_exe
 # 
 # Top level modules:
 # 	pipe_exe
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module led
 # 
 # Top level modules:
 # 	led
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module dffe
 # 
 # Top level modules:
 # 	dffe
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module top_cpu
 # 
 # Top level modules:
 # 	top_cpu
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module segment_display_controller
 # 
 # Top level modules:
 # 	segment_display_controller
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module led_controller
 # 
 # Top level modules:
 # 	led_controller
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module bus_controller
 # 
 # Top level modules:
 # 	bus_controller
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module FEPU
 # 
 # Top level modules:
 # 	FEPU
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module clk_div
 # 
 # Top level modules:
 # 	clk_div
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module BEPU
 # 
 # Top level modules:
 # 	BEPU
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module top_core
 # 
 # Top level modules:
 # 	top_core
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module top_core_tb
 # 
 # Top level modules:
 # 	top_core_tb
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module glbl
 # 
 # Top level modules:
@@ -247,59 +247,10 @@
 # Loading work.glbl
 # ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
 #           File in use by:   Hostname:   ProcessID: 8
-#           Attempting to use alternate WLF file "./wlftiytbyj".
+#           Attempting to use alternate WLF file "./wlftttxa2h".
 # ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlftiytbyj
+#           Using alternate file: ./wlftttxa2h
 # .main_pane.wave.interior.cs.body.pw.wf
 # .main_pane.structure.interior.cs.body.struct
 # .main_pane.objects.interior.cs.body.tree
 #  
-add wave -position end  sim:/top_core_tb/uut/FEPU/cpu/instr
-add wave -position end  sim:/top_core_tb/uut/FEPU/cpu/pc
-add wave -position end  sim:/top_core_tb/uut/FEPU/cpu/pipeif/iram/addr
-restart
-run
-run
-run
-run
-run
-vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/pipe_if.v
-# Model Technology ModelSim SE vlog 10.0c Compiler 2011.07 Jul 21 2011
-# -- Compiling module pipe_if
-# 
-# Top level modules:
-# 	pipe_if
-restart
-# Loading work.pipe_if
-run
-run
-run
-run
-add wave -position end  sim:/top_core_tb/uut/FEPU/cpu/pipeif/npc
-restart
-run
-run
-# Break in Module pipe_if at E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/pipe_if.v line 46
-run
-# Break in Module pipe_if at E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/pipe_if.v line 46
-run
-# Break in Module pipe_if at E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/pipe_if.v line 46
-run
-add wave -position end  sim:/top_core_tb/uut/FEPU/cpu/pipeif/iram/ram
-restart
-run
-run
-# Break in Module pipe_if at E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/pipe_if.v line 46
-run
-# Break in Module pipe_if at E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/pipe_if.v line 46
-run
-# Break in Module pipe_if at E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/pipe_if.v line 46
-run
-add wave -position end  sim:/top_core_tb/uut/FEPU/cpu/pipeif/pcplus4/a
-add wave -position end  sim:/top_core_tb/uut/FEPU/cpu/pipeif/pcplus4/b
-add wave -position end  sim:/top_core_tb/uut/FEPU/cpu/pipeif/pcplus4/c_in
-add wave -position end  sim:/top_core_tb/uut/FEPU/cpu/pipeif/pcplus4/c_out
-add wave -position end  sim:/top_core_tb/uut/FEPU/cpu/pipeif/pcplus4/s
-add wave -position end  sim:/top_core_tb/uut/FEPU/cpu/pipeif/pcplus4/g
-add wave -position end  sim:/top_core_tb/uut/FEPU/cpu/pipeif/pcplus4/p
-run

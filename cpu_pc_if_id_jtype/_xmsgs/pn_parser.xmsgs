@@ -8,5 +8,86 @@
 <!-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/add.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/add1.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/addsub32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/alu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/barrelshifter32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/bshifter32_carry.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/cla_16.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/cla_2.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/cla_32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/cla_4.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/cla_8.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/controlunit.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/dffe.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/ext.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/g_p.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/mux2x32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/mux4x32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/pipe_exe.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/pipe_id.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/pipe_if.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/pipe_mem.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/pipe_wb.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/ram.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/regfiles.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/slt.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/top_cla_32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype/top_cpu.v&quot; into library work</arg>
+</msg>
+
 </messages>
 

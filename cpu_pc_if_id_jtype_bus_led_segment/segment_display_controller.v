@@ -28,13 +28,25 @@ module segment_display_controller(
 		output [3:0] AN,
 		output [7:0] data_out
     );
+`include "segment.v"
 
 wire [15:0] segment_data;
-
+reg [31:0] segment_reg;
+//wire [7:0] data;
 //clk_div #(18) segment_clkdiv(clk, rst, clkdiv);
 //for test
 //clk_div #(2) segment_clkdiv(clk, rst, clkdiv);
-top_segment_display segmentdisplay(clk, rst, ena, FEPU_BEPU_w, segment_data, AN, data_out);//clkdiv
-mux2x32 #(16) select_segment(data_in[15:0], data_in[31:16], SW, segment_data);
 
+always @(posedge clk or posedge rst) begin
+	if(rst) begin
+		segment_reg <= 32'hffff_ffff;
+	end else if(ena && FEPU_BEPU_w)begin
+		segment_reg <= data_in;
+	end 
+end
+
+top_segment_display segmentdisplay(clk, rst, segment_data, AN, data_out);//clkdiv
+mux2x32 #(16) select_segment(segment_reg[15:0], segment_reg[31:16], SW, segment_data);
+
+//assign data_out = (ena && FEPU_BEPU_w) ? data : seg_off;
 endmodule

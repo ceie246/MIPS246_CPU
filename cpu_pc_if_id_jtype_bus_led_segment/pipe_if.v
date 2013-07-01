@@ -38,7 +38,7 @@ wire [31:0] pc4; //pc+4后产生的下一个pc值
 wire npc4_carry, npc8_carry; //npc4和npc8产生的进位，这里不使用
 wire [31:0] pc_beqbne, pc_jjal;
 
-ram #(32, 3) iram(clk, ram_ena, ram_wena, pc[4:2], ram_indata, ram_outdata);
+ram #(32, 5) iram(clk, ram_ena, ram_wena, pc[6:2], ram_indata, ram_outdata);
 top_cla_32 pcplus4(pc, 32'd4, 1'b0, npc4_carry, pc4);
 top_cla_32 pcplus8(pc4, 32'd4, 1'b0, npc8_carry, pc8);
 mux4x32 select_npc(pc4, pc_jr, pc_beqbne, pc_jjal, pcsource, npc);
