@@ -1,0 +1,9 @@
+//! **************************************************************************
+// Written by: Map O.76xd on Mon May 06 10:45:29 2013
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "clk" LOCATE = SITE "V10" LEVEL 1;
+COMP "rst" LOCATE = SITE "B8" LEVEL 1;
+SCHEMATIC END;
+

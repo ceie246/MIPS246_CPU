@@ -1,0 +1,448 @@
+Release 13.3 - xst O.76xd (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.09 secs
+ 
+--> Reading design: CLK_MANAGER.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "CLK_MANAGER.prj"
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "CLK_MANAGER"
+Output Format                      : NGC
+Target Device                      : xc6slx16-3-csg324
+
+---- Source Options
+Top Module Name                    : CLK_MANAGER
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Shift Register Extraction          : YES
+ROM Style                          : Auto
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Shift Register Minimum Size        : 2
+Use DSP Block                      : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+LUT Combining                      : Auto
+Reduce Control Sets                : Auto
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 16
+Register Duplication               : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Auto
+Use Synchronous Set                : Auto
+Use Synchronous Reset              : Auto
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Power Reduction                    : NO
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+DSP48 Utilization Ratio            : 100
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\dff.v" into library work
+Parsing module <dff>.
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\clk_div.v" into library work
+Parsing module <clk_div>.
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\CLK_MANAGER.v" into library work
+Parsing module <CLK_MANAGER>.
+
+=========================================================================
+*                            HDL Elaboration                            *
+=========================================================================
+
+Elaborating module <CLK_MANAGER>.
+WARNING:HDLCompiler:872 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\CLK_MANAGER.v" Line 30: Using initial value of init_rst since it is never assigned
+
+Elaborating module <dff>.
+
+Elaborating module <clk_div(SEL=3)>.
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <CLK_MANAGER>.
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/clk_manager.v".
+        clk = 3
+    Summary:
+	no macro.
+Unit <CLK_MANAGER> synthesized.
+
+Synthesizing Unit <dff>.
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/dff.v".
+        WIDTH = 1
+    Found 1-bit register for signal <q>.
+    Summary:
+	inferred   1 D-type flip-flop(s).
+Unit <dff> synthesized.
+
+Synthesizing Unit <clk_div>.
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/clk_div.v".
+        SEL = 3
+    Found 32-bit register for signal <clk_count>.
+    Found 32-bit adder for signal <clk_count[31]_GND_3_o_add_0_OUT> created at line 32.
+    Summary:
+	inferred   1 Adder/Subtractor(s).
+	inferred  32 D-type flip-flop(s).
+Unit <clk_div> synthesized.
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# Adders/Subtractors                                   : 1
+ 32-bit adder                                          : 1
+# Registers                                            : 2
+ 1-bit register                                        : 1
+ 32-bit register                                       : 1
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+
+Synthesizing (advanced) Unit <clk_div>.
+The following registers are absorbed into counter <clk_count>: 1 register on signal <clk_count>.
+Unit <clk_div> synthesized (advanced).
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Macro Statistics
+# Counters                                             : 1
+ 32-bit up counter                                     : 1
+# Registers                                            : 1
+ Flip-Flops                                            : 1
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+WARNING:Xst:2677 - Node <clkdiv/clk_count_4> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_5> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_6> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_7> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_8> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_9> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_10> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_11> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_12> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_13> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_14> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_15> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_16> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_17> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_18> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_19> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_20> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_21> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_22> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_23> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_24> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_25> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_26> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_27> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_28> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_29> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_30> of sequential type is unconnected in block <CLK_MANAGER>.
+WARNING:Xst:2677 - Node <clkdiv/clk_count_31> of sequential type is unconnected in block <CLK_MANAGER>.
+
+Optimizing unit <CLK_MANAGER> ...
+
+Mapping all equations...
+Building and optimizing final netlist ...
+Found area constraint ratio of 100 (+ 5) on block CLK_MANAGER, actual ratio is 0.
+
+Final Macro Processing ...
+
+=========================================================================
+Final Register Report
+
+Macro Statistics
+# Registers                                            : 5
+ Flip-Flops                                            : 5
+
+=========================================================================
+
+=========================================================================
+*                           Partition Report                            *
+=========================================================================
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+=========================================================================
+*                            Design Summary                             *
+=========================================================================
+
+Top Level Output File Name         : CLK_MANAGER.ngc
+
+Primitive and Black Box Usage:
+------------------------------
+# BELS                             : 13
+#      GND                         : 1
+#      INV                         : 1
+#      LUT1                        : 3
+#      MUXCY                       : 3
+#      VCC                         : 1
+#      XORCY                       : 4
+# FlipFlops/Latches                : 5
+#      FD                          : 5
+# Clock Buffers                    : 1
+#      BUFGP                       : 1
+# IO Buffers                       : 3
+#      IBUF                        : 1
+#      OBUF                        : 2
+
+Device utilization summary:
+---------------------------
+
+Selected Device : 6slx16csg324-3 
+
+
+Slice Logic Utilization: 
+ Number of Slice Registers:               4  out of  18224     0%  
+ Number of Slice LUTs:                    4  out of   9112     0%  
+    Number used as Logic:                 4  out of   9112     0%  
+
+Slice Logic Distribution: 
+ Number of LUT Flip Flop pairs used:      8
+   Number with an unused Flip Flop:       4  out of      8    50%  
+   Number with an unused LUT:             4  out of      8    50%  
+   Number of fully used LUT-FF pairs:     0  out of      8     0%  
+   Number of unique control sets:         2
+
+IO Utilization: 
+ Number of IOs:                           4
+ Number of bonded IOBs:                   4  out of    232     1%  
+    IOB Flip Flops/Latches:               1
+
+Specific Feature Utilization:
+ Number of BUFG/BUFGCTRLs:                1  out of     16     6%  
+
+---------------------------
+Partition Resource Summary:
+---------------------------
+
+  No Partitions were found in this design.
+
+---------------------------
+
+
+=========================================================================
+Timing Report
+
+NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
+      FOR ACCURATE TIMING INFORMATION PLEASE REFER TO THE TRACE REPORT
+      GENERATED AFTER PLACE-and-ROUTE.
+
+Clock Information:
+------------------
+-----------------------------------+------------------------+-------+
+Clock Signal                       | Clock buffer(FF name)  | Load  |
+-----------------------------------+------------------------+-------+
+clkdiv/clk_count_3                 | NONE(dff_res/q_0)      | 1     |
+clk_100M                           | BUFGP                  | 4     |
+-----------------------------------+------------------------+-------+
+INFO:Xst:2169 - HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+
+Asynchronous Control Signals Information:
+----------------------------------------
+No asynchronous control signals found in this design
+
+Timing Summary:
+---------------
+Speed Grade: -3
+
+   Minimum period: 1.724ns (Maximum Frequency: 580.097MHz)
+   Minimum input arrival time before clock: 1.903ns
+   Maximum output required time after clock: 3.668ns
+   Maximum combinational path delay: No path found
+
+Timing Details:
+---------------
+All values displayed in nanoseconds (ns)
+
+=========================================================================
+Timing constraint: Default period analysis for Clock 'clk_100M'
+  Clock period: 1.724ns (frequency: 580.097MHz)
+  Total number of paths / destination ports: 10 / 4
+-------------------------------------------------------------------------
+Delay:               1.724ns (Levels of Logic = 5)
+  Source:            clkdiv/clk_count_0 (FF)
+  Destination:       clkdiv/clk_count_3 (FF)
+  Source Clock:      clk_100M rising
+  Destination Clock: clk_100M rising
+
+  Data Path: clkdiv/clk_count_0 to clkdiv/clk_count_3
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FD:C->Q               1   0.447   0.579  clkdiv/clk_count_0 (clkdiv/clk_count_0)
+     INV:I->O              1   0.206   0.000  clkdiv/Mcount_clk_count_lut<0>_INV_0 (clkdiv/Mcount_clk_count_lut<0>)
+     MUXCY:S->O            1   0.172   0.000  clkdiv/Mcount_clk_count_cy<0> (clkdiv/Mcount_clk_count_cy<0>)
+     MUXCY:CI->O           1   0.019   0.000  clkdiv/Mcount_clk_count_cy<1> (clkdiv/Mcount_clk_count_cy<1>)
+     MUXCY:CI->O           0   0.019   0.000  clkdiv/Mcount_clk_count_cy<2> (clkdiv/Mcount_clk_count_cy<2>)
+     XORCY:CI->O           1   0.180   0.000  clkdiv/Mcount_clk_count_xor<3> (Result<3>)
+     FD:D                      0.102          clkdiv/clk_count_3
+    ----------------------------------------
+    Total                      1.724ns (1.145ns logic, 0.579ns route)
+                                       (66.4% logic, 33.6% route)
+
+=========================================================================
+Timing constraint: Default OFFSET IN BEFORE for Clock 'clkdiv/clk_count_3'
+  Total number of paths / destination ports: 1 / 1
+-------------------------------------------------------------------------
+Offset:              1.903ns (Levels of Logic = 1)
+  Source:            res (PAD)
+  Destination:       dff_res/q_0 (FF)
+  Destination Clock: clkdiv/clk_count_3 rising
+
+  Data Path: res to dff_res/q_0
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O             1   1.222   0.579  res_IBUF (res_IBUF)
+     FD:D                      0.102          dff_res/q_0
+    ----------------------------------------
+    Total                      1.903ns (1.324ns logic, 0.579ns route)
+                                       (69.6% logic, 30.4% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'clk_100M'
+  Total number of paths / destination ports: 1 / 1
+-------------------------------------------------------------------------
+Offset:              3.668ns (Levels of Logic = 1)
+  Source:            clkdiv/clk_count_3 (FF)
+  Destination:       CPU_clk (PAD)
+  Source Clock:      clk_100M rising
+
+  Data Path: clkdiv/clk_count_3 to CPU_clk
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FD:C->Q               3   0.447   0.650  clkdiv/clk_count_3 (clkdiv/clk_count_3)
+     OBUF:I->O                 2.571          CPU_clk_OBUF (CPU_clk)
+    ----------------------------------------
+    Total                      3.668ns (3.018ns logic, 0.650ns route)
+                                       (82.3% logic, 17.7% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'clkdiv/clk_count_3'
+  Total number of paths / destination ports: 1 / 1
+-------------------------------------------------------------------------
+Offset:              3.597ns (Levels of Logic = 1)
+  Source:            dff_res/q_0 (FF)
+  Destination:       reset (PAD)
+  Source Clock:      clkdiv/clk_count_3 rising
+
+  Data Path: dff_res/q_0 to reset
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FD:C->Q               1   0.447   0.579  dff_res/q_0 (dff_res/q_0)
+     OBUF:I->O                 2.571          reset_OBUF (reset)
+    ----------------------------------------
+    Total                      3.597ns (3.018ns logic, 0.579ns route)
+                                       (83.9% logic, 16.1% route)
+
+=========================================================================
+
+Cross Clock Domains Report:
+--------------------------
+
+Clock to Setup on destination clock clk_100M
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+clk_100M       |    1.724|         |         |         |
+---------------+---------+---------+---------+---------+
+
+=========================================================================
+
+
+Total REAL time to Xst completion: 5.00 secs
+Total CPU time to Xst completion: 5.34 secs
+ 
+--> 
+
+Total memory usage is 193924 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :   29 (   0 filtered)
+Number of infos    :    1 (   0 filtered)
+

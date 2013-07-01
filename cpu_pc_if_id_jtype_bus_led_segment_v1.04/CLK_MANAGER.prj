@@ -1,0 +1,3 @@
+verilog work "dff.v"
+verilog work "clk_div.v"
+verilog work "CLK_MANAGER.v"

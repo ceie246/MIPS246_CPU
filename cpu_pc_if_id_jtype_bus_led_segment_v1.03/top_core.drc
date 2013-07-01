@@ -1,0 +1,8 @@
+Release 13.3 Drc O.76xd (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+
+Mon Jul 01 14:59:52 2013
+
+drc -z top_core.ncd top_core.pcf
+
+DRC detected 0 errors and 0 warnings.

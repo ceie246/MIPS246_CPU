@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/BEPU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/FEPU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/add.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/add1.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/addsub32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/alu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/barrelshifter32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/bshifter32_carry.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/bus_controller.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/cla_16.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/cla_2.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/cla_32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/cla_4.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/cla_8.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/clk_div.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/controlunit.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/dffe.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/ext.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/g_p.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/led.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/led_controller.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/led_seg7.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/mux2x32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/mux4x32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/pipe_exe.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/pipe_id.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/pipe_if.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/pipe_mem.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/pipe_wb.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/ram.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/regfiles.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/segment_display_controller.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/slt.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/top_cla_32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/top_core.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/top_core.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/global.v&apos; in file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/top_core.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/top_cpu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_clkmanager/top_segment_display.v&quot; into library work</arg>
+</msg>
+
+</messages>
+

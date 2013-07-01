@@ -1,0 +1,24 @@
+Release 13.3 - xst O.76xd (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.03/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.08 secs
+ 
+--> Parameter xsthdpdir set to E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.03/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.08 secs
+ 
+--> ERROR:Xst - Parameter value missing for '-top'
+ERROR:Xst:426 - Illegal command usage : run  
+--> 
+
+Total memory usage is 131364 kilobytes
+
+Number of errors   :    2 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+
