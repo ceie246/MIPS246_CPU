@@ -8,5 +8,8 @@
 <!-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.04/CLK_MANAGER.v&quot; into library work</arg>
+</msg>
+
 </messages>
 

@@ -44,6 +44,7 @@
     <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
     <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
     <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_MODELSIM_CMD" xil_pn:name="alu_tb.fdo"/>
     <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ext.prj"/>
     <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ext.stx"/>
     <file xil_pn:fileType="FILE_XST" xil_pn:name="ext.xst"/>
@@ -143,7 +144,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1372662263" xil_pn:in_ck="-6184134366907462031" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1372662263">
+    <transform xil_pn:end_ts="1372681869" xil_pn:in_ck="-6184134366907462031" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1372681869">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="BEPU.v"/>
@@ -197,11 +198,11 @@
       <outfile xil_pn:name="top_segment_display.v"/>
       <outfile xil_pn:name="top_tb.v"/>
     </transform>
-    <transform xil_pn:end_ts="1372675038" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-2510128243793513472" xil_pn:start_ts="1372675038">
+    <transform xil_pn:end_ts="1372681725" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-3223021036426798962" xil_pn:start_ts="1372681725">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1372675038" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-5641624015318201410" xil_pn:start_ts="1372675038">
+    <transform xil_pn:end_ts="1372681725" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-3116848331076088756" xil_pn:start_ts="1372681725">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
@@ -209,7 +210,7 @@
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
     </transform>
-    <transform xil_pn:end_ts="1372662263" xil_pn:in_ck="-6184134366907462031" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1372662263">
+    <transform xil_pn:end_ts="1372681869" xil_pn:in_ck="-6184134366907462031" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1372681869">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
       <outfile xil_pn:name="BEPU.v"/>
@@ -263,10 +264,12 @@
       <outfile xil_pn:name="top_segment_display.v"/>
       <outfile xil_pn:name="top_tb.v"/>
     </transform>
-    <transform xil_pn:end_ts="1372675040" xil_pn:in_ck="-6184134366907462031" xil_pn:name="TRAN_MSimulateBehavioralModel" xil_pn:prop_ck="-3622564406904091749" xil_pn:start_ts="1372675038">
+    <transform xil_pn:end_ts="1372681870" xil_pn:in_ck="-6184134366907462031" xil_pn:name="TRAN_MSimulateBehavioralModel" xil_pn:prop_ck="-3622564406904091749" xil_pn:start_ts="1372681869">
       <status xil_pn:value="SuccessfullyRun"/>
       <status xil_pn:value="ReadyToRun"/>
-      <outfile xil_pn:name="CLK_MANAGER_tb.fdo"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="alu_tb.fdo"/>
       <outfile xil_pn:name="vsim.wlf"/>
       <outfile xil_pn:name="work"/>
     </transform>

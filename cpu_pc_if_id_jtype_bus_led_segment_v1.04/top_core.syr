@@ -105,87 +105,87 @@ Slice Utilization Ratio Delta      : 5
 =========================================================================
 *                          HDL Parsing                                  *
 =========================================================================
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\g_p.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\g_p.v" into library work
 Parsing module <g_p>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\add.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\add.v" into library work
 Parsing module <add>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\cla_2.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\cla_2.v" into library work
 Parsing module <cla_2>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\cla_4.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\cla_4.v" into library work
 Parsing module <cla_4>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\cla_8.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\cla_8.v" into library work
 Parsing module <cla_8>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\cla_16.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\cla_16.v" into library work
 Parsing module <cla_16>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\cla_32.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\cla_32.v" into library work
 Parsing module <cla_32>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\top_cla_32.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\top_cla_32.v" into library work
 Parsing module <top_cla_32>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\add1.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\add1.v" into library work
 Parsing module <add1>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\barrelshifter32.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\barrelshifter32.v" into library work
 Parsing module <barrelshifter32>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\addsub32.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\addsub32.v" into library work
 Parsing module <addsub32>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\slt.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\slt.v" into library work
 Parsing module <slt>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\mux4x32.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\mux4x32.v" into library work
 Parsing module <mux4x32>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\mux2x32.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\mux2x32.v" into library work
 Parsing module <mux2x32>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\bshifter32_carry.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\bshifter32_carry.v" into library work
 Parsing module <bshifter32_carry>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\regfiles.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\regfiles.v" into library work
 Parsing module <regfiles>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\ram.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\ram.v" into library work
 Parsing module <ram>.
-INFO:HDLCompiler:693 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\ram.v" Line 37. parameter declaration becomes local in ram with formal parameter declaration list
-INFO:HDLCompiler:693 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\ram.v" Line 38. parameter declaration becomes local in ram with formal parameter declaration list
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\led_seg7.v" into library work
+INFO:HDLCompiler:693 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\ram.v" Line 37. parameter declaration becomes local in ram with formal parameter declaration list
+INFO:HDLCompiler:693 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\ram.v" Line 38. parameter declaration becomes local in ram with formal parameter declaration list
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\led_seg7.v" into library work
 Parsing module <led_seg7>.
 Parsing verilog file "segment.v" included at line 28.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\ext.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\ext.v" into library work
 Parsing module <ext>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\controlunit.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\controlunit.v" into library work
 Parsing module <controlunit>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\alu.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\alu.v" into library work
 Parsing module <alu>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\top_segment_display.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\top_segment_display.v" into library work
 Parsing module <top_segment_display>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\pipe_wb.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\pipe_wb.v" into library work
 Parsing module <pipe_wb>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\pipe_mem.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\pipe_mem.v" into library work
 Parsing module <pipe_mem>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\pipe_if.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\pipe_if.v" into library work
 Parsing module <pipe_if>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\pipe_id.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\pipe_id.v" into library work
 Parsing module <pipe_id>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\pipe_exe.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\pipe_exe.v" into library work
 Parsing module <pipe_exe>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\led.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\led.v" into library work
 Parsing module <led>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\dffe.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\dffe.v" into library work
 Parsing module <dffe>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\top_cpu.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\top_cpu.v" into library work
 Parsing module <top_cpu>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\segment_display_controller.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\segment_display_controller.v" into library work
 Parsing module <segment_display_controller>.
 Parsing verilog file "segment.v" included at line 31.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\led_controller.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\led_controller.v" into library work
 Parsing module <led_controller>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\dff.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\dff.v" into library work
 Parsing module <dff>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\clk_div.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\clk_div.v" into library work
 Parsing module <clk_div>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\bus_controller.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\bus_controller.v" into library work
 Parsing module <bus_controller>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\FEPU.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\FEPU.v" into library work
 Parsing module <FEPU>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\CLK_MANAGER.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\CLK_MANAGER.v" into library work
 Parsing module <CLK_MANAGER>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\BEPU.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\BEPU.v" into library work
 Parsing module <BEPU>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\top_core.v" into library work
+Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\top_core.v" into library work
 Parsing verilog file "global.v" included at line 2.
 Parsing module <top_core>.
 
@@ -196,7 +196,7 @@ Parsing module <top_core>.
 Elaborating module <top_core>.
 
 Elaborating module <CLK_MANAGER(clk=12)>.
-WARNING:HDLCompiler:872 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\CLK_MANAGER.v" Line 30: Using initial value of init_rst since it is never assigned
+WARNING:HDLCompiler:872 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\CLK_MANAGER.v" Line 30: Using initial value of init_rst since it is never assigned
 
 Elaborating module <dff>.
 
@@ -212,7 +212,7 @@ Elaborating module <pipe_if>.
 
 Elaborating module <ram(WIDTH=32,DEPTH=5)>.
 Reading initialization file \"write_segment_contious.txt\".
-WARNING:HDLCompiler:1670 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\ram.v" Line 46: Signal <ram> in initial block is partially initialized.
+WARNING:HDLCompiler:1670 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\ram.v" Line 46: Signal <ram> in initial block is partially initialized.
 
 Elaborating module <top_cla_32>.
 
@@ -229,8 +229,8 @@ Elaborating module <cla_2>.
 Elaborating module <add>.
 
 Elaborating module <g_p>.
-WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\pipe_if.v" Line 42: Assignment to npc4_carry ignored, since the identifier is never used
-WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\pipe_if.v" Line 43: Assignment to npc8_carry ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\pipe_if.v" Line 42: Assignment to npc4_carry ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\pipe_if.v" Line 43: Assignment to npc8_carry ignored, since the identifier is never used
 
 Elaborating module <mux4x32>.
 
@@ -253,14 +253,14 @@ Elaborating module <alu>.
 Elaborating module <addsub32>.
 
 Elaborating module <add1>.
-WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\addsub32.v" Line 58: Assignment to add_cout ignored, since the identifier is never used
-WARNING:HDLCompiler:91 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\addsub32.v" Line 68: Signal <add_result> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
-WARNING:HDLCompiler:91 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\addsub32.v" Line 69: Signal <addu_result> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
-WARNING:HDLCompiler:91 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\addsub32.v" Line 75: Signal <addu_result> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
-WARNING:HDLCompiler:91 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\addsub32.v" Line 76: Signal <addu_cout> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\addsub32.v" Line 58: Assignment to add_cout ignored, since the identifier is never used
+WARNING:HDLCompiler:91 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\addsub32.v" Line 68: Signal <add_result> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+WARNING:HDLCompiler:91 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\addsub32.v" Line 69: Signal <addu_result> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+WARNING:HDLCompiler:91 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\addsub32.v" Line 75: Signal <addu_result> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+WARNING:HDLCompiler:91 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\addsub32.v" Line 76: Signal <addu_cout> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
 
 Elaborating module <slt>.
-WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\slt.v" Line 33: Assignment to c_r ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\slt.v" Line 33: Assignment to c_r ignored, since the identifier is never used
 
 Elaborating module <bshifter32_carry>.
 
@@ -269,17 +269,17 @@ Elaborating module <barrelshifter32>.
 Elaborating module <mux2x32>.
 
 Elaborating module <mux4x32(WIDTH=1)>.
-WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\top_cpu.v" Line 103: Assignment to carry ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\top_cpu.v" Line 103: Assignment to carry ignored, since the identifier is never used
 
 Elaborating module <pipe_mem>.
 
 Elaborating module <ram(WIDTH=32,DEPTH=5,INIT=0)>.
 
 Elaborating module <pipe_wb>.
-WARNING:HDLCompiler:634 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\top_cpu.v" Line 33: Net <iram_indata[31]> does not have a driver.
+WARNING:HDLCompiler:634 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\top_cpu.v" Line 33: Net <iram_indata[31]> does not have a driver.
 
 Elaborating module <bus_controller>.
-WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.03\top_core.v" Line 39: Assignment to FEPU_BEPU_addr ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.04\top_core.v" Line 39: Assignment to FEPU_BEPU_addr ignored, since the identifier is never used
 
 Elaborating module <BEPU>.
 
@@ -302,21 +302,21 @@ Elaborating module <mux2x32(WIDTH=16)>.
 =========================================================================
 
 Synthesizing Unit <top_core>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/top_core.v".
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/top_core.v" line 39: Output port <FEPU_BEPU_addr> of the instance <FEPU> is unconnected or connected to loadless signal.
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/top_core.v".
+INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/top_core.v" line 39: Output port <FEPU_BEPU_addr> of the instance <FEPU> is unconnected or connected to loadless signal.
     Summary:
 	no macro.
 Unit <top_core> synthesized.
 
 Synthesizing Unit <CLK_MANAGER>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/clk_manager.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/clk_manager.v".
         clk = 12
     Summary:
 	no macro.
 Unit <CLK_MANAGER> synthesized.
 
 Synthesizing Unit <dff>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/dff.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/dff.v".
         WIDTH = 1
     Found 1-bit register for signal <q>.
     Summary:
@@ -324,7 +324,7 @@ Synthesizing Unit <dff>.
 Unit <dff> synthesized.
 
 Synthesizing Unit <clk_div>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/clk_div.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/clk_div.v".
         SEL = 12
     Found 32-bit register for signal <clk_count>.
     Found 32-bit adder for signal <clk_count[31]_GND_4_o_add_0_OUT> created at line 32.
@@ -334,24 +334,24 @@ Synthesizing Unit <clk_div>.
 Unit <clk_div> synthesized.
 
 Synthesizing Unit <FEPU>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/fepu.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/fepu.v".
     Summary:
 	no macro.
 Unit <FEPU> synthesized.
 
 Synthesizing Unit <top_cpu>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/top_cpu.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/top_cpu.v".
 WARNING:Xst:647 - Input <bc_cpu_data<31:0>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/top_cpu.v" line 103: Output port <carry> of the instance <pipeexe> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/top_cpu.v" line 103: Output port <negative> of the instance <pipeexe> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/top_cpu.v" line 103: Output port <overflow> of the instance <pipeexe> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/top_cpu.v" line 103: Output port <carry> of the instance <pipeexe> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/top_cpu.v" line 103: Output port <negative> of the instance <pipeexe> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/top_cpu.v" line 103: Output port <overflow> of the instance <pipeexe> is unconnected or connected to loadless signal.
 WARNING:Xst:653 - Signal <iram_indata> is used but never assigned. This sourceless signal will be automatically connected to value GND.
     Summary:
 	no macro.
 Unit <top_cpu> synthesized.
 
 Synthesizing Unit <dffe>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/dffe.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/dffe.v".
         WIDTH = 32
     Found 32-bit register for signal <data_out>.
     Summary:
@@ -359,16 +359,16 @@ Synthesizing Unit <dffe>.
 Unit <dffe> synthesized.
 
 Synthesizing Unit <pipe_if>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/pipe_if.v".
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/pipe_if.v" line 42: Output port <c_out> of the instance <pcplus4> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/pipe_if.v" line 43: Output port <c_out> of the instance <pcplus8> is unconnected or connected to loadless signal.
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/pipe_if.v".
+INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/pipe_if.v" line 42: Output port <c_out> of the instance <pcplus4> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/pipe_if.v" line 43: Output port <c_out> of the instance <pcplus8> is unconnected or connected to loadless signal.
     Found 32-bit adder for signal <pc_beqbne> created at line 46.
     Summary:
 	inferred   1 Adder/Subtractor(s).
 Unit <pipe_if> synthesized.
 
 Synthesizing Unit <ram_1>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/ram.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/ram.v".
         WIDTH = 32
         DEPTH = 5
         INIT = 1
@@ -378,54 +378,54 @@ Synthesizing Unit <ram_1>.
 Unit <ram_1> synthesized.
 
 Synthesizing Unit <top_cla_32>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/top_cla_32.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/top_cla_32.v".
     Summary:
 	no macro.
 Unit <top_cla_32> synthesized.
 
 Synthesizing Unit <cla_32>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/cla_32.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/cla_32.v".
     Summary:
 	no macro.
 Unit <cla_32> synthesized.
 
 Synthesizing Unit <cla_16>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/cla_16.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/cla_16.v".
     Summary:
 	no macro.
 Unit <cla_16> synthesized.
 
 Synthesizing Unit <cla_8>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/cla_8.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/cla_8.v".
     Summary:
 	no macro.
 Unit <cla_8> synthesized.
 
 Synthesizing Unit <cla_4>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/cla_4.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/cla_4.v".
     Summary:
 	no macro.
 Unit <cla_4> synthesized.
 
 Synthesizing Unit <cla_2>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/cla_2.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/cla_2.v".
     Summary:
 	no macro.
 Unit <cla_2> synthesized.
 
 Synthesizing Unit <add>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/add.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/add.v".
     Summary:
 Unit <add> synthesized.
 
 Synthesizing Unit <g_p>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/g_p.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/g_p.v".
     Summary:
 	no macro.
 Unit <g_p> synthesized.
 
 Synthesizing Unit <mux4x32>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/mux4x32.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/mux4x32.v".
         WIDTH = 32
     Found 32-bit 4-to-1 multiplexer for signal <r> created at line 32.
     Summary:
@@ -433,13 +433,13 @@ Synthesizing Unit <mux4x32>.
 Unit <mux4x32> synthesized.
 
 Synthesizing Unit <pipe_id>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/pipe_id.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/pipe_id.v".
     Summary:
 	no macro.
 Unit <pipe_id> synthesized.
 
 Synthesizing Unit <regfiles>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/regfiles.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/regfiles.v".
     Found 1024-bit register for signal <n0051[1023:0]>.
     Found 32-bit 32-to-1 multiplexer for signal <raddr1[4]_regfiles[31][31]_wide_mux_37_OUT> created at line 48.
     Found 32-bit 32-to-1 multiplexer for signal <raddr2[4]_regfiles[31][31]_wide_mux_40_OUT> created at line 49.
@@ -449,47 +449,47 @@ Synthesizing Unit <regfiles>.
 Unit <regfiles> synthesized.
 
 Synthesizing Unit <controlunit>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/controlunit.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/controlunit.v".
     Summary:
 	no macro.
 Unit <controlunit> synthesized.
 
 Synthesizing Unit <ext>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/ext.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/ext.v".
         WIDTH = 5
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <ext> synthesized.
 
 Synthesizing Unit <ext_1>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/ext.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/ext.v".
         WIDTH = 16
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <ext_1> synthesized.
 
 Synthesizing Unit <mux2x32_1>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/mux2x32.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/mux2x32.v".
         WIDTH = 5
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <mux2x32_1> synthesized.
 
 Synthesizing Unit <pipe_exe>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/pipe_exe.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/pipe_exe.v".
     Summary:
 	no macro.
 Unit <pipe_exe> synthesized.
 
 Synthesizing Unit <alu>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/alu.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/alu.v".
     Summary:
 	inferred   2 Multiplexer(s).
 Unit <alu> synthesized.
 
 Synthesizing Unit <addsub32>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/addsub32.v".
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/addsub32.v" line 58: Output port <co> of the instance <add_32> is unconnected or connected to loadless signal.
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/addsub32.v".
+INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/addsub32.v" line 58: Output port <co> of the instance <add_32> is unconnected or connected to loadless signal.
     Found 1-bit comparator equal for signal <add_result_addu_result[31]_equal_4_o> created at line 68
     Summary:
 	inferred   1 Comparator(s).
@@ -497,20 +497,20 @@ INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/
 Unit <addsub32> synthesized.
 
 Synthesizing Unit <add1>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/add1.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/add1.v".
     Summary:
 Unit <add1> synthesized.
 
 Synthesizing Unit <slt>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/slt.v".
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/slt.v" line 33: Output port <c> of the instance <addsub_slt> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/slt.v" line 33: Output port <overflow> of the instance <addsub_slt> is unconnected or connected to loadless signal.
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/slt.v".
+INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/slt.v" line 33: Output port <c> of the instance <addsub_slt> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/slt.v" line 33: Output port <overflow> of the instance <addsub_slt> is unconnected or connected to loadless signal.
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <slt> synthesized.
 
 Synthesizing Unit <bshifter32_carry>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/bshifter32_carry.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/bshifter32_carry.v".
     Found 5-bit subtractor for signal <b[4]_GND_31_o_sub_1_OUT> created at line 37.
     Found 32-bit 3-to-1 multiplexer for signal <c_r> created at line 40.
     Summary:
@@ -519,21 +519,21 @@ Synthesizing Unit <bshifter32_carry>.
 Unit <bshifter32_carry> synthesized.
 
 Synthesizing Unit <barrelshifter32>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/barrelshifter32.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/barrelshifter32.v".
     Found 32-bit 3-to-1 multiplexer for signal <temp> created at line 35.
     Summary:
 	inferred 166 Multiplexer(s).
 Unit <barrelshifter32> synthesized.
 
 Synthesizing Unit <mux2x32>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/mux2x32.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/mux2x32.v".
         WIDTH = 32
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <mux2x32> synthesized.
 
 Synthesizing Unit <mux4x32_1>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/mux4x32.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/mux4x32.v".
         WIDTH = 1
     Found 1-bit 4-to-1 multiplexer for signal <r> created at line 32.
     Summary:
@@ -541,7 +541,7 @@ Synthesizing Unit <mux4x32_1>.
 Unit <mux4x32_1> synthesized.
 
 Synthesizing Unit <pipe_mem>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/pipe_mem.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/pipe_mem.v".
 WARNING:Xst:647 - Input <addr<31:7>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
 WARNING:Xst:647 - Input <addr<1:0>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
     Summary:
@@ -549,7 +549,7 @@ WARNING:Xst:647 - Input <addr<1:0>> is never used. This port will be preserved a
 Unit <pipe_mem> synthesized.
 
 Synthesizing Unit <ram_2>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/ram.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/ram.v".
         WIDTH = 32
         DEPTH = 5
         INIT = 0
@@ -559,40 +559,40 @@ Synthesizing Unit <ram_2>.
 Unit <ram_2> synthesized.
 
 Synthesizing Unit <pipe_wb>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/pipe_wb.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/pipe_wb.v".
     Summary:
 	no macro.
 Unit <pipe_wb> synthesized.
 
 Synthesizing Unit <bus_controller>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/bus_controller.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/bus_controller.v".
 WARNING:Xst:647 - Input <cpu_bc_addr<3:0>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
     Summary:
 	inferred   5 Multiplexer(s).
 Unit <bus_controller> synthesized.
 
 Synthesizing Unit <BEPU>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/bepu.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/bepu.v".
 WARNING:Xst:647 - Input <select<2:31>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
     Summary:
 	no macro.
 Unit <BEPU> synthesized.
 
 Synthesizing Unit <led_controller>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/led_controller.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/led_controller.v".
     Found 32-bit register for signal <led_reg>.
     Summary:
 	inferred  32 D-type flip-flop(s).
 Unit <led_controller> synthesized.
 
 Synthesizing Unit <led>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/led.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/led.v".
     Summary:
 	no macro.
 Unit <led> synthesized.
 
 Synthesizing Unit <mux4x32_2>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/mux4x32.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/mux4x32.v".
         WIDTH = 8
     Found 8-bit 4-to-1 multiplexer for signal <r> created at line 32.
     Summary:
@@ -600,7 +600,7 @@ Synthesizing Unit <mux4x32_2>.
 Unit <mux4x32_2> synthesized.
 
 Synthesizing Unit <segment_display_controller>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/segment_display_controller.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/segment_display_controller.v".
         seg0 = 8'b11000000
         seg1 = 8'b11111001
         seg2 = 8'b10100100
@@ -624,7 +624,7 @@ Synthesizing Unit <segment_display_controller>.
 Unit <segment_display_controller> synthesized.
 
 Synthesizing Unit <top_segment_display>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/top_segment_display.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/top_segment_display.v".
     Found 8-bit register for signal <data_out_reg>.
     Found 4-bit register for signal <ena_reg>.
     Found finite state machine <FSM_0> for signal <ena_reg>.
@@ -646,7 +646,7 @@ Synthesizing Unit <top_segment_display>.
 Unit <top_segment_display> synthesized.
 
 Synthesizing Unit <led_seg7>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/led_seg7.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/led_seg7.v".
         seg0 = 8'b11000000
         seg1 = 8'b11111001
         seg2 = 8'b10100100
@@ -670,7 +670,7 @@ Synthesizing Unit <led_seg7>.
 Unit <led_seg7> synthesized.
 
 Synthesizing Unit <mux2x32_2>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.03/mux2x32.v".
+    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment_v1.04/mux2x32.v".
         WIDTH = 16
     Summary:
 	inferred   1 Multiplexer(s).
@@ -1929,12 +1929,12 @@ clk_manager/clkdiv/clk_count_12|   17.110|   14.788|   14.989|         |
 =========================================================================
 
 
-Total REAL time to Xst completion: 62.00 secs
-Total CPU time to Xst completion: 62.11 secs
+Total REAL time to Xst completion: 60.00 secs
+Total CPU time to Xst completion: 60.09 secs
  
 --> 
 
-Total memory usage is 241540 kilobytes
+Total memory usage is 240772 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :  809 (   0 filtered)

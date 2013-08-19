@@ -1,7 +1,7 @@
 Release 13.3 par O.76xd (nt)
 Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
 
-CISSY-PC::  Mon Jul 01 14:58:29 2013
+CISSY-PC::  Mon Jul 08 13:09:22 2013
 
 par -w -intstyle ise -ol high -mt off top_core_map.ncd top_core.ncd
 top_core.pcf 
@@ -99,8 +99,8 @@ Specific Feature Utilization:
 Overall effort level (-ol):   High 
 Router effort level (-rl):    High 
 
-Starting initial Timing Analysis.  REAL time: 4 secs 
-Finished initial Timing Analysis.  REAL time: 4 secs 
+Starting initial Timing Analysis.  REAL time: 3 secs 
+Finished initial Timing Analysis.  REAL time: 3 secs 
 
 Starting Router
 
@@ -109,13 +109,13 @@ Phase  1  : 10227 unrouted;      REAL time: 4 secs
 
 Phase  2  : 9931 unrouted;      REAL time: 4 secs 
 
-Phase  3  : 2468 unrouted;      REAL time: 10 secs 
+Phase  3  : 2468 unrouted;      REAL time: 9 secs 
 
-Phase  4  : 6465 unrouted; (Par is working to improve performance)     REAL time: 51 secs 
+Phase  4  : 6465 unrouted; (Par is working to improve performance)     REAL time: 50 secs 
 
 Updating file: top_core.ncd with current fully routed design.
 
-Phase  5  : 0 unrouted; (Par is working to improve performance)     REAL time: 1 mins 5 secs 
+Phase  5  : 0 unrouted; (Par is working to improve performance)     REAL time: 1 mins 4 secs 
 
 Phase  6  : 0 unrouted; (Par is working to improve performance)     REAL time: 1 mins 5 secs 
 

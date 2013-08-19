@@ -64,17 +64,17 @@ module alu_tb;
         
 		// Add stimulus here
 		$display("time\ta\tb\tr_alu\tr_normal\t");
-		a = 32'b10000000000000000000000000000000;
-		b = 32'b11111111111111111111111111111111;
-		aluc = 1101;
-//		for(k = 0; k < 20 ; k = k + 1) begin
-//			a = {$random} % 32;
-//			b = {$random} % 32;
-//			aluc = 4'b1011; // or
-//			temp = a < b ? {31'b0, 1'b1} : {31'b0, 1'b0};
-//			$monitor("%d\t%b\t%b\t%b\t%b\t", $time, a, b, r, temp);
-//			#(T);
-//		end
+//		a = 32'b10000000000000000000000000000000;
+//		b = 32'b11111111111111111111111111111111;
+//		aluc = 1101;
+		for(k = 0; k < 20 ; k = k + 1) begin
+			a = {$random} % 32;
+			b = {$random} % 32;
+			aluc = 4'b1011; // or
+			temp = a < b ? {31'b0, 1'b1} : {31'b0, 1'b0};
+			$monitor("%d\t%b\t%b\t%b\t%b\t", $time, a, b, r, temp);
+			#(T);
+		end
 	end
       
 endmodule

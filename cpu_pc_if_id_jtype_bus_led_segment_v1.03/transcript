@@ -8,46 +8,144 @@
 # //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
 # //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
 # //
-# do {CLK_MANAGER_tb.fdo} 
+# do {alu_tb.fdo} 
 # ** Warning: (vlib-34) Library already exists at "work".
 # Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
-# -- Compiling module dff
+# -- Compiling module g_p
 # 
 # Top level modules:
-# 	dff
+# 	g_p
 # Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
-# -- Compiling module clk_div
+# -- Compiling module add
 # 
 # Top level modules:
-# 	clk_div
+# 	add
 # Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
-# -- Compiling module CLK_MANAGER
+# -- Compiling module cla_2
 # 
 # Top level modules:
-# 	CLK_MANAGER
+# 	cla_2
 # Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
-# -- Compiling module CLK_MANAGER_tb
+# -- Compiling module cla_4
 # 
 # Top level modules:
-# 	CLK_MANAGER_tb
+# 	cla_4
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module cla_8
+# 
+# Top level modules:
+# 	cla_8
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module cla_16
+# 
+# Top level modules:
+# 	cla_16
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module cla_32
+# 
+# Top level modules:
+# 	cla_32
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module top_cla_32
+# 
+# Top level modules:
+# 	top_cla_32
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module add1
+# 
+# Top level modules:
+# 	add1
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module barrelshifter32
+# 
+# Top level modules:
+# 	barrelshifter32
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module addsub32
+# 
+# Top level modules:
+# 	addsub32
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module slt
+# 
+# Top level modules:
+# 	slt
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module mux4x32
+# 
+# Top level modules:
+# 	mux4x32
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module mux2x32
+# 
+# Top level modules:
+# 	mux2x32
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module bshifter32_carry
+# 
+# Top level modules:
+# 	bshifter32_carry
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module alu_tb
+# 
+# Top level modules:
+# 	alu_tb
 # Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
 # -- Compiling module glbl
 # 
 # Top level modules:
 # 	glbl
-# vsim -L xilinxcorelib_ver -L unisims_ver -L secureip -lib work -voptargs=\"+acc\" -t 1ps work.CLK_MANAGER_tb glbl 
-# Loading work.CLK_MANAGER_tb
-# Loading work.CLK_MANAGER
-# Loading work.dff
-# Loading work.clk_div
+# vsim -L xilinxcorelib_ver -L unisims_ver -L secureip -lib work -voptargs=\"+acc\" -t 1ps work.alu_tb glbl 
+# Loading work.alu_tb
+# Loading work.alu
+# Loading work.addsub32
+# Loading work.top_cla_32
+# Loading work.cla_32
+# Loading work.cla_16
+# Loading work.cla_8
+# Loading work.cla_4
+# Loading work.cla_2
+# Loading work.add
+# Loading work.g_p
+# Loading work.add1
+# Loading work.slt
+# Loading work.bshifter32_carry
+# Loading work.barrelshifter32
+# Loading work.mux2x32
+# Loading work.mux4x32
 # Loading work.glbl
 # ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
 #           File in use by:   Hostname:   ProcessID: 8
-#           Attempting to use alternate WLF file "./wlft20jbqr".
+#           Attempting to use alternate WLF file "./wlftjf8r5q".
 # ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
-#           Using alternate file: ./wlft20jbqr
+#           Using alternate file: ./wlftjf8r5q
 # .main_pane.wave.interior.cs.body.pw.wf
 # .main_pane.structure.interior.cs.body.struct
 # .main_pane.objects.interior.cs.body.tree
+# time	a	b	r_alu	r_normal	
+#                  100	00000000000000000000000000000100	00000000000000000000000000000001	00000000000000000000000000000000	00000000000000000000000000000000	
+#                  120	00000000000000000000000000001001	00000000000000000000000000000011	00000000000000000000000000000000	00000000000000000000000000000000	
+#                  140	00000000000000000000000000001101	00000000000000000000000000001101	00000000000000000000000000000000	00000000000000000000000000000000	
+#                  160	00000000000000000000000000000101	00000000000000000000000000010010	00000000000000000000000000000001	00000000000000000000000000000001	
+#                  180	00000000000000000000000000000001	00000000000000000000000000001101	00000000000000000000000000000001	00000000000000000000000000000001	
+#                  200	00000000000000000000000000010110	00000000000000000000000000011101	00000000000000000000000000000001	00000000000000000000000000000001	
+#                  220	00000000000000000000000000001101	00000000000000000000000000001100	00000000000000000000000000000000	00000000000000000000000000000000	
+#                  240	00000000000000000000000000011001	00000000000000000000000000000110	00000000000000000000000000000000	00000000000000000000000000000000	
+#                  260	00000000000000000000000000000101	00000000000000000000000000001010	00000000000000000000000000000001	00000000000000000000000000000001	
+#                  280	00000000000000000000000000000101	00000000000000000000000000010111	00000000000000000000000000000001	00000000000000000000000000000001	
+#                  300	00000000000000000000000000010010	00000000000000000000000000001111	00000000000000000000000000000000	00000000000000000000000000000000	
+#                  320	00000000000000000000000000010010	00000000000000000000000000001110	00000000000000000000000000000000	00000000000000000000000000000000	
+#                  340	00000000000000000000000000001000	00000000000000000000000000000101	00000000000000000000000000000000	00000000000000000000000000000000	
+#                  360	00000000000000000000000000011100	00000000000000000000000000011101	00000000000000000000000000000001	00000000000000000000000000000001	
+#                  380	00000000000000000000000000001101	00000000000000000000000000000101	00000000000000000000000000000000	00000000000000000000000000000000	
+#                  400	00000000000000000000000000000011	00000000000000000000000000001010	00000000000000000000000000000001	00000000000000000000000000000001	
+#                  420	00000000000000000000000000000000	00000000000000000000000000000000	00000000000000000000000000000000	00000000000000000000000000000000	
+#                  440	00000000000000000000000000001010	00000000000000000000000000011101	00000000000000000000000000000001	00000000000000000000000000000001	
+#                  460	00000000000000000000000000010110	00000000000000000000000000010011	00000000000000000000000000000000	00000000000000000000000000000000	
+#                  480	00000000000000000000000000001101	00000000000000000000000000010011	00000000000000000000000000000001	00000000000000000000000000000001	
 #  
-run

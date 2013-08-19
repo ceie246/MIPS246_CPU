@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.03/CLK_MANAGER.xst" -ofn "E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.03/CLK_MANAGER.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc top_cpu_ucf.ucf -p xc6slx16-csg324-3 CLK_MANAGER.ngc CLK_MANAGER.ngd  

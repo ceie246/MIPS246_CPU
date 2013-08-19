@@ -32,6 +32,7 @@ initial begin
 	#20;
 	init_rst = 0;
 end
+
 dff dff_res(CPU_clk, res, reset);
 clk_div #(clk) clkdiv(clk_100M, init_rst, CPU_clk);
 

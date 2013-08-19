@@ -1,5 +1,5 @@
-//`define FPGA
-`define TEST
+`define FPGA
+//`define TEST
 //`define CS
 
 `ifdef TEST

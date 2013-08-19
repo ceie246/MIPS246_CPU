@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.05\top_core.ncd
+OUTFILE=E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.05\top_core.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment_v1.05
+LICENSE=WebPack
+USER_INFO=__0_0_0
