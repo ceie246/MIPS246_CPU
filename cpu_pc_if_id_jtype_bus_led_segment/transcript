@@ -1,0 +1,472 @@
+# Reading D:/modeltech_10.0b/tcl/vsim/pref.tcl 
+# //  ModelSim SE 10.0b May  5 2011 
+# //
+# //  Copyright 1991-2011 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# do {top_core_tb.fdo} 
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module g_p
+# 
+# Top level modules:
+# 	g_p
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module add
+# 
+# Top level modules:
+# 	add
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module cla_2
+# 
+# Top level modules:
+# 	cla_2
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module cla_4
+# 
+# Top level modules:
+# 	cla_4
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module cla_8
+# 
+# Top level modules:
+# 	cla_8
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module cla_16
+# 
+# Top level modules:
+# 	cla_16
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module cla_32
+# 
+# Top level modules:
+# 	cla_32
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module top_cla_32
+# 
+# Top level modules:
+# 	top_cla_32
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module add1
+# 
+# Top level modules:
+# 	add1
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module file_write
+# 
+# Top level modules:
+# 	file_write
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module barrelshifter32
+# 
+# Top level modules:
+# 	barrelshifter32
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module addsub32
+# 
+# Top level modules:
+# 	addsub32
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module slt
+# 
+# Top level modules:
+# 	slt
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module mux4x32
+# 
+# Top level modules:
+# 	mux4x32
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module mux2x32
+# 
+# Top level modules:
+# 	mux2x32
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module file_write_regfiles
+# 
+# Top level modules:
+# 	file_write_regfiles
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module bshifter32_carry
+# 
+# Top level modules:
+# 	bshifter32_carry
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module regfiles
+# 
+# Top level modules:
+# 	regfiles
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module ram
+# 
+# Top level modules:
+# 	ram
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module led_seg7
+# 
+# Top level modules:
+# 	led_seg7
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module ext
+# 
+# Top level modules:
+# 	ext
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module controlunit
+# 
+# Top level modules:
+# 	controlunit
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module alu
+# 
+# Top level modules:
+# 	alu
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module top_segment_display
+# 
+# Top level modules:
+# 	top_segment_display
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module pipe_wb
+# 
+# Top level modules:
+# 	pipe_wb
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module pipe_mem
+# 
+# Top level modules:
+# 	pipe_mem
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module pipe_if
+# 
+# Top level modules:
+# 	pipe_if
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module pipe_id
+# 
+# Top level modules:
+# 	pipe_id
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module pipe_exe
+# 
+# Top level modules:
+# 	pipe_exe
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module led
+# 
+# Top level modules:
+# 	led
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module dffe
+# 
+# Top level modules:
+# 	dffe
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module top_cpu
+# 
+# Top level modules:
+# 	top_cpu
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module segment_display_controller
+# 
+# Top level modules:
+# 	segment_display_controller
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module led_controller
+# 
+# Top level modules:
+# 	led_controller
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module bus_controller
+# 
+# Top level modules:
+# 	bus_controller
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module FEPU
+# 
+# Top level modules:
+# 	FEPU
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module clk_div
+# 
+# Top level modules:
+# 	clk_div
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module BEPU
+# 
+# Top level modules:
+# 	BEPU
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module top_core
+# 
+# Top level modules:
+# 	top_core
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module top_core_tb
+# 
+# Top level modules:
+# 	top_core_tb
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# vsim -L xilinxcorelib_ver -L unisims_ver -L secureip -lib work -voptargs=\"+acc\" -t 1ps work.top_core_tb glbl 
+# Loading work.top_core_tb
+# Loading work.top_core
+# Loading work.FEPU
+# Loading work.top_cpu
+# Loading work.dffe
+# Loading work.pipe_if
+# Loading work.ram
+# Loading work.top_cla_32
+# Loading work.cla_32
+# Loading work.cla_16
+# Loading work.cla_8
+# Loading work.cla_4
+# Loading work.cla_2
+# Loading work.add
+# Loading work.g_p
+# Loading work.mux4x32
+# Loading work.pipe_id
+# Loading work.regfiles
+# Loading work.file_write_regfiles
+# Loading work.file_write
+# Loading work.controlunit
+# Loading work.ext
+# Loading work.mux2x32
+# Loading work.pipe_exe
+# Loading work.alu
+# Loading work.addsub32
+# Loading work.add1
+# Loading work.slt
+# Loading work.bshifter32_carry
+# Loading work.barrelshifter32
+# Loading work.pipe_mem
+# Loading work.pipe_wb
+# Loading work.bus_controller
+# Loading work.BEPU
+# Loading work.led_controller
+# Loading work.led
+# Loading work.segment_display_controller
+# Loading work.top_segment_display
+# Loading work.led_seg7
+# Loading work.clk_div
+# Loading work.glbl
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by:   Hostname:   ProcessID: 8
+#           Attempting to use alternate WLF file "./wlftyjx5eh".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftyjx5eh
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# regfiles0 = 00000000
+# regfiles1 = 00000001
+# regfiles2 = 00000000
+# regfiles3 = 00000000
+# regfiles4 = 00000000
+# regfiles5 = 00000000
+# regfiles6 = 00000000
+# regfiles7 = 00000000
+# regfiles8 = 00000000
+# regfiles9 = 00000000
+# regfiles10 = 00000000
+# regfiles11 = 00000000
+# regfiles12 = 00000000
+# regfiles13 = 00000000
+# regfiles14 = 00000000
+# regfiles15 = 00000000
+# regfiles16 = 00000000
+# regfiles17 = 00000000
+# regfiles18 = 00000000
+# regfiles19 = 00000000
+# regfiles20 = 00000000
+# regfiles21 = 00000000
+# regfiles22 = 00000000
+# regfiles23 = 00000000
+# regfiles24 = 00000000
+# regfiles25 = 00000000
+# regfiles26 = 00000000
+# regfiles27 = 00000000
+# regfiles28 = 00000000
+# regfiles29 = 00000000
+# regfiles30 = 00000000
+# regfiles31 = 00000000
+# instr = 00000000
+# pc = 00000000
+# regfiles0 = 00000000
+# regfiles1 = 00000001
+# regfiles2 = 0000000a
+# regfiles3 = 00000000
+# regfiles4 = 00000000
+# regfiles5 = 00000000
+# regfiles6 = 00000000
+# regfiles7 = 00000000
+# regfiles8 = 00000000
+# regfiles9 = 00000000
+# regfiles10 = 00000000
+# regfiles11 = 00000000
+# regfiles12 = 00000000
+# regfiles13 = 00000000
+# regfiles14 = 00000000
+# regfiles15 = 00000000
+# regfiles16 = 00000000
+# regfiles17 = 00000000
+# regfiles18 = 00000000
+# regfiles19 = 00000000
+# regfiles20 = 00000000
+# regfiles21 = 00000000
+# regfiles22 = 00000000
+# regfiles23 = 00000000
+# regfiles24 = 00000000
+# regfiles25 = 00000000
+# regfiles26 = 00000000
+# regfiles27 = 00000000
+# regfiles28 = 00000000
+# regfiles29 = 00000000
+# regfiles30 = 00000000
+# regfiles31 = 00000000
+# instr = 2002000a
+# pc = 00000004
+# regfiles0 = 00000000
+# regfiles1 = 00000001
+# regfiles2 = 0000000a
+# regfiles3 = 00000fff
+# regfiles4 = 00000000
+# regfiles5 = 00000000
+# regfiles6 = 00000000
+# regfiles7 = 00000000
+# regfiles8 = 00000000
+# regfiles9 = 00000000
+# regfiles10 = 00000000
+# regfiles11 = 00000000
+# regfiles12 = 00000000
+# regfiles13 = 00000000
+# regfiles14 = 00000000
+# regfiles15 = 00000000
+# regfiles16 = 00000000
+# regfiles17 = 00000000
+# regfiles18 = 00000000
+# regfiles19 = 00000000
+# regfiles20 = 00000000
+# regfiles21 = 00000000
+# regfiles22 = 00000000
+# regfiles23 = 00000000
+# regfiles24 = 00000000
+# regfiles25 = 00000000
+# regfiles26 = 00000000
+# regfiles27 = 00000000
+# regfiles28 = 00000000
+# regfiles29 = 00000000
+# regfiles30 = 00000000
+# regfiles31 = 00000000
+# instr = 20030fff
+# pc = 00000008
+# regfiles0 = 00000000
+# regfiles1 = 00000001
+# regfiles2 = 0000000a
+# regfiles3 = 000fff00
+# regfiles4 = 00000000
+# regfiles5 = 00000000
+# regfiles6 = 00000000
+# regfiles7 = 00000000
+# regfiles8 = 00000000
+# regfiles9 = 00000000
+# regfiles10 = 00000000
+# regfiles11 = 00000000
+# regfiles12 = 00000000
+# regfiles13 = 00000000
+# regfiles14 = 00000000
+# regfiles15 = 00000000
+# regfiles16 = 00000000
+# regfiles17 = 00000000
+# regfiles18 = 00000000
+# regfiles19 = 00000000
+# regfiles20 = 00000000
+# regfiles21 = 00000000
+# regfiles22 = 00000000
+# regfiles23 = 00000000
+# regfiles24 = 00000000
+# regfiles25 = 00000000
+# regfiles26 = 00000000
+# regfiles27 = 00000000
+# regfiles28 = 00000000
+# regfiles29 = 00000000
+# regfiles30 = 00000000
+# regfiles31 = 00000000
+# instr = 00031a00
+# pc = 0000000c
+# regfiles0 = 00000000
+# regfiles1 = 00000001
+# regfiles2 = 0000000a
+# regfiles3 = 000fff00
+# regfiles4 = 00000000
+# regfiles5 = 00000000
+# regfiles6 = 00000000
+# regfiles7 = 00000000
+# regfiles8 = 00000000
+# regfiles9 = 00000000
+# regfiles10 = 00000000
+# regfiles11 = 00000000
+# regfiles12 = 00000000
+# regfiles13 = 00000000
+# regfiles14 = 00000000
+# regfiles15 = 00000000
+# regfiles16 = 00000000
+# regfiles17 = 00000000
+# regfiles18 = 00000000
+# regfiles19 = 00000000
+# regfiles20 = 00000000
+# regfiles21 = 00000000
+# regfiles22 = 00000000
+# regfiles23 = 00000000
+# regfiles24 = 00000000
+# regfiles25 = 00000000
+# regfiles26 = 00000000
+# regfiles27 = 00000000
+# regfiles28 = 00000000
+# regfiles29 = 00000000
+# regfiles30 = 00000000
+# regfiles31 = 00000000
+# instr = ac620000
+# pc = 00000010
+# regfiles0 = 00000000
+# regfiles1 = 00000001
+# regfiles2 = 0000000a
+# regfiles3 = 000fff00
+# regfiles4 = 00000000
+# regfiles5 = 00000000
+# regfiles6 = 00000000
+# regfiles7 = 00000000
+# regfiles8 = 00000000
+# regfiles9 = 00000000
+# regfiles10 = 00000000
+# regfiles11 = 00000000
+# regfiles12 = 00000000
+# regfiles13 = 00000000
+# regfiles14 = 00000000
+# regfiles15 = 00000000
+# regfiles16 = 00000000
+# regfiles17 = 00000000
+# regfiles18 = 00000000
+# regfiles19 = 00000000
+# regfiles20 = 00000000
+# regfiles21 = 00000000
+# regfiles22 = 00000000
+# regfiles23 = 00000000
+# regfiles24 = 00000000
+# regfiles25 = 00000000
+# regfiles26 = 00000000
+# regfiles27 = 00000000
+# regfiles28 = 00000000
+# regfiles29 = 00000000
+# regfiles30 = 00000000
+# regfiles31 = 00000000
+# instr = 08000006
+# pc = 00000014
+#  
