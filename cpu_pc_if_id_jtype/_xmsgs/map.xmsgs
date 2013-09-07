@@ -5,11 +5,15 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
-<msg type="info" file="LIT" num="243" delta="old" >Logical network <arg fmt="%s" index="1">clk_IBUF</arg> has no load.
+<msg type="info" file="LIT" num="243" delta="new" >Logical network <arg fmt="%s" index="1">iram_indata&lt;31&gt;</arg> has no load.
 </msg>
 
-<msg type="info" file="LIT" num="395" delta="old" >The above <arg fmt="%s" index="1">info</arg> message is repeated <arg fmt="%d" index="2">1</arg> more times for the following (max. 5 shown):
-<arg fmt="%s" index="3">rst_IBUF</arg>
+<msg type="info" file="LIT" num="395" delta="new" >The above <arg fmt="%s" index="1">info</arg> message is repeated <arg fmt="%d" index="2">33</arg> more times for the following (max. 5 shown):
+<arg fmt="%s" index="3">iram_indata&lt;30&gt;,
+iram_indata&lt;29&gt;,
+iram_indata&lt;28&gt;,
+iram_indata&lt;27&gt;,
+iram_indata&lt;26&gt;</arg>
 To see the details of these <arg fmt="%s" index="4">info</arg> messages, please use the -detail switch.
 </msg>
 
@@ -25,7 +29,8 @@ To see the details of these <arg fmt="%s" index="4">info</arg> messages, please 
 <msg type="info" file="Map" num="215" delta="old" >The Interim Design Summary has been generated in the MAP Report (.mrp).
 </msg>
 
-<msg type="info" file="Pack" num="1650" delta="old" >Map created a placed design.
+<msg type="fatal" file="Portability" num="0" delta="new" srcfile="PortDynamicLib.c" srcline="408" srcrcs="1.33" >dll open of library &lt;<arg fmt="%s" index="1">D:/Xilinx/13.3/ISE_DS/ISE/lib/nt/libHmetis.dll</arg>&gt; failed due to <arg fmt="%s" index="2">ﾾￜﾾ￸ﾷￃￎￊﾡﾣ
+</arg><arg fmt="%s" index="3"></arg>.
 </msg>
 
 </messages>

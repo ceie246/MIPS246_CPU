@@ -5,18 +5,18 @@
     The structure and the elements are likely to change over the next few releases.
     This means code written to parse this file will need to be revisited each subsequent release.-->
 
-  <application stringID="Xst" timeStamp="Mon May 06 19:08:53 2013">
+  <application stringID="Xst" timeStamp="Fri Sep 06 23:14:42 2013">
     <section stringID="User_Env">
       <table stringID="User_EnvVar">
         <column stringID="variable"/>
         <column stringID="value"/>
         <row stringID="row" value="0">
           <item stringID="variable" value="Path"/>
-          <item stringID="value" value="D:\Xilinx\13.3\ISE_DS\ISE\\lib\nt;D:\Xilinx\13.3\ISE_DS\ISE\\bin\nt;D:\Xilinx\13.3\ISE_DS\PlanAhead\bin;D:\Xilinx\13.3\ISE_DS\ISE\bin\nt;D:\Xilinx\13.3\ISE_DS\ISE\lib\nt;D:\Xilinx\13.3\ISE_DS\EDK\bin\nt;D:\Xilinx\13.3\ISE_DS\EDK\lib\nt;D:\Xilinx\13.3\ISE_DS\EDK\gnu\microblaze\nt\bin;D:\Xilinx\13.3\ISE_DS\EDK\gnu\powerpc-eabi\nt\bin;D:\Xilinx\13.3\ISE_DS\EDK\gnuwin\bin;D:\Xilinx\13.3\ISE_DS\common\bin\nt;D:\Xilinx\13.3\ISE_DS\common\lib\nt;D:\Perl\site\bin;D:\Perl\bin;C:\Program Files\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\OpenCL SDK\2.0\bin\x86;D:\Program Files\TortoiseSVN\bin;D:\modeltech_10.0c\win32;D:\iverilog\bin"/>
+          <item stringID="value" value="D:\Xilinx\13.3\ISE_DS\ISE\\lib\nt;D:\Xilinx\13.3\ISE_DS\ISE\\bin\nt;C:\Ruby193\bin;C:\Program Files\AMD APP\bin\x86;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\QuickTime\QTSystem\;D:\Program Files\TortoiseSVN\bin;C:\Program Files\ATI Technologies\ATI.ACE\Core-Static;C:\Program Files\MATLAB\MATLAB Compiler Runtime\v715\runtime\win32;C:\Program Files\Darwin Streaming Server;D:\Program Files\Microsoft Visual Studio\Common\Tools\WinNT;D:\Program Files\Microsoft Visual Studio\Common\MSDev98\Bin;D:\Program Files\Microsoft Visual Studio\Common\Tools;D:\Program Files\Microsoft Visual Studio\VC98\bin;C:\Program Files\Java\jdk1.6.0_24\bin;C:\Program Files\DBank\ClickUp;D:\modeltech_10.0b\win32;D:\Xilinx\13.3\ISE_DS\ISE\bin\nt;F:\Z\实验工具汇总"/>
         </row>
         <row stringID="row" value="1">
           <item stringID="variable" value="PATHEXT"/>
-          <item stringID="value" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+          <item stringID="value" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW"/>
         </row>
         <row stringID="row" value="2">
           <item stringID="variable" value="XILINX"/>
@@ -25,18 +25,6 @@
         <row stringID="row" value="3">
           <item stringID="variable" value="XILINXD_LICENSE_FILE"/>
           <item stringID="value" value="D:\Xilinx\xilinx_ise.lic"/>
-        </row>
-        <row stringID="row" value="4">
-          <item stringID="variable" value="XILINX_DSP"/>
-          <item stringID="value" value="D:\Xilinx\13.3\ISE_DS\ISE"/>
-        </row>
-        <row stringID="row" value="5">
-          <item stringID="variable" value="XILINX_EDK"/>
-          <item stringID="value" value="D:\Xilinx\13.3\ISE_DS\EDK"/>
-        </row>
-        <row stringID="row" value="6">
-          <item stringID="variable" value="XILINX_PLANAHEAD"/>
-          <item stringID="value" value="D:\Xilinx\13.3\ISE_DS\PlanAhead"/>
         </row>
       </table>
       <item stringID="User_EnvOs" value="OS Information">
@@ -48,8 +36,8 @@
         <column stringID="arch"/>
         <column stringID="speed"/>
         <row stringID="row" value="0">
-          <item stringID="arch" value="Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz"/>
-          <item stringID="speed" value="2494 MHz"/>
+          <item stringID="arch" value="Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz"/>
+          <item stringID="speed" value="3093 MHz"/>
         </row>
       </table>
     </section>
