@@ -26,6 +26,9 @@ module top_core(
 		output [7:0] led_data,
 		output [7:0] segment_data,
 		output [3:0] AN,
+		output [2:0] r, g,
+		output [1:0] b,
+		output hs, vs,
 		//for test
 		output cpu_clk
     );
@@ -35,8 +38,8 @@ wire FEPU_BEPU_w;
 //wire cpu_clk;
 
 FEPU FEPU(cpu_clk, rst, FEPU_BEPU_select, FEPU_BEPU_w, FEPU_BEPU_data, FEPU_BEPU_addr);//clk
-BEPU BEPU(cpu_clk, rst, FEPU_BEPU_select, FEPU_BEPU_w, SW, FEPU_BEPU_data, led_data, segment_data, AN);//clk
-clk_div #(`CLK) clkmanage(clk, rst, cpu_clk); //24
-
+BEPU BEPU(cpu_clk, vga_clk, rst, FEPU_BEPU_select, FEPU_BEPU_w, SW, FEPU_BEPU_data, FEPU_BEPU_addr, led_data, 
+			segment_data, AN, r, g, b, hs, vs);//clk
+clk_div #(`CLK) clkmanage(clk, rst, cpu_clk, vga_clk); //24
 
 endmodule

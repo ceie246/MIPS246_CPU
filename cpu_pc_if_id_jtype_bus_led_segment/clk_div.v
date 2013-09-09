@@ -21,7 +21,8 @@
 module clk_div #(parameter SEL = 8)(
 		input clk,
 		input rst,
-		output sel_clk
+		output sel_clk,
+		output vga_clk
     );
 
 reg [31:0] clk_count;
@@ -42,5 +43,6 @@ end
 //end
 
 assign sel_clk = clk_count[SEL];
+assign vga_clk = clk; //100mHZ
 
 endmodule

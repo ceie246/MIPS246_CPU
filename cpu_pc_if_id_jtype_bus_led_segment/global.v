@@ -1,5 +1,5 @@
-`define FPGA
-//`define TEST
+//`define FPGA
+`define TEST
 
 `ifdef TEST
 	`define CLK 2

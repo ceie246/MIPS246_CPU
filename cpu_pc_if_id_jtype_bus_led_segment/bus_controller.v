@@ -31,12 +31,13 @@ always @(*) begin
 	select = 32'b0;
 	if(cpu_bc_addr[31:16] == 16'b0) begin
 		select[31] = 1'b1;	
+	end else if (cpu_bc_addr[31:0] >= 32'h00ef_ff00 && cpu_bc_addr[31:0] < 32'h00ff_ff00) begin
+		select[3] = 1'b1;
 	end else begin
 		case(cpu_bc_addr[31:4]) //[31:0]
-		28'h000f_ff0: select[0] = 1'b1; //led 32'h000f_ff00:
-		28'h000f_ff1: select[1] = 1'b1; //7 segment display 32'h000f_ff01:
-		28'h000f_ff2: select[2] = 1'b1; //keyboard 32'h000f_ff03:
-		28'h001f_ff0: select[3] = 1'b1; //vga 32'h001f_ff00:
+		28'h00ff_ff0: select[0] = 1'b1; //led 32'h000f_ff00:
+		28'h00ff_ff1: select[1] = 1'b1; //7 segment display 32'h000f_ff01:
+		28'h00ff_ff2: select[2] = 1'b1; //keyboard 32'h000f_ff03:
 		default:
 			select = 32'b0;
 		endcase
