@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated   -->
+<!--     by the Xilinx ISE software.  Any direct editing or        -->
+<!--     changes made to this file may result in unpredictable     -->
+<!--     behavior or data corruption.  It is strongly advised that -->
+<!--     users do not edit the contents of this file.              -->
+<!--                                                               -->
+<!-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.    -->
+
+<messages>
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/vga_cpu/ascii2font.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/GitHub/MIPS246_CPU/vga_cpu/ascii2font.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/GitHub/MIPS246_CPU/vga_cpu/define.v&apos; in file &quot;E:/GitHub/MIPS246_CPU/vga_cpu/ascii2font.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/GitHub/MIPS246_CPU/vga_cpu/ascii2font.v</arg>&quot; Line <arg fmt="%d" index="2">88</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/GitHub/MIPS246_CPU/vga_cpu/global_parameter.v&apos; in file &quot;E:/GitHub/MIPS246_CPU/vga_cpu/ascii2font.v&quot; line 88
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/vga_cpu/mux2x32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/vga_cpu/ram.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/vga_cpu/top_cpu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/vga_cpu/vga.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/vga_cpu/vga_controller.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/GitHub/MIPS246_CPU/vga_cpu/vga_controller.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/GitHub/MIPS246_CPU/vga_cpu/define.v&apos; in file &quot;E:/GitHub/MIPS246_CPU/vga_cpu/vga_controller.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub/MIPS246_CPU/vga_cpu/wram2asciiram_addr.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/GitHub/MIPS246_CPU/vga_cpu/wram2asciiram_addr.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/GitHub/MIPS246_CPU/vga_cpu/define.v&apos; in file &quot;E:/GitHub/MIPS246_CPU/vga_cpu/wram2asciiram_addr.v&quot; line 2
+</arg>
+</msg>
+
+</messages>
+

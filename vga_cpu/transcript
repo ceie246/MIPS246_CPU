@@ -1,0 +1,339 @@
+# Reading D:/modeltech_10.0b/tcl/vsim/pref.tcl 
+# //  ModelSim SE 10.0b May  5 2011 
+# //
+# //  Copyright 1991-2011 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //
+# do {top_vga_tb.fdo} 
+# ** Warning: (vlib-34) Library already exists at "work".
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module wram2asciiram_addr
+# 
+# Top level modules:
+# 	wram2asciiram_addr
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module vga
+# 
+# Top level modules:
+# 	vga
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module ram
+# 
+# Top level modules:
+# 	ram
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module mux2x32
+# 
+# Top level modules:
+# 	mux2x32
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module ascii2font
+# 
+# Top level modules:
+# 	ascii2font
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module vga_controller
+# 
+# Top level modules:
+# 	vga_controller
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module top_cpu
+# 
+# Top level modules:
+# 	top_cpu
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module top_vga_tb
+# 
+# Top level modules:
+# 	top_vga_tb
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module glbl
+# 
+# Top level modules:
+# 	glbl
+# vsim -L xilinxcorelib_ver -L unisims_ver -L secureip -lib work -voptargs=\"+acc\" -t 1ps work.top_vga_tb glbl 
+# Loading work.top_vga_tb
+# Loading work.top_cpu
+# Loading work.vga_controller
+# Loading work.wram2asciiram_addr
+# Loading work.mux2x32
+# Loading work.ram
+# Loading work.ascii2font
+# Loading work.vga
+# Loading work.glbl
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+#  
+add wave -position end  sim:/top_vga_tb/uut/vgacu/vga/valid
+add wave -position end  sim:/top_vga_tb/uut/vgacu/vga/row
+add wave -position end  sim:/top_vga_tb/uut/vgacu/vga/col
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position end  sim:/top_vga_tb/uut/vgacu/vga/h_count
+add wave -position end  sim:/top_vga_tb/uut/vgacu/vga/v_count
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position end  sim:/top_vga_tb/uut/vgacu/vga/data_reg
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position end  sim:/top_vga_tb/uut/vgacu/ram_ascii
+restart
+run
+run
+run
+run
+run
+run
+add wave -position end  sim:/top_vga_tb/uut/vgacu/ascii_ram/addr
+run
+# Break in Module ram at ram.v line 84
+run
+run
+# Break in Module ram at ram.v line 84
+run
+run
+# Break in Module ram at ram.v line 84
+restart
+run
+# Break in Module ram at ram.v line 84
+run
+# Break in Module ram at ram.v line 84
+run
+run
+# Break in Module ram at ram.v line 84
+run
+run
+# Break in Module ram at ram.v line 84
+run
+run
+# Break in Module ram at ram.v line 84
+run
+run
+# Break in Module ram at ram.v line 84
+run
+run
+# Break in Module ram at ram.v line 84
+run
+run
+# Break in Module ram at ram.v line 84
+run
+run
+# Break in Module ram at ram.v line 84
+run
+run
+# Break in Module ram at ram.v line 84
+run
+run
+# Break in Module ram at ram.v line 84
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position end  sim:/top_vga_tb/uut/vgacu/ascii_ram/data_out
+add wave -position end  sim:/top_vga_tb/uut/vgacu/vga/data_in
+restart
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+vlog -L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF E:/GitHub/MIPS246_CPU/vga_cpu/ram.v
+# Model Technology ModelSim SE vlog 10.0b Compiler 2011.05 May  5 2011
+# -- Compiling module ram
+# 
+# Top level modules:
+# 	ram
+restart
+# Loading work.ram
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Break in Module ascii2font at ascii2font.v line 100
+run
+# Break in Module ascii2font at ascii2font.v line 100
+run
+# Break in Module ascii2font at ascii2font.v line 100
+run
+# Break in Module ascii2font at ascii2font.v line 100
+run
+# Break in Module ascii2font at ascii2font.v line 100
+run
+# Break in Module ascii2font at ascii2font.v line 100
+run

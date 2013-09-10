@@ -6,7 +6,8 @@ ise -dd _ngo -nt timestamp -uc top_cpu_ucf.ucf -p xc6slx16-csg324-3 top_core.ngc
 top_core.ngd
 
 Reading NGO file
-"E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_core.ngc" ...
+"E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.07/top_core.ngc"
+...
 Gathering constraint information from source properties...
 Done.
 
@@ -28,10 +29,10 @@ NGDBUILD Design Results Summary:
   Number of errors:     0
   Number of warnings:   0
 
-Total memory usage is 118588 kilobytes
+Total memory usage is 119292 kilobytes
 
 Writing NGD file "top_core.ngd" ...
-Total REAL time to NGDBUILD completion:  2 sec
+Total REAL time to NGDBUILD completion:  3 sec
 Total CPU time to NGDBUILD completion:   2 sec
 
 Writing NGDBUILD log file "top_core.bld"...

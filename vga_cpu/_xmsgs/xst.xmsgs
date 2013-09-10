@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"E:\GitHub\MIPS246_CPU\vga_cpu\wram2asciiram_addr.v" Line 31: Result of <arg fmt="%d" index="1">25</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+</msg>
+
+<msg type="warning" file="Xst" num="1290" delta="old" >Hierarchical block &lt;<arg fmt="%s" index="1">real_addr</arg>&gt; is unconnected in block &lt;<arg fmt="%s" index="2">vgacu</arg>&gt;.
+It will be removed from the design.
+</msg>
+
+<msg type="info" file="Xst" num="3218" delta="old" >HDL ADVISOR - The RAM &lt;<arg fmt="%s" index="1">Mram_ram</arg>&gt; will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">vga/data_reg_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">vga_controller</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">7 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;vga/data_reg_1&gt; &lt;vga/data_reg_2&gt; &lt;vga/data_reg_3&gt; &lt;vga/data_reg_4&gt; &lt;vga/data_reg_5&gt; &lt;vga/data_reg_6&gt; &lt;vga/data_reg_7&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram127</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram126</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram125</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram124</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram123</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram122</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram120</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram119</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram121</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram118</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram117</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram116</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram115</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram114</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram113</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram111</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram110</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram112</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram109</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram108</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram106</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram105</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram107</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram104</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram103</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram101</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram100</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram102</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram99</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram98</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram97</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram96</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram95</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram94</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram92</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram91</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram93</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram90</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram89</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram87</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram86</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram88</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram85</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram84</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram82</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram128</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram83</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram79</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram78</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram77</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram76</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram75</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram73</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram72</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram74</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram71</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram70</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram68</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram67</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram69</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram66</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram63</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram62</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram64</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram61</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram60</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram59</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram58</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram57</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram56</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram54</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram53</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram55</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram52</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram51</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="new" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram49</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram48</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram50</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram47</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram46</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram44</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram43</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram45</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram42</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram41</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram40</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram39</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram38</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram37</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram35</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram34</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram36</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="new" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram33</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram32</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram30</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram29</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram31</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram28</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram27</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram25</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram24</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram26</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram23</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram22</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram21</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram20</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram19</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram18</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram16</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram15</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="new" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram17</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram14</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram13</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram11</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram10</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram12</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram9</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram8</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram6</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram5</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram7</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram4</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram3</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram80</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram2</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">vgacu/ascii_ram/Mram_ram65</arg>&gt;, &lt;<arg fmt="%s" index="2">vgacu/ascii_ram/Mram_ram1</arg>&gt; are equivalent, second RAM is removed
+</msg>
+
+</messages>
+

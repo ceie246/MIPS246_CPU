@@ -216,6 +216,7 @@
     </file>
     <file xil_pn:name="write_segment_new.txt" xil_pn:type="FILE_USERDOC"/>
     <file xil_pn:name="write_led_new.txt" xil_pn:type="FILE_USERDOC"/>
+    <file xil_pn:name="write_segment_contious.txt" xil_pn:type="FILE_USERDOC"/>
   </files>
 
   <properties>

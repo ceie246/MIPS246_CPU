@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\GitHub\MIPS246_CPU\vga_cpu\top_cpu.ncd
+OUTFILE=E:\GitHub\MIPS246_CPU\vga_cpu\top_cpu.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=E:\GitHub\MIPS246_CPU\vga_cpu
+LICENSE=WebPack
+USER_INFO=__0_0_0

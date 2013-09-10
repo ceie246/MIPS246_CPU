@@ -36,7 +36,7 @@ Setup/Hold to clock clk
             |Max Setup to|  Process   |Max Hold to |  Process   |                  | Clock  |
 Source      | clk (edge) |   Corner   | clk (edge) |   Corner   |Internal Clock(s) | Phase  |
 ------------+------------+------------+------------+------------+------------------+--------+
-rst         |    2.609(R)|      SLOW  |   -1.006(R)|      FAST  |clk_BUFGP         |   0.000|
+rst         |    2.780(R)|      SLOW  |   -0.954(R)|      FAST  |clk_BUFGP         |   0.000|
 ------------+------------+------------+------------+------------+------------------+--------+
 
 Clock clk to Pad
@@ -44,7 +44,7 @@ Clock clk to Pad
             |Max (slowest) clk|  Process   |Min (fastest) clk|  Process   |                  | Clock  |
 Destination |  (edge) to PAD  |   Corner   |  (edge) to PAD  |   Corner   |Internal Clock(s) | Phase  |
 ------------+-----------------+------------+-----------------+------------+------------------+--------+
-cpu_clk     |         7.899(R)|      SLOW  |         4.270(R)|      FAST  |clk_BUFGP         |   0.000|
+cpu_clk     |         7.968(R)|      SLOW  |         4.358(R)|      FAST  |clk_BUFGP         |   0.000|
 ------------+-----------------+------------+-----------------+------------+------------------+--------+
 
 Clock to Setup on destination clock clk
@@ -52,40 +52,40 @@ Clock to Setup on destination clock clk
                | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
 Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
 ---------------+---------+---------+---------+---------+
-clk            |    1.748|         |         |         |
+clk            |    1.805|         |         |         |
 ---------------+---------+---------+---------+---------+
 
 Pad to Pad
 ---------------+---------------+---------+
 Source Pad     |Destination Pad|  Delay  |
 ---------------+---------------+---------+
-SW<1>          |led_data<0>    |    9.651|
-SW<1>          |led_data<1>    |    9.995|
-SW<1>          |led_data<2>    |   10.138|
-SW<1>          |led_data<3>    |    9.816|
-SW<1>          |led_data<4>    |    9.688|
-SW<1>          |led_data<5>    |    9.045|
-SW<1>          |led_data<6>    |    9.512|
-SW<1>          |led_data<7>    |    9.310|
-SW<2>          |led_data<0>    |   10.460|
-SW<2>          |led_data<1>    |   10.783|
-SW<2>          |led_data<2>    |   10.667|
-SW<2>          |led_data<3>    |   10.445|
-SW<2>          |led_data<4>    |    9.922|
-SW<2>          |led_data<5>    |    9.718|
-SW<2>          |led_data<6>    |   10.135|
-SW<2>          |led_data<7>    |    9.639|
+SW<1>          |led_data<0>    |    9.586|
+SW<1>          |led_data<1>    |   10.317|
+SW<1>          |led_data<2>    |   10.256|
+SW<1>          |led_data<3>    |   11.046|
+SW<1>          |led_data<4>    |    9.633|
+SW<1>          |led_data<5>    |    9.529|
+SW<1>          |led_data<6>    |    9.328|
+SW<1>          |led_data<7>    |    9.429|
+SW<2>          |led_data<0>    |    9.835|
+SW<2>          |led_data<1>    |   10.486|
+SW<2>          |led_data<2>    |   10.290|
+SW<2>          |led_data<3>    |   10.982|
+SW<2>          |led_data<4>    |   10.049|
+SW<2>          |led_data<5>    |    9.956|
+SW<2>          |led_data<6>    |    9.814|
+SW<2>          |led_data<7>    |    9.620|
 ---------------+---------------+---------+
 
 
-Analysis completed Sat Sep 07 13:24:55 2013 
+Analysis completed Sat Sep 07 13:40:22 2013 
 --------------------------------------------------------------------------------
 
 Trace Settings:
 -------------------------
 Trace Settings 
 
-Peak Memory Usage: 159 MB
+Peak Memory Usage: 162 MB
 
 
 

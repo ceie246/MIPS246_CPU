@@ -1,0 +1,7 @@
+verilog work "wram2asciiram_addr.v"
+verilog work "vga.v"
+verilog work "ram.v"
+verilog work "mux2x32.v"
+verilog work "ascii2font.v"
+verilog work "vga_controller.v"
+verilog work "top_cpu.v"

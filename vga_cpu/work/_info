@@ -1,0 +1,159 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\GitHub\MIPS246_CPU\vga_cpu
+vascii2font
+Z1 !s100 M;4CD7OPaSaT;om@@<CW<3
+Z2 ILIJT[0KS7H9>_gaP@Ahfa3
+Z3 V2g@:MfM9h1T?Y^CY?@P<^0
+Z4 dE:\GitHub\MIPS246_CPU\vga_cpu
+Z5 w1378711209
+Z6 8ascii2font.v
+Z7 Fascii2font.v
+Z8 Fglobal_parameter.v
+L0 22
+Z9 OE;L;10.0b;49
+r1
+31
+Z10 !s90 -reportprogress|300|ascii2font.v|
+Z11 o-L mtiAvm -L mtiOvm -L mtiUvm -L mtiUPF
+Z12 !s108 1378739020.542000
+Z13 !s107 global_parameter.v|define.v|ascii2font.v|
+!s85 0
+vglbl
+Z14 !s100 V<`KW`8LXe32mQ2Gdj1MB2
+Z15 IFO;UBj`VnzY[Ym4SWVVm;3
+Z16 VM[9mS]S:KA1i4VeCMX35[3
+R4
+Z17 w1317695952
+Z18 8D:/Xilinx/13.3/ISE_DS/ISE//verilog/src/glbl.v
+Z19 FD:/Xilinx/13.3/ISE_DS/ISE//verilog/src/glbl.v
+L0 5
+R9
+r1
+31
+Z20 !s90 -reportprogress|300|D:/Xilinx/13.3/ISE_DS/ISE//verilog/src/glbl.v|
+R11
+!s85 0
+Z21 !s108 1378739020.876000
+Z22 !s107 D:/Xilinx/13.3/ISE_DS/ISE//verilog/src/glbl.v|
+vmux2x32
+Z23 !s100 L1iESfgYg>[jmG;aKV7T91
+Z24 IGafRLUlaA=GGXN8f5>8`o2
+Z25 VABKcRiPRRc1cWeeHk^H0;0
+R4
+Z26 w1370863306
+Z27 8mux2x32.v
+Z28 Fmux2x32.v
+L0 21
+R9
+r1
+31
+Z29 !s90 -reportprogress|300|mux2x32.v|
+R11
+Z30 !s108 1378739020.467000
+Z31 !s107 mux2x32.v|
+!s85 0
+vram
+!s100 bdTo7bLBEdWdZBL=gza_:3
+IA:eV5RK8A`kY6gjM0fOYm1
+Z32 V6E3aobRoZ6TYEIoAzTo8_0
+R4
+w1378739891
+8E:/GitHub/MIPS246_CPU/vga_cpu/ram.v
+FE:/GitHub/MIPS246_CPU/vga_cpu/ram.v
+L0 28
+R9
+r1
+!s85 0
+31
+!s108 1378739908.097000
+!s107 E:/GitHub/MIPS246_CPU/vga_cpu/ram.v|
+!s90 -reportprogress|300|-L|mtiAvm|-L|mtiOvm|-L|mtiUvm|-L|mtiUPF|E:/GitHub/MIPS246_CPU/vga_cpu/ram.v|
+R11
+vtop_cpu
+Z33 !s100 0<V5[@_KUQBaiJSnh:<`J0
+Z34 I`@8KAlHneQ7H1@hXM2GmK0
+Z35 Vl:[:^CX>YTJzUWIAnRPnQ3
+R4
+Z36 w1378738427
+Z37 8top_cpu.v
+Z38 Ftop_cpu.v
+L0 21
+R9
+r1
+31
+Z39 !s90 -reportprogress|300|top_cpu.v|
+R11
+Z40 !s108 1378739020.707000
+Z41 !s107 top_cpu.v|
+!s85 0
+vtop_vga_tb
+Z42 IMbXCP4i=f<hLIJiN2K:Cc0
+Z43 VBm9g3Zb:ThAAV;2PYTT8o1
+R4
+Z44 w1378739008
+Z45 8top_vga_tb.v
+Z46 Ftop_vga_tb.v
+L0 25
+R9
+r1
+31
+Z47 !s90 -reportprogress|300|top_vga_tb.v|
+R11
+Z48 !s100 76b<?bo1Hndj@gCmh3F]23
+Z49 !s108 1378739020.782000
+Z50 !s107 top_vga_tb.v|
+!s85 0
+vvga
+Z51 !s100 5nCo3aK9g[bN1AHRELk;Q2
+Z52 II587GO[1e6E1c^e9EB3=;1
+Z53 V2Q=lT6[]b?WA^RbDA:^6@3
+R4
+R5
+Z54 8vga.v
+Z55 Fvga.v
+L0 21
+R9
+r1
+31
+Z56 !s90 -reportprogress|300|vga.v|
+R11
+Z57 !s108 1378739020.319000
+Z58 !s107 vga.v|
+!s85 0
+vvga_controller
+Z59 !s100 4T>9k1ok3FNcRnFgdS[jl1
+Z60 I=nYo7k8CG8Rf5E>01b4183
+Z61 VzUJ^EWga`eT[zZG=dLOf_1
+R4
+Z62 w1378738233
+Z63 8vga_controller.v
+Z64 Fvga_controller.v
+L0 22
+R9
+r1
+31
+Z65 !s90 -reportprogress|300|vga_controller.v|
+R11
+Z66 !s108 1378739020.632000
+Z67 !s107 define.v|vga_controller.v|
+!s85 0
+vwram2asciiram_addr
+Z68 !s100 ^5cE>lQKn71nKI>bi:gM22
+Z69 IGUe8VBA7]=bJ`a3D37jBC0
+Z70 VhhJ_6ba^J]2G<c0QnoSKW3
+R4
+Z71 w1378712953
+Z72 8wram2asciiram_addr.v
+Z73 Fwram2asciiram_addr.v
+L0 22
+R9
+r1
+31
+Z74 !s90 -reportprogress|300|wram2asciiram_addr.v|
+R11
+Z75 !s108 1378739020.224000
+Z76 !s107 define.v|wram2asciiram_addr.v|
+!s85 0

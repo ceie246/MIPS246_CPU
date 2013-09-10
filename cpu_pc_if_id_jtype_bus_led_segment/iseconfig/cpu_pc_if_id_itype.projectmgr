@@ -34,12 +34,12 @@
          <ClosedNode>/top_core E:|GitHub_down|MIPS246_CPU-master|cpu_pc_if_id_jtype_bus_led_segment|top_core.v/FEPU - FEPU/cpu - top_cpu/pipewb - pipe_wb</ClosedNode>
          <ClosedNode>/top_core E:|GitHub_new|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core.v/FEPU - FEPU/cpu - top_cpu</ClosedNode>
          <ClosedNode>/top_core E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core.v/BEPU - BEPU/ledcu - led_controller</ClosedNode>
-         <ClosedNode>/top_core E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core.v/BEPU - BEPU/segmentcu - segment_display_controller</ClosedNode>
-         <ClosedNode>/top_core E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core.v/FEPU - FEPU/cpu - top_cpu</ClosedNode>
+         <ClosedNode>/top_core E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core.v/BEPU - BEPU/segmentcu - segment_display_controller/segmentdisplay - top_segment_display</ClosedNode>
          <ClosedNode>/top_core E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core.v/FEPU - FEPU/cpu - top_cpu/pipeexe - pipe_exe</ClosedNode>
          <ClosedNode>/top_core E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core.v/FEPU - FEPU/cpu - top_cpu/pipeexe - pipe_exe/alu - alu</ClosedNode>
          <ClosedNode>/top_core E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core.v/FEPU - FEPU/cpu - top_cpu/pipeid - pipe_id</ClosedNode>
          <ClosedNode>/top_core E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core.v/FEPU - FEPU/cpu - top_cpu/pipeid - pipe_id/rf - regfiles/fw_rf - file_write_regfiles</ClosedNode>
+         <ClosedNode>/top_core E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core.v/FEPU - FEPU/cpu - top_cpu/pipeif - pipe_if</ClosedNode>
          <ClosedNode>/top_core E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core.v/FEPU - FEPU/cpu - top_cpu/pipeif - pipe_if/pcplus4 - top_cla_32</ClosedNode>
          <ClosedNode>/top_core E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core.v/FEPU - FEPU/cpu - top_cpu/pipeif - pipe_if/pcplus8 - top_cla_32</ClosedNode>
          <ClosedNode>/top_core E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core.v/FEPU - FEPU/cpu - top_cpu/pipemem - pipe_mem</ClosedNode>
@@ -67,13 +67,13 @@
          <ClosedNode>/top_segment_display E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype|top_segment_display.v</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>xc6slx16-3csg324</SelectedItem>
+         <SelectedItem>top_core (E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_core.v)</SelectedItem>
       </SelectedItems>
-      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >8</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000205000000020000000000000000000000000200000064ffffffff000000810000000300000002000002050000000100000003000000000000000100000003</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000368000000020000000000000000000000000200000064ffffffff000000810000000300000002000003680000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>xc6slx16-3csg324</CurrentItem>
+      <CurrentItem>top_core (E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_core.v)</CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -85,7 +85,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000125000000010000000100000000000000000000000064ffffffff000000810000000000000001000001250000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000023f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000023f0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem></CurrentItem>
    </ItemView>
@@ -98,7 +98,7 @@
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000013d000000040101000100000000000000000000000064ffffffff0000008100000000000000040000003d0000000100000000000000240000000100000000000000780000000100000000000000640000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem>add.v</CurrentItem>
+      <CurrentItem></CurrentItem>
    </ItemView>
    <ItemView guiview="Library" >
       <ClosedNodes>
@@ -108,7 +108,7 @@
       <SelectedItems/>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000064000000010001000100000000000000000000000064ffffffff000000810000000000000001000000640000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000195000000010001000100000000000000000000000064ffffffff000000810000000000000001000001950000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem>work</CurrentItem>
    </ItemView>
@@ -127,15 +127,15 @@
          <ClosedNode>User Constraints</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem></SelectedItem>
+         <SelectedItem>Generate Programming File</SelectedItem>
       </SelectedItems>
-      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >6</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000125000000010000000100000000000000000000000064ffffffff000000810000000000000001000001250000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000186000000010000000100000000000000000000000064ffffffff000000810000000000000001000001860000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem>Generate Programming File</CurrentItem>
    </ItemView>
-   <SourceProcessView>000000ff000000000000000200000192000000e501000000050100000002</SourceProcessView>
+   <SourceProcessView>000000ff0000000000000002000001650000011201000000050100000002</SourceProcessView>
    <CurrentView>Implementation</CurrentView>
    <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
       <ClosedNodes>
@@ -168,6 +168,7 @@
          <ClosedNode>/top_core_tb C:|Users|Cissy|Desktop|cpu_pc_if_id_jtype_bus_led_segment|top_core_tb.v/uut - top_core/FEPU - FEPU/cpu - top_cpu/pipewb - pipe_wb</ClosedNode>
          <ClosedNode>/top_core_tb E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core_tb.v/uut - top_core/BEPU - BEPU/ledcu - led_controller</ClosedNode>
          <ClosedNode>/top_core_tb E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core_tb.v/uut - top_core/BEPU - BEPU/segmentcu - segment_display_controller</ClosedNode>
+         <ClosedNode>/top_core_tb E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core_tb.v/uut - top_core/FEPU - FEPU</ClosedNode>
          <ClosedNode>/top_core_tb E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core_tb.v/uut - top_core/FEPU - FEPU/cpu - top_cpu/pipeexe - pipe_exe</ClosedNode>
          <ClosedNode>/top_core_tb E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core_tb.v/uut - top_core/FEPU - FEPU/cpu - top_cpu/pipeid - pipe_id</ClosedNode>
          <ClosedNode>/top_core_tb E:|GitHub|MIPS246_CPU|cpu_pc_if_id_jtype_bus_led_segment|top_core_tb.v/uut - top_core/FEPU - FEPU/cpu - top_cpu/pipeif - pipe_if/pcplus4 - top_cla_32</ClosedNode>
@@ -196,13 +197,13 @@
          <ClosedNode>/top_tb E:|fpga_svn|cpu_pc_if_id_itype|top_tb.v</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem>bc - bus_controller (E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/bus_controller.v)</SelectedItem>
+         <SelectedItem>real_addr - wram2asciiram_addr (E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/wram2asciiram_addr.v)</SelectedItem>
       </SelectedItems>
-      <ScrollbarPosition orientation="vertical" >18</ScrollbarPosition>
+      <ScrollbarPosition orientation="vertical" >5</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000037c000000020000000000000000000000000200000064ffffffff0000008100000003000000020000037c0000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
-      <CurrentItem>bc - bus_controller (E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/bus_controller.v)</CurrentItem>
+      <CurrentItem>real_addr - wram2asciiram_addr (E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/wram2asciiram_addr.v)</CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -210,26 +211,26 @@
          <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem/>
+         <SelectedItem></SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001fa000000010000000100000000000000000000000064ffffffff000000810000000000000001000001fa0000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000275000000010000000100000000000000000000000064ffffffff000000810000000000000001000002750000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem/>
+      <CurrentItem></CurrentItem>
    </ItemView>
    <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
       <ClosedNodes>
          <ClosedNodesVersion>1</ClosedNodesVersion>
       </ClosedNodes>
       <SelectedItems>
-         <SelectedItem/>
+         <SelectedItem></SelectedItem>
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001fa000000010000000100000000000000000000000064ffffffff000000810000000000000001000001fa0000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000275000000010000000100000000000000000000000064ffffffff000000810000000000000001000002750000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem/>
+      <CurrentItem></CurrentItem>
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="DESUT_UCF" guiview="Process" >
       <ClosedNodes>
@@ -241,7 +242,7 @@
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000013f000000010000000100000000000000000000000064ffffffff0000008100000000000000010000013f0000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000001ad000000010000000100000000000000000000000064ffffffff000000810000000000000001000001ad0000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
       <CurrentItem/>
    </ItemView>
