@@ -53,7 +53,7 @@ module vga_controller(
 	wram2asciiram_addr real_addr(waddr, wram_addr);
 	sel_sm sel_rw_sm(clk, rst, selRW, sel_rw);
 	mux2x32 #(`RAM_ADDR) mux2x_ram_addr(rram_addr, wram_addr, sel_rw, ram_addr);
-	ram #(8,`RAM_ADDR, 2) ascii_ram(clk, ram_ena, sel_rw, ram_addr, wdata, ram_ascii);
+	ram #(8,`RAM_ADDR, 0) ascii_ram(clk, ram_ena, sel_rw, ram_addr, wdata, ram_ascii);
 	ascii2font font({ram_ascii, pixel_row, pixel_col}, ram_font);
 	vga vga(clk, rst, ram_font, vga_addr, r, g, b, hs, vs);
 	
