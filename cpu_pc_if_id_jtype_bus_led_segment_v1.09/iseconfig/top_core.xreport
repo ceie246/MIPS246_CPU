@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2013-09-11T10:18:48</DateModified>
+  <DateModified>2013-09-15T17:53:22</DateModified>
   <ModuleName>top_core</ModuleName>
   <SummaryTimeStamp>2013-09-10T19:57:23</SummaryTimeStamp>
-  <SavedFilePath>E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/iseconfig/top_core.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>E:/GitHub/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment\</ImplementationReportsDirectory>
+  <SavedFilePath>E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/iseconfig/top_core.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09\</ImplementationReportsDirectory>
   <DateInitialized>2013-06-15T11:02:22</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

@@ -105,109 +105,113 @@ Slice Utilization Ratio Delta      : 5
 =========================================================================
 *                          HDL Parsing                                  *
 =========================================================================
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\g_p.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\g_p.v" into library work
 Parsing module <g_p>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\add.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\add.v" into library work
 Parsing module <add>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\cla_2.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\cla_2.v" into library work
 Parsing module <cla_2>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\cla_4.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\cla_4.v" into library work
 Parsing module <cla_4>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\cla_8.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\cla_8.v" into library work
 Parsing module <cla_8>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\cla_16.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\cla_16.v" into library work
 Parsing module <cla_16>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\cla_32.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\cla_32.v" into library work
 Parsing module <cla_32>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cla_32.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cla_32.v" into library work
 Parsing module <top_cla_32>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\add1.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\add1.v" into library work
 Parsing module <add1>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" into library work
 Parsing verilog file "global.v" included at line 2.
 Parsing module <file_write>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\barrelshifter32.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\barrelshifter32.v" into library work
 Parsing module <barrelshifter32>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" into library work
 Parsing module <addsub32>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\slt.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\slt.v" into library work
 Parsing module <slt>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\mux4x32.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\mux4x32.v" into library work
 Parsing module <mux4x32>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\mux2x32.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\mux2x32.v" into library work
 Parsing module <mux2x32>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write_regfiles.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write_regfiles.v" into library work
 Parsing verilog file "global.v" included at line 2.
 Parsing module <file_write_regfiles>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\bshifter32_carry.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\bshifter32_carry.v" into library work
 Parsing module <bshifter32_carry>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\regfiles.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\regfiles.v" into library work
 Parsing module <regfiles>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ram.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ram.v" into library work
 Parsing module <ram>.
-INFO:HDLCompiler:693 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ram.v" Line 37. parameter declaration becomes local in ram with formal parameter declaration list
-INFO:HDLCompiler:693 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ram.v" Line 38. parameter declaration becomes local in ram with formal parameter declaration list
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\led_seg7.v" into library work
+INFO:HDLCompiler:693 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ram.v" Line 37. parameter declaration becomes local in ram with formal parameter declaration list
+INFO:HDLCompiler:693 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ram.v" Line 38. parameter declaration becomes local in ram with formal parameter declaration list
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\led_seg7.v" into library work
 Parsing module <led_seg7>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ext.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ext.v" into library work
 Parsing module <ext>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\controlunit.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\controlunit.v" into library work
 Parsing module <controlunit>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\alu.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\alu.v" into library work
 Parsing module <alu>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\wram2asciiram_addr.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\wram2asciiram_addr.v" into library work
 Parsing verilog file "define.v" included at line 2.
 Parsing module <wram2asciiram_addr>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\vga.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\vga.v" into library work
 Parsing module <vga>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_segment_display.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_segment_display.v" into library work
 Parsing module <top_segment_display>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\sel_sm.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\sel_sm.v" into library work
 Parsing module <sel_sm>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ready_sm.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ready_sm.v" into library work
 Parsing module <ready_sm>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_wb.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ram_wf.v" into library work
+Parsing module <ram_wf>.
+INFO:HDLCompiler:693 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ram_wf.v" Line 37. parameter declaration becomes local in ram_wf with formal parameter declaration list
+INFO:HDLCompiler:693 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ram_wf.v" Line 38. parameter declaration becomes local in ram_wf with formal parameter declaration list
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_wb.v" into library work
 Parsing module <pipe_wb>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_if.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_if.v" into library work
 Parsing module <pipe_if>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_id.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_id.v" into library work
 Parsing module <pipe_id>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_exe.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_exe.v" into library work
 Parsing module <pipe_exe>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\led.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\led.v" into library work
 Parsing module <led>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\keyboard.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\keyboard.v" into library work
 Parsing module <keyboard>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\kb2ascii.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\kb2ascii.v" into library work
 Parsing verilog file "define.v" included at line 2.
 Parsing module <kb2ascii>.
 Parsing verilog file "global_parameter.v" included at line 27.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\dffe.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\dffe.v" into library work
 Parsing module <dffe>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ascii2font.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ascii2font.v" into library work
 Parsing verilog file "define.v" included at line 2.
 Parsing module <ascii2font>.
 Parsing verilog file "global_parameter.v" included at line 88.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\vga_controller.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\vga_controller.v" into library work
 Parsing verilog file "define.v" included at line 2.
 Parsing module <vga_controller>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cpu.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cpu.v" into library work
 Parsing module <top_cpu>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\segment_display_controller.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\segment_display_controller.v" into library work
 Parsing module <segment_display_controller>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\led_controller.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\led_controller.v" into library work
 Parsing module <led_controller>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\kb_controller.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\kb_controller.v" into library work
 Parsing module <kb_controller>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\bus_controller.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\bus_controller.v" into library work
 Parsing module <bus_controller>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\FEPU.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\FEPU.v" into library work
 Parsing module <FEPU>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\clk_div.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\clk_div.v" into library work
 Parsing module <clk_div>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\BEPU.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\BEPU.v" into library work
 Parsing module <BEPU>.
-Analyzing Verilog file "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_core.v" into library work
+Analyzing Verilog file "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_core.v" into library work
 Parsing verilog file "global.v" included at line 2.
 Parsing module <top_core>.
 
@@ -227,7 +231,7 @@ Elaborating module <pipe_if>.
 
 Elaborating module <ram(WIDTH=32,DEPTH=8,INIT=1)>.
 Reading initialization file \"write_vga_contionously.txt\".
-WARNING:HDLCompiler:1670 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ram.v" Line 47: Signal <ram> in initial block is partially initialized.
+WARNING:HDLCompiler:1670 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ram.v" Line 47: Signal <ram> in initial block is partially initialized.
 
 Elaborating module <top_cla_32>.
 
@@ -244,8 +248,8 @@ Elaborating module <cla_2>.
 Elaborating module <add>.
 
 Elaborating module <g_p>.
-WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_if.v" Line 42: Assignment to npc4_carry ignored, since the identifier is never used
-WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_if.v" Line 43: Assignment to npc8_carry ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_if.v" Line 42: Assignment to npc4_carry ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_if.v" Line 43: Assignment to npc8_carry ignored, since the identifier is never used
 
 Elaborating module <mux4x32>.
 
@@ -256,132 +260,132 @@ Elaborating module <regfiles>.
 Elaborating module <file_write_regfiles>.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles0")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles0")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles0")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles1")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles1")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles1")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles2")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles2")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles2")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles3")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles3")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles3")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles4")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles4")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles4")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles5")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles5")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles5")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles6")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles6")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles6")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles7")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles7")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles7")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles8")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles8")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles8")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles9")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles9")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles9")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles10")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles10")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles10")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles11")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles11")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles11")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles12")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles12")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles12")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles13")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles13")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles13")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles14")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles14")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles14")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles15")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles15")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles15")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles16")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles16")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles16")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles17")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles17")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles17")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles18")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles18")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles18")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles19")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles19")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles19")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles20")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles20")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles20")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles21")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles21")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles21")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles22")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles22")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles22")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles23")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles23")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles23")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles24")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles24")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles24")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles25")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles25")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles25")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles26")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles26")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles26")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles27")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles27")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles27")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles28")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles28")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles28")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles29")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles29")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles29")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles30")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles30")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles30")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="regfiles31")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles31")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="regfiles31")> remains a black box.
 
 Elaborating module <controlunit>.
 
@@ -398,14 +402,14 @@ Elaborating module <alu>.
 Elaborating module <addsub32>.
 
 Elaborating module <add1>.
-WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 58: Assignment to add_cout ignored, since the identifier is never used
-WARNING:HDLCompiler:91 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 68: Signal <add_result> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
-WARNING:HDLCompiler:91 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 69: Signal <addu_result> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
-WARNING:HDLCompiler:91 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 75: Signal <addu_result> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
-WARNING:HDLCompiler:91 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 76: Signal <addu_cout> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+WARNING:HDLCompiler:1127 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 58: Assignment to add_cout ignored, since the identifier is never used
+WARNING:HDLCompiler:91 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 68: Signal <add_result> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+WARNING:HDLCompiler:91 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 69: Signal <addu_result> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+WARNING:HDLCompiler:91 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 75: Signal <addu_result> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+WARNING:HDLCompiler:91 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 76: Signal <addu_cout> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
 
 Elaborating module <slt>.
-WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\slt.v" Line 33: Assignment to c_r ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\slt.v" Line 33: Assignment to c_r ignored, since the identifier is never used
 
 Elaborating module <bshifter32_carry>.
 
@@ -414,19 +418,19 @@ Elaborating module <barrelshifter32>.
 Elaborating module <mux2x32>.
 
 Elaborating module <mux4x32(WIDTH=1)>.
-WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cpu.v" Line 104: Assignment to carry ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cpu.v" Line 104: Assignment to carry ignored, since the identifier is never used
 
 Elaborating module <pipe_wb>.
-WARNING:HDLCompiler:1127 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cpu.v" Line 119: Assignment to dram_ena ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cpu.v" Line 119: Assignment to dram_ena ignored, since the identifier is never used
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="instr")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="instr")> remains a black box.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="instr")> remains a black box.
 
 Elaborating module <file_write(WIDTH=32,ARGUMENT="pc")>.
-WARNING:HDLCompiler:817 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
-WARNING:HDLCompiler:1499 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="pc")> remains a black box.
-WARNING:HDLCompiler:634 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cpu.v" Line 34: Net <iram_indata[31]> does not have a driver.
+WARNING:HDLCompiler:817 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task fdisplay ignored for synthesis
+WARNING:HDLCompiler:1499 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module <file_write(WIDTH=32,ARGUMENT="pc")> remains a black box.
+WARNING:HDLCompiler:634 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cpu.v" Line 34: Net <iram_indata[31]> does not have a driver.
 
 Elaborating module <bus_controller>.
 
@@ -449,14 +453,14 @@ Elaborating module <mux2x32(WIDTH=16)>.
 Elaborating module <vga_controller>.
 
 Elaborating module <wram2asciiram_addr>.
-WARNING:HDLCompiler:413 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\wram2asciiram_addr.v" Line 33: Result of 12-bit expression is truncated to fit in 5-bit target.
-WARNING:HDLCompiler:413 - "E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\wram2asciiram_addr.v" Line 34: Result of 12-bit expression is truncated to fit in 7-bit target.
+WARNING:HDLCompiler:413 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\wram2asciiram_addr.v" Line 33: Result of 12-bit expression is truncated to fit in 5-bit target.
+WARNING:HDLCompiler:413 - "E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\wram2asciiram_addr.v" Line 34: Result of 12-bit expression is truncated to fit in 7-bit target.
 
 Elaborating module <sel_sm>.
 
 Elaborating module <mux2x32(WIDTH=12)>.
 
-Elaborating module <ram(WIDTH=8,DEPTH=12,INIT=0)>.
+Elaborating module <ram_wf(WIDTH=8,DEPTH=12,INIT=0)>.
 
 Elaborating module <ascii2font>.
 
@@ -474,72 +478,72 @@ Elaborating module <ram(WIDTH=8,DEPTH=8,INIT=0)>.
 
 Elaborating module <ram(WIDTH=32,DEPTH=5,INIT=0)>.
 
-Elaborating module <clk_div(SEL=20)>.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v" line 125. All outputs of instance <fw_instr> of block <file_write> are unconnected in block <top_cpu>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v" line 126. All outputs of instance <fw_pc> of block <file_write> are unconnected in block <top_cpu>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/regfiles.v" line 52. All outputs of instance <fw_rf> of block <file_write_regfiles> are unconnected in block <regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 60. All outputs of instance <fw_rf0> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 61. All outputs of instance <fw_rf1> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 62. All outputs of instance <fw_rf2> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 63. All outputs of instance <fw_rf3> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 64. All outputs of instance <fw_rf4> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 65. All outputs of instance <fw_rf5> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 66. All outputs of instance <fw_rf6> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 67. All outputs of instance <fw_rf7> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 68. All outputs of instance <fw_rf8> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 69. All outputs of instance <fw_rf9> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 70. All outputs of instance <fw_rf10> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 71. All outputs of instance <fw_rf11> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 72. All outputs of instance <fw_rf12> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 73. All outputs of instance <fw_rf13> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 74. All outputs of instance <fw_rf14> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 75. All outputs of instance <fw_rf15> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 76. All outputs of instance <fw_rf16> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 77. All outputs of instance <fw_rf17> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 78. All outputs of instance <fw_rf18> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 79. All outputs of instance <fw_rf19> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 80. All outputs of instance <fw_rf20> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 81. All outputs of instance <fw_rf21> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 82. All outputs of instance <fw_rf22> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 83. All outputs of instance <fw_rf23> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 84. All outputs of instance <fw_rf24> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 85. All outputs of instance <fw_rf25> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 86. All outputs of instance <fw_rf26> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 87. All outputs of instance <fw_rf27> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 88. All outputs of instance <fw_rf28> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 89. All outputs of instance <fw_rf29> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 90. All outputs of instance <fw_rf30> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
-WARNING:Xst:2972 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 91. All outputs of instance <fw_rf31> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+Elaborating module <clk_div(SEL=15)>.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v" line 125. All outputs of instance <fw_instr> of block <file_write> are unconnected in block <top_cpu>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v" line 126. All outputs of instance <fw_pc> of block <file_write> are unconnected in block <top_cpu>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/regfiles.v" line 52. All outputs of instance <fw_rf> of block <file_write_regfiles> are unconnected in block <regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 60. All outputs of instance <fw_rf0> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 61. All outputs of instance <fw_rf1> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 62. All outputs of instance <fw_rf2> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 63. All outputs of instance <fw_rf3> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 64. All outputs of instance <fw_rf4> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 65. All outputs of instance <fw_rf5> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 66. All outputs of instance <fw_rf6> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 67. All outputs of instance <fw_rf7> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 68. All outputs of instance <fw_rf8> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 69. All outputs of instance <fw_rf9> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 70. All outputs of instance <fw_rf10> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 71. All outputs of instance <fw_rf11> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 72. All outputs of instance <fw_rf12> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 73. All outputs of instance <fw_rf13> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 74. All outputs of instance <fw_rf14> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 75. All outputs of instance <fw_rf15> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 76. All outputs of instance <fw_rf16> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 77. All outputs of instance <fw_rf17> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 78. All outputs of instance <fw_rf18> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 79. All outputs of instance <fw_rf19> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 80. All outputs of instance <fw_rf20> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 81. All outputs of instance <fw_rf21> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 82. All outputs of instance <fw_rf22> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 83. All outputs of instance <fw_rf23> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 84. All outputs of instance <fw_rf24> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 85. All outputs of instance <fw_rf25> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 86. All outputs of instance <fw_rf26> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 87. All outputs of instance <fw_rf27> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 88. All outputs of instance <fw_rf28> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 89. All outputs of instance <fw_rf29> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 90. All outputs of instance <fw_rf30> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
+WARNING:Xst:2972 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" line 91. All outputs of instance <fw_rf31> of block <file_write> are unconnected in block <file_write_regfiles>. Underlying logic will be removed.
 
 =========================================================================
 *                           HDL Synthesis                               *
 =========================================================================
 
 Synthesizing Unit <top_core>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_core.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_core.v".
     Summary:
 	no macro.
 Unit <top_core> synthesized.
 
 Synthesizing Unit <FEPU>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/fepu.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/fepu.v".
     Summary:
 	no macro.
 Unit <FEPU> synthesized.
 
 Synthesizing Unit <top_cpu>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v".
 WARNING:Xst:647 - Input <bc_cpu_data<31:0>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v" line 104: Output port <carry> of the instance <pipeexe> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v" line 104: Output port <negative> of the instance <pipeexe> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v" line 104: Output port <overflow> of the instance <pipeexe> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v" line 104: Output port <carry> of the instance <pipeexe> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v" line 104: Output port <negative> of the instance <pipeexe> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v" line 104: Output port <overflow> of the instance <pipeexe> is unconnected or connected to loadless signal.
 WARNING:Xst:653 - Signal <iram_indata> is used but never assigned. This sourceless signal will be automatically connected to value GND.
     Summary:
 	no macro.
 Unit <top_cpu> synthesized.
 
 Synthesizing Unit <dffe>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/dffe.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/dffe.v".
         WIDTH = 32
     Found 32-bit register for signal <data_out>.
     Summary:
@@ -547,16 +551,16 @@ Synthesizing Unit <dffe>.
 Unit <dffe> synthesized.
 
 Synthesizing Unit <pipe_if>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_if.v".
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_if.v" line 42: Output port <c_out> of the instance <pcplus4> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_if.v" line 43: Output port <c_out> of the instance <pcplus8> is unconnected or connected to loadless signal.
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_if.v".
+INFO:Xst:3210 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_if.v" line 42: Output port <c_out> of the instance <pcplus4> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_if.v" line 43: Output port <c_out> of the instance <pcplus8> is unconnected or connected to loadless signal.
     Found 32-bit adder for signal <pc_beqbne> created at line 46.
     Summary:
 	inferred   1 Adder/Subtractor(s).
 Unit <pipe_if> synthesized.
 
 Synthesizing Unit <ram_1>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ram.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ram.v".
         WIDTH = 32
         DEPTH = 8
         INIT = 1
@@ -566,54 +570,54 @@ Synthesizing Unit <ram_1>.
 Unit <ram_1> synthesized.
 
 Synthesizing Unit <top_cla_32>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cla_32.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cla_32.v".
     Summary:
 	no macro.
 Unit <top_cla_32> synthesized.
 
 Synthesizing Unit <cla_32>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/cla_32.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/cla_32.v".
     Summary:
 	no macro.
 Unit <cla_32> synthesized.
 
 Synthesizing Unit <cla_16>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/cla_16.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/cla_16.v".
     Summary:
 	no macro.
 Unit <cla_16> synthesized.
 
 Synthesizing Unit <cla_8>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/cla_8.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/cla_8.v".
     Summary:
 	no macro.
 Unit <cla_8> synthesized.
 
 Synthesizing Unit <cla_4>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/cla_4.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/cla_4.v".
     Summary:
 	no macro.
 Unit <cla_4> synthesized.
 
 Synthesizing Unit <cla_2>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/cla_2.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/cla_2.v".
     Summary:
 	no macro.
 Unit <cla_2> synthesized.
 
 Synthesizing Unit <add>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/add.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/add.v".
     Summary:
 Unit <add> synthesized.
 
 Synthesizing Unit <g_p>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/g_p.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/g_p.v".
     Summary:
 	no macro.
 Unit <g_p> synthesized.
 
 Synthesizing Unit <mux4x32>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/mux4x32.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/mux4x32.v".
         WIDTH = 32
     Found 32-bit 4-to-1 multiplexer for signal <r> created at line 32.
     Summary:
@@ -621,13 +625,13 @@ Synthesizing Unit <mux4x32>.
 Unit <mux4x32> synthesized.
 
 Synthesizing Unit <pipe_id>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_id.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_id.v".
     Summary:
 	no macro.
 Unit <pipe_id> synthesized.
 
 Synthesizing Unit <regfiles>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/regfiles.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/regfiles.v".
     Found 1024-bit register for signal <n0051[1023:0]>.
     Found 32-bit 32-to-1 multiplexer for signal <raddr1[4]_regfiles[31][31]_wide_mux_37_OUT> created at line 49.
     Found 32-bit 32-to-1 multiplexer for signal <raddr2[4]_regfiles[31][31]_wide_mux_40_OUT> created at line 50.
@@ -637,47 +641,47 @@ Synthesizing Unit <regfiles>.
 Unit <regfiles> synthesized.
 
 Synthesizing Unit <controlunit>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/controlunit.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/controlunit.v".
     Summary:
 	no macro.
 Unit <controlunit> synthesized.
 
 Synthesizing Unit <ext>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ext.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ext.v".
         WIDTH = 5
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <ext> synthesized.
 
 Synthesizing Unit <ext_1>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ext.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ext.v".
         WIDTH = 16
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <ext_1> synthesized.
 
 Synthesizing Unit <mux2x32_1>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/mux2x32.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/mux2x32.v".
         WIDTH = 5
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <mux2x32_1> synthesized.
 
 Synthesizing Unit <pipe_exe>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_exe.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_exe.v".
     Summary:
 	no macro.
 Unit <pipe_exe> synthesized.
 
 Synthesizing Unit <alu>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/alu.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/alu.v".
     Summary:
 	inferred   2 Multiplexer(s).
 Unit <alu> synthesized.
 
 Synthesizing Unit <addsub32>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/addsub32.v".
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/addsub32.v" line 58: Output port <co> of the instance <add_32> is unconnected or connected to loadless signal.
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/addsub32.v".
+INFO:Xst:3210 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/addsub32.v" line 58: Output port <co> of the instance <add_32> is unconnected or connected to loadless signal.
     Found 1-bit comparator equal for signal <add_result_addu_result[31]_equal_4_o> created at line 68
     Summary:
 	inferred   1 Comparator(s).
@@ -685,20 +689,20 @@ INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/addsub
 Unit <addsub32> synthesized.
 
 Synthesizing Unit <add1>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/add1.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/add1.v".
     Summary:
 Unit <add1> synthesized.
 
 Synthesizing Unit <slt>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/slt.v".
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/slt.v" line 33: Output port <c> of the instance <addsub_slt> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/slt.v" line 33: Output port <overflow> of the instance <addsub_slt> is unconnected or connected to loadless signal.
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/slt.v".
+INFO:Xst:3210 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/slt.v" line 33: Output port <c> of the instance <addsub_slt> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/slt.v" line 33: Output port <overflow> of the instance <addsub_slt> is unconnected or connected to loadless signal.
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <slt> synthesized.
 
 Synthesizing Unit <bshifter32_carry>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/bshifter32_carry.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/bshifter32_carry.v".
     Found 5-bit subtractor for signal <b[4]_GND_61_o_sub_1_OUT> created at line 37.
     Found 32-bit 3-to-1 multiplexer for signal <c_r> created at line 40.
     Summary:
@@ -707,21 +711,21 @@ Synthesizing Unit <bshifter32_carry>.
 Unit <bshifter32_carry> synthesized.
 
 Synthesizing Unit <barrelshifter32>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/barrelshifter32.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/barrelshifter32.v".
     Found 32-bit 3-to-1 multiplexer for signal <temp> created at line 35.
     Summary:
 	inferred 166 Multiplexer(s).
 Unit <barrelshifter32> synthesized.
 
 Synthesizing Unit <mux2x32>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/mux2x32.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/mux2x32.v".
         WIDTH = 32
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <mux2x32> synthesized.
 
 Synthesizing Unit <mux4x32_1>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/mux4x32.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/mux4x32.v".
         WIDTH = 1
     Found 1-bit 4-to-1 multiplexer for signal <r> created at line 32.
     Summary:
@@ -729,13 +733,13 @@ Synthesizing Unit <mux4x32_1>.
 Unit <mux4x32_1> synthesized.
 
 Synthesizing Unit <pipe_wb>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_wb.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_wb.v".
     Summary:
 	no macro.
 Unit <pipe_wb> synthesized.
 
 Synthesizing Unit <bus_controller>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/bus_controller.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/bus_controller.v".
     Found 32-bit comparator greater for signal <cpu_bc_addr[31]_GND_68_o_LessThan_1_o> created at line 32
     Found 32-bit comparator lessequal for signal <n0001> created at line 34
     Found 32-bit comparator greater for signal <cpu_bc_addr[31]_PWR_69_o_LessThan_3_o> created at line 34
@@ -746,26 +750,26 @@ Synthesizing Unit <bus_controller>.
 Unit <bus_controller> synthesized.
 
 Synthesizing Unit <BEPU>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/bepu.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/bepu.v".
 WARNING:Xst:647 - Input <select<3:30>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <BEPU> synthesized.
 
 Synthesizing Unit <led_controller>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/led_controller.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/led_controller.v".
     Summary:
 	no macro.
 Unit <led_controller> synthesized.
 
 Synthesizing Unit <led>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/led.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/led.v".
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <led> synthesized.
 
 Synthesizing Unit <mux4x32_2>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/mux4x32.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/mux4x32.v".
         WIDTH = 8
     Found 8-bit 4-to-1 multiplexer for signal <r> created at line 32.
     Summary:
@@ -773,13 +777,13 @@ Synthesizing Unit <mux4x32_2>.
 Unit <mux4x32_2> synthesized.
 
 Synthesizing Unit <segment_display_controller>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/segment_display_controller.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/segment_display_controller.v".
     Summary:
 	no macro.
 Unit <segment_display_controller> synthesized.
 
 Synthesizing Unit <top_segment_display>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_segment_display.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_segment_display.v".
     Found 8-bit register for signal <data_out_reg>.
     Found 4-bit register for signal <ena_reg>.
     Found finite state machine <FSM_0> for signal <ena_reg>.
@@ -802,7 +806,7 @@ Synthesizing Unit <top_segment_display>.
 Unit <top_segment_display> synthesized.
 
 Synthesizing Unit <led_seg7>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/led_seg7.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/led_seg7.v".
         seg0 = 8'b11000000
         seg1 = 8'b11111001
         seg2 = 8'b10100100
@@ -826,20 +830,21 @@ Synthesizing Unit <led_seg7>.
 Unit <led_seg7> synthesized.
 
 Synthesizing Unit <mux2x32_2>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/mux2x32.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/mux2x32.v".
         WIDTH = 16
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <mux2x32_2> synthesized.
 
 Synthesizing Unit <vga_controller>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/vga_controller.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/vga_controller.v".
+    Found 8-bit register for signal <data_reg>.
     Summary:
-	no macro.
+	inferred   8 D-type flip-flop(s).
 Unit <vga_controller> synthesized.
 
 Synthesizing Unit <wram2asciiram_addr>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/wram2asciiram_addr.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/wram2asciiram_addr.v".
     Found 32-bit subtractor for signal <addr_reg[31]_GND_79_o_add_1_OUT> created at line 33.
     Found 32x14-bit multiplier for signal <n0009> created at line 33.
     Found 32x7-bit multiplier for signal <n0010> created at line 34.
@@ -849,7 +854,7 @@ Synthesizing Unit <wram2asciiram_addr>.
 Unit <wram2asciiram_addr> synthesized.
 
 Synthesizing Unit <sel_sm>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/sel_sm.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/sel_sm.v".
     Found 2-bit register for signal <state_reg>.
     Found 4x1-bit Read Only RAM for signal <state_reg[1]_GND_83_o_Mux_9_o>
 WARNING:Xst:737 - Found 1-bit latch for signal <state_next<1>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
@@ -862,24 +867,27 @@ WARNING:Xst:737 - Found 1-bit latch for signal <state_next<0>>. Latches may be g
 Unit <sel_sm> synthesized.
 
 Synthesizing Unit <mux2x32_3>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/mux2x32.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/mux2x32.v".
         WIDTH = 12
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <mux2x32_3> synthesized.
 
-Synthesizing Unit <ram_2>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ram.v".
+Synthesizing Unit <ram_wf>.
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ram_wf.v".
         WIDTH = 8
         DEPTH = 12
         INIT = 0
     Found 4096x8-bit single-port RAM <Mram_ram> for signal <ram>.
+    Found 8-bit register for signal <data_out>.
     Summary:
 	inferred   1 RAM(s).
-Unit <ram_2> synthesized.
+	inferred   8 D-type flip-flop(s).
+	inferred   1 Multiplexer(s).
+Unit <ram_wf> synthesized.
 
 Synthesizing Unit <ascii2font>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ascii2font.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ascii2font.v".
         char_1 = 512'b00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000100000000000000110000000000111111000000000000001100000000000000110000000000000011000000000000001100000000000000110000000000000011000000000000001100000000000000110000000000000011000000000000001100000000000000110000000000000011000000000000001100000000000000110000000000000011000000000000001100000000000001111000000000111111111100000000000000000000000000000000000000000000000000000000000000000000000000000000000
         char_2 = 512'b00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000111111000000000100000111000000100000001100000100000000011000010000000001100001100000000110000110000000011000000000000001100000000000001100000000000000100000000000000100000000000000100000000000000100000000000000100000000000000100000000000000100000001000000100000000100000100000000010000100000000011000011111111111000001111111111100000000000000000000000000000000000000000000000000000000000000000000000000000000000
         char_3 = 512'b00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000111110000000001100001110000001100000011000000110000000110000011000000011000001100000001100000000000000110000000000000110000000000000110000000000011110000000000000001110000000000000001100000000000000010000000000000001100000000000000110000110000000011000011000000001100001100000000100000110000000110000001100000110000000001111100000000000000000000000000000000000000000000000000000000000000000000000000000000000000
@@ -1066,7 +1074,7 @@ Synthesizing Unit <ascii2font>.
 Unit <ascii2font> synthesized.
 
 Synthesizing Unit <vga>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/vga.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/vga.v".
     Found 11-bit register for signal <v_count>.
     Found 11-bit register for signal <h_count>.
     Found 8-bit register for signal <data_reg>.
@@ -1089,13 +1097,13 @@ Synthesizing Unit <vga>.
 Unit <vga> synthesized.
 
 Synthesizing Unit <kb_controller>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/kb_controller.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/kb_controller.v".
     Summary:
 	no macro.
 Unit <kb_controller> synthesized.
 
 Synthesizing Unit <keyboard>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/keyboard.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/keyboard.v".
     Found 1-bit register for signal <ps2_clk_r1>.
     Found 1-bit register for signal <ps2_clk_r0>.
     Found 9-bit register for signal <buffer>.
@@ -1122,7 +1130,7 @@ Synthesizing Unit <keyboard>.
 Unit <keyboard> synthesized.
 
 Synthesizing Unit <kb2ascii>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/kb2ascii.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/kb2ascii.v".
         ascii_1 = 8'b00110001
         ascii_2 = 8'b00110010
         ascii_3 = 8'b00110011
@@ -1269,7 +1277,7 @@ Synthesizing Unit <kb2ascii>.
 Unit <kb2ascii> synthesized.
 
 Synthesizing Unit <ready_sm>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ready_sm.v".
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ready_sm.v".
     Found 8-bit register for signal <addr_temp>.
     Found 3-bit register for signal <state_reg>.
     Found 1-bit register for signal <ready_out>.
@@ -1295,29 +1303,29 @@ Synthesizing Unit <ready_sm>.
 	inferred   1 Finite State Machine(s).
 Unit <ready_sm> synthesized.
 
-Synthesizing Unit <ram_3>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ram.v".
+Synthesizing Unit <ram_2>.
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ram.v".
         WIDTH = 8
         DEPTH = 8
         INIT = 0
     Found 256x8-bit single-port RAM <Mram_ram> for signal <ram>.
     Summary:
 	inferred   1 RAM(s).
-Unit <ram_3> synthesized.
+Unit <ram_2> synthesized.
 
-Synthesizing Unit <ram_4>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ram.v".
+Synthesizing Unit <ram_3>.
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/ram.v".
         WIDTH = 32
         DEPTH = 5
         INIT = 0
     Found 32x32-bit single-port RAM <Mram_ram> for signal <ram>.
     Summary:
 	inferred   1 RAM(s).
-Unit <ram_4> synthesized.
+Unit <ram_3> synthesized.
 
 Synthesizing Unit <clk_div>.
-    Related source file is "e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/clk_div.v".
-        SEL = 20
+    Related source file is "e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/clk_div.v".
+        SEL = 15
     Found 32-bit register for signal <clk_count>.
     Found 32-bit adder for signal <clk_count[31]_GND_96_o_add_0_OUT> created at line 33.
     Summary:
@@ -1348,13 +1356,13 @@ Macro Statistics
  5-bit subtractor                                      : 1
  8-bit adder                                           : 1
  9-bit subtractor                                      : 1
-# Registers                                            : 17
+# Registers                                            : 19
  1-bit register                                        : 6
  1024-bit register                                     : 1
  11-bit register                                       : 2
  2-bit register                                        : 1
  32-bit register                                       : 2
- 8-bit register                                        : 4
+ 8-bit register                                        : 6
  9-bit register                                        : 1
 # Latches                                              : 2
  1-bit latch                                           : 2
@@ -1364,7 +1372,7 @@ Macro Statistics
  11-bit comparator lessequal                           : 2
  32-bit comparator greater                             : 3
  32-bit comparator lessequal                           : 1
-# Multiplexers                                         : 267
+# Multiplexers                                         : 268
  1-bit 2-to-1 multiplexer                              : 174
  1-bit 4-to-1 multiplexer                              : 3
  1-bit 512-to-1 multiplexer                            : 1
@@ -1378,7 +1386,7 @@ Macro Statistics
  32-bit 32-to-1 multiplexer                            : 2
  32-bit 4-to-1 multiplexer                             : 3
  5-bit 2-to-1 multiplexer                              : 2
- 8-bit 2-to-1 multiplexer                              : 2
+ 8-bit 2-to-1 multiplexer                              : 3
  8-bit 4-to-1 multiplexer                              : 1
  9-bit 2-to-1 multiplexer                              : 8
 # FSMs                                                 : 3
@@ -1439,7 +1447,7 @@ INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_ram> will be implemented on LUTs eit
     | ram_type           | Distributed                         |          |
     -----------------------------------------------------------------------
     | Port A                                                              |
-    |     aspect ratio   | 4096-word x 8-bit                   |          |
+    |     aspect ratio   | 256-word x 8-bit                    |          |
     |     clkA           | connected to signal <clk>           | rise     |
     |     weA            | connected to signal <wena>          | high     |
     |     addrA          | connected to signal <addr>          |          |
@@ -1454,7 +1462,7 @@ INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_ram> will be implemented on LUTs eit
     | ram_type           | Distributed                         |          |
     -----------------------------------------------------------------------
     | Port A                                                              |
-    |     aspect ratio   | 256-word x 8-bit                    |          |
+    |     aspect ratio   | 32-word x 32-bit                    |          |
     |     clkA           | connected to signal <clk>           | rise     |
     |     weA            | connected to signal <wena>          | high     |
     |     addrA          | connected to signal <addr>          |          |
@@ -1463,20 +1471,23 @@ INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_ram> will be implemented on LUTs eit
     -----------------------------------------------------------------------
 Unit <ram_3> synthesized (advanced).
 
-Synthesizing (advanced) Unit <ram_4>.
-INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram_ram> will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+Synthesizing (advanced) Unit <ram_wf>.
+INFO:Xst:3226 - The RAM <Mram_ram> will be implemented as a BLOCK RAM, absorbing the following register(s): <data_out>
     -----------------------------------------------------------------------
-    | ram_type           | Distributed                         |          |
+    | ram_type           | Block                               |          |
     -----------------------------------------------------------------------
     | Port A                                                              |
-    |     aspect ratio   | 32-word x 32-bit                    |          |
+    |     aspect ratio   | 4096-word x 8-bit                   |          |
+    |     mode           | write-first                         |          |
     |     clkA           | connected to signal <clk>           | rise     |
     |     weA            | connected to signal <wena>          | high     |
     |     addrA          | connected to signal <addr>          |          |
     |     diA            | connected to signal <data_in>       |          |
-    |     doA            | connected to internal node          |          |
+    |     doA            | connected to signal <data_out>      |          |
     -----------------------------------------------------------------------
-Unit <ram_4> synthesized (advanced).
+    | optimization       | speed                               |          |
+    -----------------------------------------------------------------------
+Unit <ram_wf> synthesized (advanced).
 
 Synthesizing (advanced) Unit <ready_sm>.
 The following registers are absorbed into counter <addr_temp>: 1 register on signal <addr_temp>.
@@ -1510,7 +1521,7 @@ Macro Statistics
  256x32-bit single-port distributed RAM                : 1
  256x8-bit single-port distributed RAM                 : 1
  32x32-bit single-port distributed RAM                 : 1
- 4096x8-bit single-port distributed RAM                : 1
+ 4096x8-bit single-port block RAM                      : 1
  4x1-bit single-port distributed Read Only RAM         : 1
 # Multipliers                                          : 2
  21x7-bit multiplier                                   : 1
@@ -1526,8 +1537,8 @@ Macro Statistics
  11-bit up counter                                     : 2
  32-bit up counter                                     : 1
  8-bit up counter                                      : 1
-# Registers                                            : 1097
- Flip-Flops                                            : 1097
+# Registers                                            : 1105
+ Flip-Flops                                            : 1105
 # Comparators                                          : 12
  1-bit comparator equal                                : 2
  11-bit comparator greater                             : 4
@@ -1599,6 +1610,11 @@ Optimizing FSM <BEPU/kbcu/ready_sm/FSM_2> on signal <state_reg[1:3]> with one-ho
  001   | 010
  010   | 100
 -------------------
+WARNING:Xst:2677 - Node <clkmanage/clk_count_16> of sequential type is unconnected in block <top_core>.
+WARNING:Xst:2677 - Node <clkmanage/clk_count_17> of sequential type is unconnected in block <top_core>.
+WARNING:Xst:2677 - Node <clkmanage/clk_count_18> of sequential type is unconnected in block <top_core>.
+WARNING:Xst:2677 - Node <clkmanage/clk_count_19> of sequential type is unconnected in block <top_core>.
+WARNING:Xst:2677 - Node <clkmanage/clk_count_20> of sequential type is unconnected in block <top_core>.
 WARNING:Xst:2677 - Node <clkmanage/clk_count_21> of sequential type is unconnected in block <top_core>.
 WARNING:Xst:2677 - Node <clkmanage/clk_count_22> of sequential type is unconnected in block <top_core>.
 WARNING:Xst:2677 - Node <clkmanage/clk_count_23> of sequential type is unconnected in block <top_core>.
@@ -2424,9 +2440,7 @@ WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <FEPU/cpu/pipeid/rf/
 
 Mapping all equations...
 Building and optimizing final netlist ...
-Found area constraint ratio of 100 (+ 5) on block top_core, actual ratio is 31.
-FlipFlop FEPU/cpu/pcreg/data_out_2 has been replicated 1 time(s)
-FlipFlop FEPU/cpu/pcreg/data_out_4 has been replicated 1 time(s)
+Found area constraint ratio of 100 (+ 5) on block top_core, actual ratio is 30.
 FlipFlop FEPU/cpu/pcreg/data_out_5 has been replicated 1 time(s)
 FlipFlop FEPU/cpu/pcreg/data_out_6 has been replicated 1 time(s)
 FlipFlop FEPU/cpu/pcreg/data_out_7 has been replicated 1 time(s)
@@ -2437,8 +2451,8 @@ Final Macro Processing ...
 Final Register Report
 
 Macro Statistics
-# Registers                                            : 387
- Flip-Flops                                            : 387
+# Registers                                            : 388
+ Flip-Flops                                            : 388
 
 =========================================================================
 
@@ -2461,31 +2475,32 @@ Top Level Output File Name         : top_core.ngc
 
 Primitive and Black Box Usage:
 ------------------------------
-# BELS                             : 2932
+# BELS                             : 2834
 #      GND                         : 1
 #      INV                         : 8
-#      LUT1                        : 41
-#      LUT2                        : 48
-#      LUT3                        : 249
-#      LUT4                        : 209
-#      LUT5                        : 444
-#      LUT6                        : 1565
-#      MUXCY                       : 130
-#      MUXF7                       : 115
-#      MUXF8                       : 8
+#      LUT1                        : 36
+#      LUT2                        : 47
+#      LUT3                        : 245
+#      LUT4                        : 212
+#      LUT5                        : 446
+#      LUT6                        : 1508
+#      MUXCY                       : 125
+#      MUXF7                       : 97
 #      VCC                         : 1
-#      XORCY                       : 113
-# FlipFlops/Latches                : 389
-#      FDC                         : 83
+#      XORCY                       : 108
+# FlipFlops/Latches                : 390
+#      FD                          : 8
+#      FDC                         : 76
 #      FDCE                        : 30
 #      FDCE_1                      : 255
 #      FDE                         : 8
 #      FDP                         : 10
 #      FDPE_1                      : 1
 #      LD                          : 2
-# RAMS                             : 189
-#      RAM256X1S                   : 157
+# RAMS                             : 63
+#      RAM256X1S                   : 29
 #      RAM32X1S                    : 32
+#      RAMB16BWER                  : 2
 # Clock Buffers                    : 2
 #      BUFG                        : 1
 #      BUFGP                       : 1
@@ -2502,24 +2517,26 @@ Selected Device : 6slx16csg324-3
 
 
 Slice Logic Utilization: 
- Number of Slice Registers:             389  out of  18224     2%  
- Number of Slice LUTs:                 3224  out of   9112    35%  
-    Number used as Logic:              2564  out of   9112    28%  
-    Number used as Memory:              660  out of   2176    30%  
-       Number used as RAM:              660
+ Number of Slice Registers:             390  out of  18224     2%  
+ Number of Slice LUTs:                 2650  out of   9112    29%  
+    Number used as Logic:              2502  out of   9112    27%  
+    Number used as Memory:              148  out of   2176     6%  
+       Number used as RAM:              148
 
 Slice Logic Distribution: 
- Number of LUT Flip Flop pairs used:   3258
-   Number with an unused Flip Flop:    2869  out of   3258    88%  
-   Number with an unused LUT:            34  out of   3258     1%  
-   Number of fully used LUT-FF pairs:   355  out of   3258    10%  
-   Number of unique control sets:        10
+ Number of LUT Flip Flop pairs used:   2695
+   Number with an unused Flip Flop:    2305  out of   2695    85%  
+   Number with an unused LUT:            45  out of   2695     1%  
+   Number of fully used LUT-FF pairs:   345  out of   2695    12%  
+   Number of unique control sets:        11
 
 IO Utilization: 
  Number of IOs:                          38
  Number of bonded IOBs:                  38  out of    232    16%  
 
 Specific Feature Utilization:
+ Number of Block RAM/FIFO:                2  out of     32     6%  
+    Number using Block RAM only:          2
  Number of BUFG/BUFGCTRLs:                2  out of     16    12%  
  Number of DSP48A1s:                      4  out of     32    12%  
 
@@ -2544,8 +2561,8 @@ Clock Information:
 --------------------------------------------------------------------------------------------------------------------+-------------------------------------------+-------+
 Clock Signal                                                                                                        | Clock buffer(FF name)                     | Load  |
 --------------------------------------------------------------------------------------------------------------------+-------------------------------------------+-------+
-clkmanage/clk_count_20                                                                                              | BUFG                                      | 357   |
-clk                                                                                                                 | BUFGP                                     | 219   |
+clkmanage/clk_count_15                                                                                              | BUFG                                      | 355   |
+clk                                                                                                                 | BUFGP                                     | 96    |
 BEPU/vgacu/sel_rw_sm/Mram_state_reg[1]_GND_83_o_Mux_9_o(BEPU/vgacu/sel_rw_sm/Mram_state_reg[1]_GND_83_o_Mux_9_o11:O)| NONE(*)(BEPU/vgacu/sel_rw_sm/state_next_0)| 2     |
 --------------------------------------------------------------------------------------------------------------------+-------------------------------------------+-------+
 (*) This 1 clock signal(s) are generated by combinatorial logic,
@@ -2561,9 +2578,9 @@ Timing Summary:
 ---------------
 Speed Grade: -3
 
-   Minimum period: 28.698ns (Maximum Frequency: 34.846MHz)
+   Minimum period: 28.986ns (Maximum Frequency: 34.499MHz)
    Minimum input arrival time before clock: 6.259ns
-   Maximum output required time after clock: 18.877ns
+   Maximum output required time after clock: 19.022ns
    Maximum combinational path delay: 6.526ns
 
 Timing Details:
@@ -2571,26 +2588,26 @@ Timing Details:
 All values displayed in nanoseconds (ns)
 
 =========================================================================
-Timing constraint: Default period analysis for Clock 'clkmanage/clk_count_20'
-  Clock period: 28.698ns (frequency: 34.846MHz)
-  Total number of paths / destination ports: 90215277 / 696
+Timing constraint: Default period analysis for Clock 'clkmanage/clk_count_15'
+  Clock period: 28.986ns (frequency: 34.499MHz)
+  Total number of paths / destination ports: 90003643 / 694
 -------------------------------------------------------------------------
-Delay:               14.349ns (Levels of Logic = 14)
-  Source:            FEPU/cpu/pipeid/rf/regfiles_0_36 (FF)
+Delay:               14.493ns (Levels of Logic = 14)
+  Source:            FEPU/cpu/pipeid/rf/regfiles_0_37 (FF)
   Destination:       BEPU/segmentcu/segmentdisplay/ena_reg_FSM_FFd1 (FF)
-  Source Clock:      clkmanage/clk_count_20 falling
-  Destination Clock: clkmanage/clk_count_20 rising
+  Source Clock:      clkmanage/clk_count_15 falling
+  Destination Clock: clkmanage/clk_count_15 rising
 
-  Data Path: FEPU/cpu/pipeid/rf/regfiles_0_36 to BEPU/segmentcu/segmentdisplay/ena_reg_FSM_FFd1
+  Data Path: FEPU/cpu/pipeid/rf/regfiles_0_37 to BEPU/segmentcu/segmentdisplay/ena_reg_FSM_FFd1
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     FDCE_1:C->Q           4   0.447   0.912  FEPU/cpu/pipeid/rf/regfiles_0_36 (FEPU/cpu/pipeid/rf/regfiles_0_36)
-     LUT6:I3->O            1   0.205   0.684  FEPU/cpu/pipeid/rf/Mmux_raddr1[4]_regfiles[31][31]_wide_mux_37_OUT_880 (FEPU/cpu/pipeid/rf/Mmux_raddr1[4]_regfiles[31][31]_wide_mux_37_OUT_880)
-     LUT6:I4->O            3   0.203   0.651  FEPU/cpu/pipeid/rf/Mmux_rdata1271 (FEPU/cpu/rd1<4>)
-     LUT3:I2->O           15   0.205   1.210  FEPU/cpu/pipeexe/select_alua/Mmux_r271 (FEPU/cpu/pipeexe/alua<4>)
-     LUT5:I2->O            2   0.205   0.617  FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/g_p0/c_out3 (FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/g_p0/c_out2)
-     LUT5:I4->O            1   0.205   0.808  FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/g_p0/c_out6_SW0 (N124)
+     FDCE_1:C->Q           4   0.447   0.912  FEPU/cpu/pipeid/rf/regfiles_0_37 (FEPU/cpu/pipeid/rf/regfiles_0_37)
+     LUT6:I3->O            1   0.205   0.684  FEPU/cpu/pipeid/rf/Mmux_raddr2[4]_regfiles[31][31]_wide_mux_40_OUT_883 (FEPU/cpu/pipeid/rf/Mmux_raddr2[4]_regfiles[31][31]_wide_mux_40_OUT_883)
+     LUT6:I4->O           13   0.203   0.933  FEPU/cpu/pipeid/rf/Mmux_rdata2281 (FEPU_BEPU_data<5>)
+     LUT3:I2->O           19   0.205   1.072  FEPU/cpu/pipeexe/select_alub/Mmux_r281 (FEPU/cpu/pipeexe/alub<5>)
+     LUT5:I4->O            2   0.205   0.617  FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/g_p0/c_out3 (FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/g_p0/c_out2)
+     LUT5:I4->O            1   0.205   0.808  FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/g_p0/c_out6_SW0 (N122)
      LUT6:I3->O            6   0.205   0.745  FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/g_p0/c_out6 (FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/c_out)
      LUT6:I5->O           19   0.205   1.072  FEPU/cpu/pipeexe/alu/addsub/addu/cla0/g_p0/c_out1 (FEPU/cpu/pipeexe/alu/addsub/addu/cla0/c_out)
      LUT6:I5->O            1   0.205   0.580  FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla1/cla1/cla0/g_p0/c_out1 (FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla1/cla1/cla0/c_out)
@@ -2602,49 +2619,44 @@ Delay:               14.349ns (Levels of Logic = 14)
      LUT6:I5->O            1   0.205   0.000  BEPU/segmentcu/segmentdisplay/ena_reg_FSM_FFd2-In1 (BEPU/segmentcu/segmentdisplay/ena_reg_FSM_FFd2-In)
      FDC:D                     0.102          BEPU/segmentcu/segmentdisplay/ena_reg_FSM_FFd2
     ----------------------------------------
-    Total                     14.349ns (3.198ns logic, 11.151ns route)
-                                       (22.3% logic, 77.7% route)
+    Total                     14.493ns (3.198ns logic, 11.295ns route)
+                                       (22.1% logic, 77.9% route)
 
 =========================================================================
 Timing constraint: Default period analysis for Clock 'clk'
-  Clock period: 18.911ns (frequency: 52.879MHz)
-  Total number of paths / destination ports: 1316815 / 1349
+  Clock period: 15.313ns (frequency: 65.305MHz)
+  Total number of paths / destination ports: 20789 / 232
 -------------------------------------------------------------------------
-Delay:               18.911ns (Levels of Logic = 16)
-  Source:            BEPU/vgacu/sel_rw_sm/state_reg_1 (FF)
+Delay:               15.313ns (Levels of Logic = 11)
+  Source:            BEPU/vgacu/ascii_ram/Mram_ram2 (RAM)
   Destination:       BEPU/vgacu/vga/data_reg_0 (FF)
   Source Clock:      clk rising
   Destination Clock: clk rising
 
-  Data Path: BEPU/vgacu/sel_rw_sm/state_reg_1 to BEPU/vgacu/vga/data_reg_0
+  Data Path: BEPU/vgacu/ascii_ram/Mram_ram2 to BEPU/vgacu/vga/data_reg_0
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     FDC:C->Q             29   0.447   1.354  BEPU/vgacu/sel_rw_sm/state_reg_1 (BEPU/vgacu/sel_rw_sm/state_reg_1)
-     LUT2:I0->O            3   0.203   1.015  BEPU/vgacu/sel_rw_sm/sel_out<1>1 (BEPU/vgacu/sel_rw)
-     LUT6:I0->O           48   0.203   1.884  BEPU/vgacu/mux2x_vga_ram_addr/Mmux_r121 (BEPU/vgacu/ram_addr<9>)
-     LUT6:I0->O            1   0.203   0.000  BEPU/vgacu/inst_LPM_MUX6_4 (BEPU/vgacu/inst_LPM_MUX6_4)
-     MUXF7:I1->O           1   0.140   0.000  BEPU/vgacu/inst_LPM_MUX6_3_f7 (BEPU/vgacu/inst_LPM_MUX6_3_f7)
-     MUXF8:I1->O          31   0.152   1.506  BEPU/vgacu/inst_LPM_MUX6_2_f8 (BEPU/vgacu/ram_ascii<6>)
-     LUT3:I0->O           62   0.205   1.991  BEPU/vgacu/font/char_reg<219>21 (BEPU/vgacu/font/char_reg<219>2)
-     LUT6:I0->O           33   0.203   1.553  BEPU/vgacu/font/char[7]_GND_87_o_equal_36_o<7>1 (BEPU/vgacu/font/Mmux_data_out<7>6168)
-     LUT6:I2->O            4   0.203   1.028  BEPU/vgacu/font/Mmux_data_out<7>4251 (BEPU/vgacu/font/Mmux_data_out<7>425)
-     LUT6:I1->O            3   0.203   0.879  BEPU/vgacu/SF921111 (BEPU/vgacu/SF92111)
-     LUT6:I3->O            1   0.205   0.580  BEPU/vgacu/font/Mmux_data_out<7>6128 (BEPU/vgacu/font/Mmux_data_out<7>6127)
-     LUT6:I5->O            1   0.205   0.944  BEPU/vgacu/font/Mmux_data_out<7>6129 (BEPU/vgacu/font/Mmux_data_out<7>6128)
-     LUT6:I0->O            1   0.203   0.944  BEPU/vgacu/font/Mmux_data_out<7>6130 (BEPU/vgacu/font/Mmux_data_out<7>6129)
-     LUT6:I0->O            1   0.203   0.924  BEPU/vgacu/font/Mmux_data_out<7>6131 (BEPU/vgacu/font/Mmux_data_out<7>6130)
-     LUT5:I0->O            1   0.203   0.684  BEPU/vgacu/font/Mmux_data_out<7>6153 (BEPU/vgacu/font/Mmux_data_out<7>6152)
-     LUT6:I4->O            1   0.203   0.000  BEPU/vgacu/font/Mmux_data_out<7>61323_G (N1121)
-     MUXF7:I1->O           1   0.140   0.000  BEPU/vgacu/font/Mmux_data_out<7>61323 (BEPU/vgacu/ram_font<0>)
+     RAMB16BWER:CLKA->DOA2   30   1.850   1.492  BEPU/vgacu/ascii_ram/Mram_ram2 (BEPU/vgacu/ram_ascii<6>)
+     LUT3:I0->O           59   0.205   1.711  BEPU/vgacu/font/char_reg<219>21 (BEPU/vgacu/font/char_reg<219>2)
+     LUT6:I4->O           30   0.203   1.264  BEPU/vgacu/font/char[7]_GND_87_o_equal_26_o<7>1 (BEPU/vgacu/font/char[7]_GND_87_o_equal_26_o)
+     LUT6:I5->O            4   0.205   0.931  BEPU/vgacu/font/char_reg<286>11 (BEPU/vgacu/font/char_reg<286>1)
+     LUT6:I2->O            1   0.203   0.580  BEPU/vgacu/font/char_reg<291>_SW1 (N1120)
+     LUT6:I5->O            2   0.205   0.981  BEPU/vgacu/font/char_reg<291> (BEPU/vgacu/font/char_reg<205>)
+     LUT6:I0->O            1   0.203   0.924  BEPU/vgacu/font/Mmux_data_out<7>6127 (BEPU/vgacu/font/Mmux_data_out<7>6126)
+     LUT6:I1->O            1   0.203   0.924  BEPU/vgacu/font/Mmux_data_out<7>6131 (BEPU/vgacu/font/Mmux_data_out<7>6130)
+     LUT6:I1->O            1   0.203   0.924  BEPU/vgacu/font/Mmux_data_out<7>6132 (BEPU/vgacu/font/Mmux_data_out<7>6131)
+     LUT6:I1->O            1   0.203   0.580  BEPU/vgacu/font/Mmux_data_out<7>6154 (BEPU/vgacu/font/Mmux_data_out<7>6153)
+     LUT6:I5->O            1   0.205   0.808  BEPU/vgacu/font/Mmux_data_out<7>61109 (BEPU/vgacu/font/Mmux_data_out<7>61108)
+     LUT6:I3->O            1   0.205   0.000  BEPU/vgacu/font/Mmux_data_out<7>61327 (BEPU/vgacu/ram_font<0>)
      FDC:D                     0.102          BEPU/vgacu/vga/data_reg_0
     ----------------------------------------
-    Total                     18.911ns (3.626ns logic, 15.285ns route)
-                                       (19.2% logic, 80.8% route)
+    Total                     15.313ns (4.195ns logic, 11.118ns route)
+                                       (27.4% logic, 72.6% route)
 
 =========================================================================
 Timing constraint: Default OFFSET IN BEFORE for Clock 'clk'
-  Total number of paths / destination ports: 103 / 95
+  Total number of paths / destination ports: 98 / 90
 -------------------------------------------------------------------------
 Offset:              5.269ns (Levels of Logic = 4)
   Source:            ps2_data (PAD)
@@ -2665,13 +2677,13 @@ Offset:              5.269ns (Levels of Logic = 4)
                                        (41.0% logic, 59.0% route)
 
 =========================================================================
-Timing constraint: Default OFFSET IN BEFORE for Clock 'clkmanage/clk_count_20'
-  Total number of paths / destination ports: 416 / 311
+Timing constraint: Default OFFSET IN BEFORE for Clock 'clkmanage/clk_count_15'
+  Total number of paths / destination ports: 414 / 309
 -------------------------------------------------------------------------
 Offset:              6.259ns (Levels of Logic = 5)
   Source:            SW<0> (PAD)
   Destination:       BEPU/segmentcu/segmentdisplay/data_out_reg_6 (FF)
-  Destination Clock: clkmanage/clk_count_20 rising
+  Destination Clock: clkmanage/clk_count_15 rising
 
   Data Path: SW<0> to BEPU/segmentcu/segmentdisplay/data_out_reg_6
                                 Gate     Net
@@ -2680,7 +2692,7 @@ Offset:              6.259ns (Levels of Logic = 5)
      IBUF:I->O            16   1.222   1.233  SW_0_IBUF (SW_0_IBUF)
      LUT3:I0->O            7   0.205   1.021  BEPU/segmentcu/select_segment/Mmux_r161 (BEPU/segmentcu/segment_data<9>)
      LUT5:I1->O            1   0.203   0.924  BEPU/segmentcu/segmentdisplay/Mmux_PWR_75_o_ena_reg[3]_mux_9_OUT31 (BEPU/segmentcu/segmentdisplay/Mmux_PWR_75_o_ena_reg[3]_mux_9_OUT3)
-     LUT6:I1->O            1   0.203   0.944  FEPU/bc/Mmux_select21_SW3 (N395)
+     LUT6:I1->O            1   0.203   0.944  FEPU/bc/Mmux_select21_SW3 (N393)
      LUT6:I0->O            1   0.203   0.000  BEPU/segmentcu/segmentdisplay/Mmux_PWR_75_o_ena_reg[3]_mux_9_OUT35 (BEPU/segmentcu/segmentdisplay/PWR_75_o_ena_reg[3]_mux_9_OUT<2>)
      FDP:D                     0.102          BEPU/segmentcu/segmentdisplay/data_out_reg_2
     ----------------------------------------
@@ -2688,24 +2700,24 @@ Offset:              6.259ns (Levels of Logic = 5)
                                        (34.2% logic, 65.8% route)
 
 =========================================================================
-Timing constraint: Default OFFSET OUT AFTER for Clock 'clkmanage/clk_count_20'
-  Total number of paths / destination ports: 6158851 / 19
+Timing constraint: Default OFFSET OUT AFTER for Clock 'clkmanage/clk_count_15'
+  Total number of paths / destination ports: 6160771 / 19
 -------------------------------------------------------------------------
-Offset:              18.877ns (Levels of Logic = 16)
-  Source:            FEPU/cpu/pipeid/rf/regfiles_0_36 (FF)
+Offset:              19.022ns (Levels of Logic = 16)
+  Source:            FEPU/cpu/pipeid/rf/regfiles_0_37 (FF)
   Destination:       led_data<7> (PAD)
-  Source Clock:      clkmanage/clk_count_20 falling
+  Source Clock:      clkmanage/clk_count_15 falling
 
-  Data Path: FEPU/cpu/pipeid/rf/regfiles_0_36 to led_data<7>
+  Data Path: FEPU/cpu/pipeid/rf/regfiles_0_37 to led_data<7>
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     FDCE_1:C->Q           4   0.447   0.912  FEPU/cpu/pipeid/rf/regfiles_0_36 (FEPU/cpu/pipeid/rf/regfiles_0_36)
-     LUT6:I3->O            1   0.205   0.684  FEPU/cpu/pipeid/rf/Mmux_raddr1[4]_regfiles[31][31]_wide_mux_37_OUT_880 (FEPU/cpu/pipeid/rf/Mmux_raddr1[4]_regfiles[31][31]_wide_mux_37_OUT_880)
-     LUT6:I4->O            3   0.203   0.651  FEPU/cpu/pipeid/rf/Mmux_rdata1271 (FEPU/cpu/rd1<4>)
-     LUT3:I2->O           15   0.205   1.210  FEPU/cpu/pipeexe/select_alua/Mmux_r271 (FEPU/cpu/pipeexe/alua<4>)
-     LUT5:I2->O            2   0.205   0.617  FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/g_p0/c_out3 (FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/g_p0/c_out2)
-     LUT5:I4->O            1   0.205   0.808  FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/g_p0/c_out6_SW0 (N124)
+     FDCE_1:C->Q           4   0.447   0.912  FEPU/cpu/pipeid/rf/regfiles_0_37 (FEPU/cpu/pipeid/rf/regfiles_0_37)
+     LUT6:I3->O            1   0.205   0.684  FEPU/cpu/pipeid/rf/Mmux_raddr2[4]_regfiles[31][31]_wide_mux_40_OUT_883 (FEPU/cpu/pipeid/rf/Mmux_raddr2[4]_regfiles[31][31]_wide_mux_40_OUT_883)
+     LUT6:I4->O           13   0.203   0.933  FEPU/cpu/pipeid/rf/Mmux_rdata2281 (FEPU_BEPU_data<5>)
+     LUT3:I2->O           19   0.205   1.072  FEPU/cpu/pipeexe/select_alub/Mmux_r281 (FEPU/cpu/pipeexe/alub<5>)
+     LUT5:I4->O            2   0.205   0.617  FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/g_p0/c_out3 (FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/g_p0/c_out2)
+     LUT5:I4->O            1   0.205   0.808  FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/g_p0/c_out6_SW0 (N122)
      LUT6:I3->O            6   0.205   0.745  FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/g_p0/c_out6 (FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla0/c_out)
      LUT6:I5->O           19   0.205   1.072  FEPU/cpu/pipeexe/alu/addsub/addu/cla0/g_p0/c_out1 (FEPU/cpu/pipeexe/alu/addsub/addu/cla0/c_out)
      LUT6:I5->O            1   0.205   0.580  FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla1/cla1/cla0/g_p0/c_out1 (FEPU/cpu/pipeexe/alu/addsub/addu/cla0/cla1/cla1/cla0/c_out)
@@ -2718,8 +2730,8 @@ Offset:              18.877ns (Levels of Logic = 16)
      LUT3:I0->O            1   0.205   0.579  BEPU/ledcu/led/Mmux_data_out82 (led_data_7_OBUF)
      OBUF:I->O                 2.571          led_data_7_OBUF (led_data<7>)
     ----------------------------------------
-    Total                     18.877ns (5.870ns logic, 13.007ns route)
-                                       (31.1% logic, 68.9% route)
+    Total                     19.022ns (5.870ns logic, 13.152ns route)
+                                       (30.9% logic, 69.1% route)
 
 =========================================================================
 Timing constraint: Default OFFSET OUT AFTER for Clock 'clk'
@@ -2772,7 +2784,7 @@ Clock to Setup on destination clock BEPU/vgacu/sel_rw_sm/Mram_state_reg[1]_GND_8
                | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
 Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
 ---------------+---------+---------+---------+---------+
-clk            |         |         |    2.167|         |
+clk            |         |         |    1.826|         |
 ---------------+---------+---------+---------+---------+
 
 Clock to Setup on destination clock clk
@@ -2781,16 +2793,16 @@ Clock to Setup on destination clock clk
 Source Clock                                           |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
 -------------------------------------------------------+---------+---------+---------+---------+
 BEPU/vgacu/sel_rw_sm/Mram_state_reg[1]_GND_83_o_Mux_9_o|         |    1.179|         |         |
-clk                                                    |   18.911|         |         |         |
-clkmanage/clk_count_20                                 |   32.482|   37.339|         |         |
+clk                                                    |   15.313|         |         |         |
+clkmanage/clk_count_15                                 |   23.055|   27.899|         |         |
 -------------------------------------------------------+---------+---------+---------+---------+
 
-Clock to Setup on destination clock clkmanage/clk_count_20
+Clock to Setup on destination clock clkmanage/clk_count_15
 ----------------------+---------+---------+---------+---------+
                       | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
 Source Clock          |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
 ----------------------+---------+---------+---------+---------+
-clkmanage/clk_count_20|   14.205|   14.349|   14.349|         |
+clkmanage/clk_count_15|   14.362|   14.493|   14.493|         |
 ----------------------+---------+---------+---------+---------+
 
 =========================================================================
@@ -2801,9 +2813,9 @@ Total CPU time to Xst completion: 96.47 secs
  
 --> 
 
-Total memory usage is 254276 kilobytes
+Total memory usage is 254468 kilobytes
 
 Number of errors   :    0 (   0 filtered)
-Number of warnings :  906 (   0 filtered)
+Number of warnings :  911 (   0 filtered)
 Number of infos    :   27 (   0 filtered)
 

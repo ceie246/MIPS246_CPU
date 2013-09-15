@@ -8,5 +8,185 @@
 <!-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/BEPU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/FEPU.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/add.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/add1.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/addsub32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/alu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/ascii2font.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/ascii2font.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/define.v&apos; in file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/ascii2font.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/ascii2font.v</arg>&quot; Line <arg fmt="%d" index="2">88</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/global_parameter.v&apos; in file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/ascii2font.v&quot; line 88
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/barrelshifter32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/bshifter32_carry.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/bus_controller.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/cla_16.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/cla_2.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/cla_32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/cla_4.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/cla_8.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/clk_div.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/controlunit.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/dffe.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/ext.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/file_write.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/file_write.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/global.v&apos; in file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/file_write.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/file_write_regfiles.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/file_write_regfiles.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/global.v&apos; in file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/file_write_regfiles.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/g_p.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/kb2ascii.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/kb2ascii.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/define.v&apos; in file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/kb2ascii.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/kb2ascii.v</arg>&quot; Line <arg fmt="%d" index="2">27</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/global_parameter.v&apos; in file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/kb2ascii.v&quot; line 27
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/kb_controller.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/keyboard.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/led.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/led_controller.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/led_seg7.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/mux2x32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/mux4x32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/pipe_exe.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/pipe_id.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/pipe_if.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/pipe_mem.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/pipe_wb.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/ram.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/ready_sm.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/regfiles.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/segment_display_controller.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/sel_sm.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/slt.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/top_cla_32.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/top_core.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/top_core.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/global.v&apos; in file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/top_core.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/top_cpu.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/top_segment_display.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/vga.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/vga_controller.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/vga_controller.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/define.v&apos; in file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/vga_controller.v&quot; line 2
+</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1835" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/wram2asciiram_addr.v&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1065" >&quot;<arg fmt="%s" index="1">E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/wram2asciiram_addr.v</arg>&quot; Line <arg fmt="%d" index="2">2</arg>. <arg fmt="%s" index="3">Include file found: &apos;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/define.v&apos; in file &quot;E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment_v1.09/wram2asciiram_addr.v&quot; line 2
+</arg>
+</msg>
+
 </messages>
 

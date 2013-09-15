@@ -5,385 +5,385 @@
      behavior or data corruption.  It is strongly advised that
      users do not edit the contents of this file. -->
 <messages>
-<msg type="warning" file="HDLCompiler" num="1670" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ram.v" Line 47: Signal &lt;<arg fmt="%s" index="1">ram</arg>&gt; in initial block is partially initialized.
+<msg type="warning" file="HDLCompiler" num="1670" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\ram.v" Line 47: Signal &lt;<arg fmt="%s" index="1">ram</arg>&gt; in initial block is partially initialized.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_if.v" Line 42: Assignment to <arg fmt="%s" index="1">npc4_carry</arg> ignored, since the identifier is never used
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_if.v" Line 42: Assignment to <arg fmt="%s" index="1">npc4_carry</arg> ignored, since the identifier is never used
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_if.v" Line 43: Assignment to <arg fmt="%s" index="1">npc8_carry</arg> ignored, since the identifier is never used
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\pipe_if.v" Line 43: Assignment to <arg fmt="%s" index="1">npc8_carry</arg> ignored, since the identifier is never used
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles0&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles0&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles1&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles1&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles2&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles2&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles3&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles3&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles4&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles4&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles5&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles5&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles6&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles6&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles7&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles7&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles8&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles8&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles9&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles9&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles10&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles10&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles11&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles11&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles12&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles12&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles13&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles13&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles14&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles14&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles15&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles15&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles16&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles16&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles17&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles17&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles18&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles18&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles19&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles19&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles20&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles20&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles21&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles21&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles22&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles22&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles23&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles23&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles24&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles24&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles25&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles25&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles26&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles26&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles27&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles27&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles28&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles28&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles29&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles29&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles30&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles30&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles31&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;regfiles31&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 58: Assignment to <arg fmt="%s" index="1">add_cout</arg> ignored, since the identifier is never used
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 58: Assignment to <arg fmt="%s" index="1">add_cout</arg> ignored, since the identifier is never used
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="91" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 68: Signal &lt;<arg fmt="%s" index="1">add_result</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+<msg type="warning" file="HDLCompiler" num="91" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 68: Signal &lt;<arg fmt="%s" index="1">add_result</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="91" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 69: Signal &lt;<arg fmt="%s" index="1">addu_result</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+<msg type="warning" file="HDLCompiler" num="91" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 69: Signal &lt;<arg fmt="%s" index="1">addu_result</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="91" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 75: Signal &lt;<arg fmt="%s" index="1">addu_result</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+<msg type="warning" file="HDLCompiler" num="91" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 75: Signal &lt;<arg fmt="%s" index="1">addu_result</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="91" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 76: Signal &lt;<arg fmt="%s" index="1">addu_cout</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+<msg type="warning" file="HDLCompiler" num="91" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\addsub32.v" Line 76: Signal &lt;<arg fmt="%s" index="1">addu_cout</arg>&gt; missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\slt.v" Line 33: Assignment to <arg fmt="%s" index="1">c_r</arg> ignored, since the identifier is never used
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\slt.v" Line 33: Assignment to <arg fmt="%s" index="1">c_r</arg> ignored, since the identifier is never used
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cpu.v" Line 104: Assignment to <arg fmt="%s" index="1">carry</arg> ignored, since the identifier is never used
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cpu.v" Line 104: Assignment to <arg fmt="%s" index="1">carry</arg> ignored, since the identifier is never used
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cpu.v" Line 119: Assignment to <arg fmt="%s" index="1">dram_ena</arg> ignored, since the identifier is never used
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cpu.v" Line 119: Assignment to <arg fmt="%s" index="1">dram_ena</arg> ignored, since the identifier is never used
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;instr&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;instr&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
+<msg type="warning" file="HDLCompiler" num="817" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 35: System task <arg fmt="%s" index="1">fdisplay</arg> ignored for synthesis
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;pc&quot;)</arg>&gt; remains a black box.
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\file_write.v" Line 22: Empty module &lt;<arg fmt="%s" index="1">file_write(WIDTH=32,ARGUMENT=&quot;pc&quot;)</arg>&gt; remains a black box.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="634" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cpu.v" Line 34: Net &lt;<arg fmt="%s" index="1">iram_indata[31]</arg>&gt; does not have a driver.
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\top_cpu.v" Line 34: Net &lt;<arg fmt="%s" index="1">iram_indata[31]</arg>&gt; does not have a driver.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\wram2asciiram_addr.v" Line 33: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\wram2asciiram_addr.v" Line 33: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">5</arg>-bit target.
 </msg>
 
-<msg type="warning" file="HDLCompiler" num="413" delta="old" >"E:\GitHub\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\wram2asciiram_addr.v" Line 34: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">7</arg>-bit target.
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"E:\GitHub_new\MIPS246_CPU\cpu_pc_if_id_jtype_bus_led_segment\wram2asciiram_addr.v" Line 34: Result of <arg fmt="%d" index="1">12</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">7</arg>-bit target.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v</arg>&quot; line <arg fmt="%d" index="2">125</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_instr</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">top_cpu</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v</arg>&quot; line <arg fmt="%d" index="2">125</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_instr</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">top_cpu</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v</arg>&quot; line <arg fmt="%d" index="2">126</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_pc</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">top_cpu</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v</arg>&quot; line <arg fmt="%d" index="2">126</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_pc</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">top_cpu</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/regfiles.v</arg>&quot; line <arg fmt="%d" index="2">52</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write_regfiles</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/regfiles.v</arg>&quot; line <arg fmt="%d" index="2">52</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write_regfiles</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">60</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf0</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">60</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf0</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">61</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf1</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">61</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf1</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">62</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf2</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">62</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf2</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">63</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf3</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">63</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf3</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">64</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf4</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">64</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf4</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">65</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf5</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">65</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf5</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">66</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf6</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">66</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf6</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">67</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf7</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">67</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf7</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">68</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf8</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">68</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf8</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">69</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf9</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">69</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf9</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">70</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf10</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">70</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf10</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">71</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf11</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">71</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf11</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">72</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf12</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">72</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf12</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">73</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf13</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">73</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf13</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">74</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf14</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">74</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf14</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">75</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf15</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">75</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf15</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">76</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf16</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">76</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf16</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">77</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf17</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">77</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf17</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">78</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf18</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">78</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf18</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">79</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf19</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">79</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf19</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">80</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf20</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">80</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf20</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">81</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf21</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">81</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf21</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">82</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf22</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">82</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf22</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">83</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf23</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">83</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf23</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">84</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf24</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">84</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf24</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">85</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf25</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">85</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf25</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">86</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf26</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">86</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf26</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">87</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf27</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">87</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf27</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">88</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf28</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">88</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf28</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">89</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf29</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">89</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf29</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">90</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf30</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">90</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf30</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
-<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">91</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf31</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
+<msg type="warning" file="Xst" num="2972" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v</arg>&quot; line <arg fmt="%d" index="2">91</arg>. All outputs of instance &lt;<arg fmt="%s" index="3">fw_rf31</arg>&gt; of block &lt;<arg fmt="%s" index="4">file_write</arg>&gt; are unconnected in block &lt;<arg fmt="%s" index="5">file_write_regfiles</arg>&gt;. Underlying logic will be removed.
 </msg>
 
 <msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">bc_cpu_data&lt;31:0&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v</arg>&quot; line <arg fmt="%s" index="2">104</arg>: Output port &lt;<arg fmt="%s" index="3">carry</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pipeexe</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v</arg>&quot; line <arg fmt="%s" index="2">104</arg>: Output port &lt;<arg fmt="%s" index="3">carry</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pipeexe</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v</arg>&quot; line <arg fmt="%s" index="2">104</arg>: Output port &lt;<arg fmt="%s" index="3">negative</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pipeexe</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v</arg>&quot; line <arg fmt="%s" index="2">104</arg>: Output port &lt;<arg fmt="%s" index="3">negative</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pipeexe</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v</arg>&quot; line <arg fmt="%s" index="2">104</arg>: Output port &lt;<arg fmt="%s" index="3">overflow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pipeexe</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v</arg>&quot; line <arg fmt="%s" index="2">104</arg>: Output port &lt;<arg fmt="%s" index="3">overflow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pipeexe</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
 <msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">iram_indata</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_if.v</arg>&quot; line <arg fmt="%s" index="2">42</arg>: Output port &lt;<arg fmt="%s" index="3">c_out</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pcplus4</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_if.v</arg>&quot; line <arg fmt="%s" index="2">42</arg>: Output port &lt;<arg fmt="%s" index="3">c_out</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pcplus4</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_if.v</arg>&quot; line <arg fmt="%s" index="2">43</arg>: Output port &lt;<arg fmt="%s" index="3">c_out</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pcplus8</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/pipe_if.v</arg>&quot; line <arg fmt="%s" index="2">43</arg>: Output port &lt;<arg fmt="%s" index="3">c_out</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">pcplus8</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/addsub32.v</arg>&quot; line <arg fmt="%s" index="2">58</arg>: Output port &lt;<arg fmt="%s" index="3">co</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">add_32</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/addsub32.v</arg>&quot; line <arg fmt="%s" index="2">58</arg>: Output port &lt;<arg fmt="%s" index="3">co</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">add_32</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/slt.v</arg>&quot; line <arg fmt="%s" index="2">33</arg>: Output port &lt;<arg fmt="%s" index="3">c</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">addsub_slt</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/slt.v</arg>&quot; line <arg fmt="%s" index="2">33</arg>: Output port &lt;<arg fmt="%s" index="3">c</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">addsub_slt</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
-<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/slt.v</arg>&quot; line <arg fmt="%s" index="2">33</arg>: Output port &lt;<arg fmt="%s" index="3">overflow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">addsub_slt</arg>&gt; is unconnected or connected to loadless signal.
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/cpu_pc_if_id_jtype_bus_led_segment/slt.v</arg>&quot; line <arg fmt="%s" index="2">33</arg>: Output port &lt;<arg fmt="%s" index="3">overflow</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">addsub_slt</arg>&gt; is unconnected or connected to loadless signal.
 </msg>
 
 <msg type="warning" file="Xst" num="647" delta="old" >Input &lt;<arg fmt="%s" index="1">select&lt;3:30&gt;</arg>&gt; is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
@@ -419,13 +419,27 @@ It will be removed from the design.
 <msg type="info" file="Xst" num="3218" delta="old" >HDL ADVISOR - The RAM &lt;<arg fmt="%s" index="1">Mram_ram</arg>&gt; will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
 </msg>
 
-<msg type="info" file="Xst" num="3218" delta="old" >HDL ADVISOR - The RAM &lt;<arg fmt="%s" index="1">Mram_ram</arg>&gt; will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
-</msg>
+<msg type="info" file="Xst" num="3226" delta="old" >The RAM &lt;<arg fmt="%s" index="1">Mram_ram</arg>&gt; will be implemented as a BLOCK RAM, absorbing the following register(s):</msg>
 
 <msg type="info" file="Xst" num="3218" delta="old" >HDL ADVISOR - The RAM &lt;<arg fmt="%s" index="1">Mram_state_reg[1]_GND_83_o_Mux_9_o</arg>&gt; will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
 </msg>
 
 <msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">vga/data_reg_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">vga_controller</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">7 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;vga/data_reg_1&gt; &lt;vga/data_reg_2&gt; &lt;vga/data_reg_3&gt; &lt;vga/data_reg_4&gt; &lt;vga/data_reg_5&gt; &lt;vga/data_reg_6&gt; &lt;vga/data_reg_7&gt; </arg>
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clkmanage/clk_count_16</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_core</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clkmanage/clk_count_17</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_core</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">clkmanage/clk_count_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_core</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">clkmanage/clk_count_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_core</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">clkmanage/clk_count_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_core</arg>&gt;.
 </msg>
 
 <msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">clkmanage/clk_count_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_core</arg>&gt;.
@@ -467,7 +481,7 @@ It will be removed from the design.
 <msg type="warning" file="Xst" num="1710" delta="old" >FF/Latch &lt;<arg fmt="%s" index="1">data_out_reg_7</arg>&gt; (without init value) has a constant value of <arg fmt="%d" index="2">1</arg> in block &lt;<arg fmt="%s" index="3">top_segment_display</arg>&gt;. This FF/Latch will be trimmed during the optimization process.
 </msg>
 
-<msg type="info" file="Xst" num="2399" delta="new" >RAMs &lt;<arg fmt="%s" index="1">FEPU/cpu/pipeif/iram/Mram_ram9</arg>&gt;, &lt;<arg fmt="%s" index="2">FEPU/cpu/pipeif/iram/Mram_ram7</arg>&gt; are equivalent, second RAM is removed
+<msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">FEPU/cpu/pipeif/iram/Mram_ram9</arg>&gt;, &lt;<arg fmt="%s" index="2">FEPU/cpu/pipeif/iram/Mram_ram7</arg>&gt; are equivalent, second RAM is removed
 </msg>
 
 <msg type="info" file="Xst" num="2399" delta="old" >RAMs &lt;<arg fmt="%s" index="1">FEPU/cpu/pipeif/iram/Mram_ram10</arg>&gt;, &lt;<arg fmt="%s" index="2">FEPU/cpu/pipeif/iram/Mram_ram11</arg>&gt; are equivalent, second RAM is removed

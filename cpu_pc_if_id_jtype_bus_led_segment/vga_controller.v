@@ -42,6 +42,8 @@ module vga_controller(
 	wire [7:0] ram_ascii, ram_font;
 	wire ram_ena = 1'b1;
 	
+	reg [7:0] data_reg;
+	
 	assign vga_row = vga_addr[20:11];
 	assign vga_col = vga_addr[10:0];
 	assign ram_row = vga_row[9:`PIXEL_ROW_BIT];
@@ -50,10 +52,14 @@ module vga_controller(
 	assign pixel_row = vga_row[(`PIXEL_ROW_BIT - 1):0];
 	assign pixel_col = vga_col[(`PIXEL_COL_BIT - 1):0];
 	
+	always @(posedge clk) begin
+		data_reg <= wdata;
+	end
+	
 	wram2asciiram_addr real_addr(waddr, wram_addr);
 	sel_sm sel_rw_sm(clk, rst, selRW, sel_rw);
 	mux2x32 #(`RAM_ADDR) mux2x_vga_ram_addr(rram_addr, wram_addr, sel_rw, ram_addr);
-	ram #(8,`RAM_ADDR, 0) ascii_ram(clk, ram_ena, sel_rw, ram_addr, wdata, ram_ascii);
+	ram_wf #(8,`RAM_ADDR, 0) ascii_ram(clk, ram_ena, sel_rw, ram_addr, data_reg, ram_ascii);//wdata
 	ascii2font font({ram_ascii, pixel_row, pixel_col}, ram_font);
 	vga vga(clk, rst, ram_font, vga_addr, r, g, b, hs, vs);
 	

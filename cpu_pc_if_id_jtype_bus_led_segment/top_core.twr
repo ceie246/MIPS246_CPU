@@ -36,9 +36,9 @@ Setup/Hold to clock clk
             |Max Setup to|  Process   |Max Hold to |  Process   |                  | Clock  |
 Source      | clk (edge) |   Corner   | clk (edge) |   Corner   |Internal Clock(s) | Phase  |
 ------------+------------+------------+------------+------------+------------------+--------+
-ps2_clk     |    1.096(R)|      FAST  |   -0.399(R)|      SLOW  |clk_BUFGP         |   0.000|
-ps2_data    |    3.620(R)|      SLOW  |   -1.015(R)|      FAST  |clk_BUFGP         |   0.000|
-rst         |    6.439(R)|      SLOW  |   -1.269(R)|      FAST  |clk_BUFGP         |   0.000|
+ps2_clk     |    1.136(R)|      FAST  |   -0.432(R)|      SLOW  |clk_BUFGP         |   0.000|
+ps2_data    |    3.187(R)|      SLOW  |   -0.287(R)|      SLOW  |clk_BUFGP         |   0.000|
+rst         |    6.424(R)|      SLOW  |   -1.181(R)|      FAST  |clk_BUFGP         |   0.000|
 ------------+------------+------------+------------+------------+------------------+--------+
 
 Clock clk to Pad
@@ -46,17 +46,17 @@ Clock clk to Pad
             |Max (slowest) clk|  Process   |Min (fastest) clk|  Process   |                  | Clock  |
 Destination |  (edge) to PAD  |   Corner   |  (edge) to PAD  |   Corner   |Internal Clock(s) | Phase  |
 ------------+-----------------+------------+-----------------+------------+------------------+--------+
-b<0>        |        10.151(R)|      SLOW  |         5.629(R)|      FAST  |clk_BUFGP         |   0.000|
-b<1>        |         9.946(R)|      SLOW  |         5.521(R)|      FAST  |clk_BUFGP         |   0.000|
-cpu_clk     |         7.679(R)|      SLOW  |         4.135(R)|      FAST  |clk_BUFGP         |   0.000|
-g<0>        |         9.697(R)|      SLOW  |         5.357(R)|      FAST  |clk_BUFGP         |   0.000|
-g<1>        |         9.731(R)|      SLOW  |         5.432(R)|      FAST  |clk_BUFGP         |   0.000|
-g<2>        |         9.898(R)|      SLOW  |         5.561(R)|      FAST  |clk_BUFGP         |   0.000|
-hs          |        10.533(R)|      SLOW  |         5.209(R)|      FAST  |clk_BUFGP         |   0.000|
-r<0>        |        10.123(R)|      SLOW  |         5.643(R)|      FAST  |clk_BUFGP         |   0.000|
-r<1>        |         9.794(R)|      SLOW  |         5.457(R)|      FAST  |clk_BUFGP         |   0.000|
-r<2>        |         9.866(R)|      SLOW  |         5.462(R)|      FAST  |clk_BUFGP         |   0.000|
-vs          |        10.512(R)|      SLOW  |         5.126(R)|      FAST  |clk_BUFGP         |   0.000|
+b<0>        |         9.916(R)|      SLOW  |         5.604(R)|      FAST  |clk_BUFGP         |   0.000|
+b<1>        |        10.082(R)|      SLOW  |         5.706(R)|      FAST  |clk_BUFGP         |   0.000|
+cpu_clk     |         7.379(R)|      SLOW  |         3.949(R)|      FAST  |clk_BUFGP         |   0.000|
+g<0>        |        10.331(R)|      SLOW  |         5.870(R)|      FAST  |clk_BUFGP         |   0.000|
+g<1>        |        10.193(R)|      SLOW  |         5.784(R)|      FAST  |clk_BUFGP         |   0.000|
+g<2>        |        10.594(R)|      SLOW  |         6.036(R)|      FAST  |clk_BUFGP         |   0.000|
+hs          |        10.487(R)|      SLOW  |         5.252(R)|      FAST  |clk_BUFGP         |   0.000|
+r<0>        |        10.802(R)|      SLOW  |         6.168(R)|      FAST  |clk_BUFGP         |   0.000|
+r<1>        |        10.367(R)|      SLOW  |         5.897(R)|      FAST  |clk_BUFGP         |   0.000|
+r<2>        |         9.938(R)|      SLOW  |         5.626(R)|      FAST  |clk_BUFGP         |   0.000|
+vs          |        11.753(R)|      SLOW  |         5.409(R)|      FAST  |clk_BUFGP         |   0.000|
 ------------+-----------------+------------+-----------------+------------+------------------+--------+
 
 Clock to Setup on destination clock clk
@@ -64,40 +64,40 @@ Clock to Setup on destination clock clk
                | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
 Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
 ---------------+---------+---------+---------+---------+
-clk            |   18.182|         |         |         |
+clk            |   12.346|         |         |         |
 ---------------+---------+---------+---------+---------+
 
 Pad to Pad
 ---------------+---------------+---------+
 Source Pad     |Destination Pad|  Delay  |
 ---------------+---------------+---------+
-SW<1>          |led_data<0>    |   10.506|
-SW<1>          |led_data<1>    |   10.332|
-SW<1>          |led_data<2>    |   10.371|
-SW<1>          |led_data<3>    |    9.924|
-SW<1>          |led_data<4>    |   10.124|
-SW<1>          |led_data<5>    |    9.986|
-SW<1>          |led_data<6>    |    9.824|
-SW<1>          |led_data<7>    |    9.713|
-SW<2>          |led_data<0>    |   11.230|
-SW<2>          |led_data<1>    |   10.982|
-SW<2>          |led_data<2>    |   11.027|
-SW<2>          |led_data<3>    |   10.656|
-SW<2>          |led_data<4>    |   10.670|
-SW<2>          |led_data<5>    |   10.395|
-SW<2>          |led_data<6>    |   10.375|
-SW<2>          |led_data<7>    |   10.205|
+SW<1>          |led_data<0>    |   10.420|
+SW<1>          |led_data<1>    |    9.975|
+SW<1>          |led_data<2>    |    9.414|
+SW<1>          |led_data<3>    |    9.273|
+SW<1>          |led_data<4>    |    9.717|
+SW<1>          |led_data<5>    |    9.243|
+SW<1>          |led_data<6>    |    9.779|
+SW<1>          |led_data<7>    |    9.368|
+SW<2>          |led_data<0>    |   10.997|
+SW<2>          |led_data<1>    |   10.396|
+SW<2>          |led_data<2>    |    9.800|
+SW<2>          |led_data<3>    |    9.851|
+SW<2>          |led_data<4>    |   10.284|
+SW<2>          |led_data<5>    |    9.928|
+SW<2>          |led_data<6>    |   10.485|
+SW<2>          |led_data<7>    |   10.144|
 ---------------+---------------+---------+
 
 
-Analysis completed Wed Sep 11 16:08:28 2013 
+Analysis completed Sun Sep 15 19:30:12 2013 
 --------------------------------------------------------------------------------
 
 Trace Settings:
 -------------------------
 Trace Settings 
 
-Peak Memory Usage: 189 MB
+Peak Memory Usage: 177 MB
 
 
 
