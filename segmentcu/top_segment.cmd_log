@@ -1,0 +1,12 @@
+xst -intstyle ise -ifn "E:/GitHub_new/MIPS246_CPU/segmentcu/top_segment.xst" -ofn "E:/GitHub_new/MIPS246_CPU/segmentcu/top_segment.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc segment_ucf.ucf -p xc6slx16-csg324-3 top_segment.ngc top_segment.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_segment_map.ncd top_segment.ngd top_segment.pcf 
+par -w -intstyle ise -ol high -mt off top_segment_map.ncd top_segment.ncd top_segment.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_segment.twx top_segment.ncd -o top_segment.twr top_segment.pcf -ucf segment_ucf.ucf 
+bitgen -intstyle ise -f top_segment.ut top_segment.ncd 
+xst -intstyle ise -ifn "E:/GitHub_new/MIPS246_CPU/segmentcu/top_segment.xst" -ofn "E:/GitHub_new/MIPS246_CPU/segmentcu/top_segment.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc segment_ucf.ucf -p xc6slx16-csg324-3 top_segment.ngc top_segment.ngd  
+map -intstyle ise -p xc6slx16-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o top_segment_map.ncd top_segment.ngd top_segment.pcf 
+par -w -intstyle ise -ol high -mt off top_segment_map.ncd top_segment.ncd top_segment.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml top_segment.twx top_segment.ncd -o top_segment.twr top_segment.pcf -ucf segment_ucf.ucf 
+bitgen -intstyle ise -f top_segment.ut top_segment.ncd 

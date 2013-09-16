@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\GitHub_new\MIPS246_CPU\segmentcu\top_segment.ncd
+OUTFILE=E:\GitHub_new\MIPS246_CPU\segmentcu\top_segment.bit
+FAMILY=Spartan6
+PART=xc6slx16-3csg324
+WORKINGDIR=E:\GitHub_new\MIPS246_CPU\segmentcu
+LICENSE=WebPack
+USER_INFO=__0_0_0

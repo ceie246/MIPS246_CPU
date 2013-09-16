@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="1127" delta="new" >"E:\GitHub_new\MIPS246_CPU\segmentcu\top_segment.v" Line 33: Assignment to <arg fmt="%s" index="1">clk_vga</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="new" >&quot;<arg fmt="%s" index="1">e:/github_new/mips246_cpu/segmentcu/top_segment.v</arg>&quot; line <arg fmt="%s" index="2">33</arg>: Output port &lt;<arg fmt="%s" index="3">vga_clk</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">clk_div</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="old" > FFs/Latches &lt;<arg fmt="%s" index="1">data_reg</arg>&lt;<arg fmt="%d" index="2">31</arg>:<arg fmt="%d" index="3">6</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">segment_display_controller</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2404" delta="old" > FFs/Latches &lt;<arg fmt="%s" index="1">data_reg</arg>&lt;<arg fmt="%d" index="2">3</arg>:<arg fmt="%d" index="3">1</arg>&gt;&gt; (without init value) have a constant value of <arg fmt="%c" index="4">0</arg> in block &lt;<arg fmt="%s" index="5">segment_display_controller</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="3218" delta="old" >HDL ADVISOR - The RAM &lt;<arg fmt="%s" index="1">Mram_data_out_reg</arg>&gt; will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clk_div/clk_count_18</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_segment</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clk_div/clk_count_19</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_segment</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clk_div/clk_count_20</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_segment</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clk_div/clk_count_21</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_segment</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clk_div/clk_count_22</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_segment</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clk_div/clk_count_23</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_segment</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clk_div/clk_count_24</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_segment</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clk_div/clk_count_25</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_segment</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clk_div/clk_count_26</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_segment</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clk_div/clk_count_27</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_segment</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clk_div/clk_count_28</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_segment</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clk_div/clk_count_29</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_segment</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clk_div/clk_count_30</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_segment</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="new" >Node &lt;<arg fmt="%s" index="1">clk_div/clk_count_31</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">top_segment</arg>&gt;.
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">data_out_reg_1</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top_segment_display</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">2 FFs/Latches</arg>, which will be removed : <arg fmt="%s" index="4">&lt;data_out_reg_2&gt; &lt;ena_reg_FSM_FFd5&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">data_out_reg_0</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top_segment_display</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;data_out_reg_3&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2261" delta="old" >The FF/Latch &lt;<arg fmt="%s" index="1">data_out_reg_4</arg>&gt; in Unit &lt;<arg fmt="%s" index="2">top_segment_display</arg>&gt; is equivalent to the following <arg fmt="%s" index="3">FF/Latch</arg>, which will be removed : <arg fmt="%s" index="4">&lt;data_out_reg_5&gt; </arg>
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="new" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+

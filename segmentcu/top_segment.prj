@@ -1,0 +1,6 @@
+verilog work "led_seg7.v"
+verilog work "top_segment_display.v"
+verilog work "mux2x32.v"
+verilog work "segment_display_controller.v"
+verilog work "clk_div.v"
+verilog work "top_segment.v"
