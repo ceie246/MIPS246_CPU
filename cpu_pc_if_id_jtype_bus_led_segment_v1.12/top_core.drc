@@ -1,0 +1,13 @@
+Release 13.3 Drc O.76xd (nt)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+
+Mon Sep 16 23:35:10 2013
+
+drc -z top_core.ncd top_core.pcf
+
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   BEPU/vgacu/sel_rw_sm/Mram_state_reg[1]_GND_83_o_Mux_9_o is sourced by a
+   combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+DRC detected 0 errors and 1 warnings.  Please see the previously displayed
+individual error or warning messages for more details.

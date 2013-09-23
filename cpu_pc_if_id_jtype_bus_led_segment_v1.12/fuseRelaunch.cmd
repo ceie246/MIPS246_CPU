@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_core_tb_isim_beh.exe" -prj "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_core_tb_beh.prj" "work.top_core_tb" "work.glbl" 

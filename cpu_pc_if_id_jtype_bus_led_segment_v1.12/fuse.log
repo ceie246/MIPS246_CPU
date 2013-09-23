@@ -1,0 +1,160 @@
+Running: D:\Xilinx\13.3\ISE_DS\ISE\bin\nt\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_core_tb_isim_beh.exe -prj E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_core_tb_beh.prj work.top_core_tb work.glbl 
+ISim O.76xd (signature 0x2f00eba5)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/g_p.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/add.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/cla_2.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/cla_4.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/cla_8.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/cla_16.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/cla_32.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_cla_32.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/add1.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/file_write.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/barrelshifter32.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/addsub32.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/slt.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/mux4x32.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/mux2x32.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/file_write_regfiles.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/bshifter32_carry.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/regfiles.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/ram.v" into library work
+WARNING:HDLCompiler:693 - "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/ram.v" Line 37: Parameter declaration becomes local in ram with formal parameter declaration list
+WARNING:HDLCompiler:693 - "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/ram.v" Line 38: Parameter declaration becomes local in ram with formal parameter declaration list
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/led_seg7.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/ext.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/controlunit.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/alu.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/wram2asciiram_addr.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/vga.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_segment_display.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/sel_sm.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/ready_sm.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/ram_kb.v" into library work
+WARNING:HDLCompiler:693 - "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/ram_kb.v" Line 37: Parameter declaration becomes local in ram_kb with formal parameter declaration list
+WARNING:HDLCompiler:693 - "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/ram_kb.v" Line 38: Parameter declaration becomes local in ram_kb with formal parameter declaration list
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/pipe_wb.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/pipe_if.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/pipe_id.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/pipe_exe.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/led.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/keyboard.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/kb2ascii.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/dffe.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/ascii2font.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/vga_controller.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_cpu.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/segment_display_controller.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/led_controller.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/kb_controller.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/bus_controller.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/FEPU.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/clk_div.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/BEPU.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_core.v" into library work
+Analyzing Verilog file "E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_core_tb.v" into library work
+Analyzing Verilog file "D:/Xilinx/13.3/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 124520 KB
+Fuse CPU Usage: 514 ms
+Compiling module dffe(WIDTH=32)
+Compiling module ram(WIDTH=32,DEPTH=10)
+Compiling module add
+Compiling module g_p
+Compiling module cla_2
+Compiling module cla_4
+Compiling module cla_8
+Compiling module cla_16
+Compiling module cla_32
+Compiling module top_cla_32
+Compiling module mux4x32
+Compiling module pipe_if
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write(WIDTH=32,ARGUMENT="re...
+Compiling module file_write_regfiles
+Compiling module regfiles
+Compiling module controlunit
+Compiling module ext
+Compiling module ext(WIDTH=16)
+Compiling module mux2x32(WIDTH=5)
+Compiling module pipe_id
+Compiling module add1
+Compiling module addsub32
+Compiling module slt
+Compiling module barrelshifter32
+Compiling module bshifter32_carry
+Compiling module mux2x32
+Compiling module mux4x32(WIDTH=1)
+Compiling module alu
+Compiling module pipe_exe
+Compiling module pipe_wb
+Compiling module file_write(ARGUMENT="instr")
+Compiling module file_write(ARGUMENT="pc")
+Compiling module top_cpu
+Compiling module bus_controller
+Compiling module FEPU
+Compiling module led
+Compiling module mux4x32(WIDTH=8)
+Compiling module led_controller
+Compiling module led_seg7
+Compiling module top_segment_display
+Compiling module mux2x32(WIDTH=16)
+Compiling module segment_display_controller
+Compiling module wram2asciiram_addr
+Compiling module sel_sm
+Compiling module mux2x32(WIDTH=12)
+Compiling module ram(DEPTH=12,INIT=0)
+Compiling module ascii2font
+Compiling module vga
+Compiling module vga_controller
+Compiling module keyboard
+Compiling module kb2ascii
+Compiling module ready_sm
+Compiling module ram_kb(DEPTH=8,INIT=0)
+Compiling module kb_controller
+Compiling module ram(WIDTH=32,DEPTH=5,INIT=0)
+Compiling module BEPU
+Compiling module clk_div(SEL=2)
+Compiling module top_core
+Compiling module top_core_tb
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 84 sub-compilation(s) to finish...
+Compiled 91 Verilog Units
+Built simulation executable E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/top_core_tb_isim_beh.exe
+Fuse Memory Usage: 135768 KB
+Fuse CPU Usage: 1106 ms

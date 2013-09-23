@@ -1,0 +1,16 @@
+Release 13.3 - WebTalk (O.76xd)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+
+Project Information
+--------------------
+ProjectID=AEAD9D0ECBDE490C9BBA46A5591EFA33
+ProjectIteration=103
+
+WebTalk Summary
+----------------
+INFO:WebTalk:1 - WebTalk is enabled because you are using a WebPACK license.
+
+INFO:WebTalk:8 - WebTalk Install setting is ON.
+INFO:WebTalk:6 - WebTalk User setting is ON.
+
+INFO:WebTalk:4 - E:/GitHub_new/MIPS246_CPU/cpu_pc_if_id_jtype_bus_led_segment/usage_statistics_webtalk.html WebTalk report has been successfully sent to Xilinx on 2013-09-16T23:35:35.  For additional details about this file, please refer to the WebTalk help file at D:/Xilinx/13.3/ISE_DS/ISE/data/reports/webtalk_introduction.html
